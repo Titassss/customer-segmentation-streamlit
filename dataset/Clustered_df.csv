@@ -1,0 +1,2241 @@
+Income,TotalSpend,Recency,CustomerTenure,NumDealsPurchases,NumWebVisitsMonth,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,TotalChildren,Cluster,ClusterName,TotalPurchases
+58138.0,1617,58,13.32,3,7,8,10,4,0,0,High value loyal customers,22
+46344.0,27,38,11.82,2,5,1,1,2,2,3,At risk customers,4
+71613.0,776,26,12.36,1,4,8,2,10,0,1,Deal driven customers,20
+26646.0,53,26,11.89,2,6,2,0,4,1,3,At risk customers,6
+58293.0,422,94,11.95,5,5,5,3,6,1,0,High value loyal customers,14
+62513.0,716,16,12.31,2,6,6,4,10,1,0,High value loyal customers,20
+55635.0,590,34,13.13,4,6,7,3,7,1,0,High value loyal customers,17
+33454.0,169,32,12.65,2,8,4,0,4,1,2,Family budget customers,8
+30351.0,46,19,12.57,1,9,3,0,2,1,2,Family budget customers,5
+5648.0,49,68,11.8,1,20,1,0,0,2,2,Family budget customers,1
+52247.25135379061,19,11,12.13,1,7,1,0,2,1,3,At risk customers,3
+7500.0,61,59,13.13,1,8,2,0,3,0,2,Family budget customers,5
+63033.0,1102,82,12.13,1,2,3,4,8,0,1,Deal driven customers,15
+59354.0,310,53,12.13,3,6,6,1,5,2,0,High value loyal customers,12
+17323.0,46,38,13.22,1,8,1,0,3,0,2,Family budget customers,4
+82800.0,1315,23,13.1,1,3,7,6,12,0,1,Deal driven customers,25
+41850.0,96,51,13.02,3,8,3,0,3,2,2,Family budget customers,6
+37760.0,317,20,13.33,2,7,4,1,6,0,0,High value loyal customers,11
+76995.0,1782,91,12.76,2,5,11,4,9,1,0,High value loyal customers,24
+33812.0,133,86,13.16,2,6,2,1,3,1,2,Family budget customers,6
+37040.0,316,41,13.4,1,8,4,2,5,0,2,Family budget customers,11
+2447.0,1730,42,12.98,15,1,0,28,0,1,2,Family budget customers,28
+58607.0,972,63,13.02,3,8,2,3,9,1,0,High value loyal customers,14
+65324.0,544,0,11.97,3,4,6,2,9,1,0,High value loyal customers,17
+40689.0,444,69,12.79,7,8,7,1,5,1,0,High value loyal customers,13
+18589.0,75,89,12.99,2,7,2,1,3,0,2,Family budget customers,6
+53359.0,257,4,12.6,4,7,5,1,4,2,0,High value loyal customers,10
+52247.25135379061,637,19,12.86,0,1,27,0,0,1,1,Deal driven customers,27
+38360.0,131,26,12.59,2,3,2,1,4,1,3,At risk customers,7
+84618.0,1672,96,12.11,1,2,6,9,10,0,1,Deal driven customers,25
+10979.0,30,34,11.61,2,5,3,0,3,0,2,Family budget customers,6
+38620.0,318,56,12.64,1,3,2,5,3,0,1,Deal driven customers,10
+40548.0,120,31,13.22,2,5,2,1,4,1,2,Family budget customers,7
+46610.0,302,8,13.17,6,6,4,1,6,2,0,High value loyal customers,11
+68657.0,1196,4,12.86,1,7,3,5,9,0,1,Deal driven customers,17
+49389.0,65,55,12.34,1,7,2,0,3,2,3,At risk customers,5
+67353.0,913,37,12.0,5,2,5,6,12,1,1,Deal driven customers,23
+23718.0,81,76,12.33,3,7,3,1,2,1,2,Family budget customers,6
+42429.0,67,99,11.88,2,5,1,1,3,1,3,At risk customers,5
+48948.0,902,53,12.91,2,6,7,10,5,0,0,High value loyal customers,22
+80011.0,1395,3,12.67,2,4,8,6,5,1,0,High value loyal customers,19
+20559.0,53,88,12.81,2,8,2,0,3,1,2,Family budget customers,5
+21994.0,22,4,13.02,1,5,0,0,3,1,2,Family budget customers,3
+52247.25135379061,186,80,12.15,1,2,1,3,4,0,1,Deal driven customers,8
+7500.0,31,19,12.25,3,5,2,0,3,1,2,Family budget customers,5
+79941.0,984,72,11.51,1,1,2,4,9,0,1,Deal driven customers,15
+7500.0,122,24,13.14,3,9,3,1,3,0,2,Family budget customers,7
+41728.0,55,92,12.61,1,10,2,0,2,1,2,Family budget customers,4
+52247.25135379061,124,96,12.0,3,6,2,1,4,3,3,At risk customers,7
+72550.0,1319,39,13.15,9,8,5,2,12,2,0,High value loyal customers,19
+65486.0,507,29,11.64,1,2,4,2,10,1,1,Deal driven customers,16
+79143.0,1693,2,13.39,1,3,6,9,13,0,1,Deal driven customers,28
+35790.0,72,54,12.99,2,7,2,0,3,1,2,Family budget customers,5
+82582.0,1617,54,11.57,1,1,4,9,7,0,1,Deal driven customers,20
+66373.0,606,57,12.55,7,3,4,2,10,2,0,High value loyal customers,16
+82384.0,1957,55,13.12,1,1,3,10,13,0,1,Deal driven customers,26
+70287.0,1093,30,12.75,1,3,5,5,10,0,1,Deal driven customers,20
+27938.0,29,31,11.68,1,3,1,0,4,1,3,At risk customers,5
+52247.25135379061,46,57,12.54,2,6,2,0,3,1,3,At risk customers,5
+55954.0,518,63,11.83,3,7,8,2,6,1,0,High value loyal customers,16
+75777.0,1438,12,12.49,1,1,3,6,11,0,1,Deal driven customers,20
+66653.0,612,18,13.32,4,3,4,2,12,2,0,High value loyal customers,18
+61823.0,884,26,12.87,4,7,8,2,10,1,0,High value loyal customers,20
+67680.0,606,8,12.56,1,5,7,3,8,1,1,Deal driven customers,18
+70666.0,1076,29,12.07,1,4,7,4,4,0,1,Deal driven customers,15
+25721.0,34,75,12.61,1,7,1,1,2,1,2,Family budget customers,4
+32474.0,11,0,11.64,1,7,1,0,2,2,3,At risk customers,3
+88194.0,1274,19,11.79,1,5,11,10,10,1,1,Deal driven customers,31
+69096.0,653,4,12.26,1,4,5,2,10,1,1,Deal driven customers,17
+74854.0,1562,90,12.73,7,5,2,5,5,3,0,High value loyal customers,12
+66991.0,1253,1,13.3,3,3,4,8,6,0,1,Deal driven customers,18
+52247.25135379061,109,25,13.3,3,8,3,0,3,1,2,Family budget customers,6
+65031.0,863,29,12.79,4,7,10,3,13,1,0,High value loyal customers,26
+60631.0,661,88,12.74,5,7,9,2,8,2,0,High value loyal customers,19
+28332.0,65,58,11.67,1,2,2,1,4,0,3,At risk customers,7
+40246.0,13,68,13.03,1,6,1,0,2,1,2,Family budget customers,3
+75251.0,1890,34,13.35,1,5,7,6,5,0,1,Deal driven customers,18
+75825.0,2209,40,13.22,0,4,5,8,9,0,1,Deal driven customers,22
+26326.0,18,12,12.32,1,3,0,0,3,0,2,Family budget customers,3
+56046.0,692,9,12.99,2,8,10,1,8,0,0,High value loyal customers,19
+29760.0,165,87,13.34,4,8,3,1,4,1,2,Family budget customers,8
+26304.0,16,5,12.52,1,7,1,0,2,1,2,Family budget customers,3
+23559.0,79,87,12.5,3,7,3,0,3,1,2,Family budget customers,6
+38620.0,318,56,12.64,1,3,2,5,3,0,1,Deal driven customers,10
+81361.0,778,18,11.85,1,1,3,10,13,0,1,Deal driven customers,26
+29440.0,56,95,12.39,2,7,1,0,4,2,3,At risk customers,5
+36138.0,151,48,12.46,5,7,3,1,4,2,0,High value loyal customers,8
+50388.0,372,3,11.59,4,7,6,1,6,1,0,High value loyal customers,13
+79593.0,1366,70,11.64,1,2,5,6,7,0,1,Deal driven customers,18
+54178.0,194,79,11.94,1,2,2,2,5,1,1,Deal driven customers,9
+52247.25135379061,603,4,13.12,12,9,7,2,8,3,0,High value loyal customers,17
+52247.25135379061,18,45,11.6,1,7,1,0,2,2,3,At risk customers,3
+52247.25135379061,985,87,12.1,1,1,2,4,8,0,1,Deal driven customers,14
+42394.0,32,69,11.78,1,7,1,0,3,1,3,At risk customers,4
+23626.0,43,84,11.61,3,5,3,1,3,1,3,At risk customers,7
+30096.0,45,30,11.61,1,6,2,0,3,1,3,At risk customers,5
+47916.0,606,72,13.11,5,6,7,4,6,1,0,High value loyal customers,17
+51813.0,63,37,12.72,2,7,2,0,3,2,3,At risk customers,5
+78497.0,978,44,12.08,1,2,5,7,12,0,1,Deal driven customers,24
+50150.0,410,32,12.53,2,5,5,2,7,0,0,High value loyal customers,14
+47823.0,72,0,12.44,2,8,2,0,3,1,3,At risk customers,5
+34554.0,55,43,11.76,2,6,2,0,3,1,3,At risk customers,5
+85693.0,1169,59,12.7,2,5,9,5,11,1,0,High value loyal customers,25
+65846.0,1120,68,12.62,1,4,6,3,6,0,1,Deal driven customers,15
+87195.0,1097,35,11.65,1,1,3,11,5,0,1,Deal driven customers,19
+24594.0,29,94,12.06,1,5,1,0,3,1,3,At risk customers,4
+49096.0,187,15,12.27,4,7,4,1,4,2,0,High value loyal customers,9
+52413.0,910,56,12.91,4,6,6,4,12,2,0,High value loyal customers,22
+38557.0,145,17,13.03,2,7,3,1,3,1,2,Family budget customers,7
+89058.0,850,18,13.07,1,2,5,4,4,0,1,Deal driven customers,13
+77298.0,969,46,12.16,1,3,6,6,11,1,1,Deal driven customers,23
+68126.0,1820,40,13.14,1,9,7,4,5,0,0,High value loyal customers,16
+57288.0,608,27,11.52,3,6,8,1,8,1,0,High value loyal customers,17
+86037.0,730,95,12.99,1,3,6,7,11,0,1,Deal driven customers,24
+43974.0,551,19,13.05,5,7,6,4,6,1,0,High value loyal customers,16
+50785.0,114,27,12.31,2,6,2,1,3,2,3,At risk customers,6
+90765.0,1724,25,11.93,0,1,4,6,5,0,1,Deal driven customers,15
+36550.0,577,74,12.86,5,9,9,1,5,1,0,High value loyal customers,15
+30753.0,81,85,12.47,2,5,1,1,3,2,3,At risk customers,5
+21918.0,33,37,12.13,2,6,2,0,3,1,2,Family budget customers,5
+56129.0,660,65,12.53,4,4,6,2,10,1,0,High value loyal customers,18
+32557.0,80,13,11.85,3,5,2,1,3,1,3,At risk customers,6
+19510.0,30,63,12.32,2,7,1,0,3,2,2,Family budget customers,4
+30992.0,43,83,12.69,1,7,1,0,3,1,2,Family budget customers,4
+101970.0,1135,69,12.81,0,2,6,8,13,0,1,Deal driven customers,27
+71488.0,559,87,12.87,2,1,3,4,7,0,1,Deal driven customers,14
+79607.0,1923,37,12.7,1,1,3,6,6,0,1,Deal driven customers,15
+54348.0,90,51,11.56,2,6,2,0,4,2,3,At risk customers,6
+52247.25135379061,404,23,12.47,3,6,6,1,7,1,0,High value loyal customers,14
+77376.0,661,72,11.64,4,4,6,3,10,2,0,High value loyal customers,19
+62998.0,463,10,12.25,5,5,5,4,5,1,0,High value loyal customers,14
+61331.0,632,42,12.81,5,8,11,1,6,2,0,High value loyal customers,18
+73448.0,725,10,11.89,1,4,7,2,9,0,1,Deal driven customers,18
+52247.25135379061,725,96,12.39,1,4,6,5,7,1,1,Deal driven customers,18
+41551.0,279,51,12.38,5,8,5,1,5,2,0,High value loyal customers,11
+62981.0,1482,21,12.79,1,3,4,5,13,0,1,Deal driven customers,22
+9548.0,29,31,13.4,2,8,1,0,3,1,2,Family budget customers,4
+33762.0,106,61,12.48,3,8,2,2,2,3,3,At risk customers,6
+35860.0,49,37,11.62,2,5,1,1,2,2,3,At risk customers,4
+36921.0,38,74,12.43,2,7,2,0,3,2,3,At risk customers,5
+92859.0,2077,46,13.2,1,2,5,4,12,0,1,Deal driven customers,21
+65104.0,1053,4,12.13,2,7,3,5,7,1,0,High value loyal customers,15
+86111.0,1385,73,12.7,1,2,5,7,10,0,1,Deal driven customers,22
+68352.0,871,47,12.34,3,6,8,5,9,1,0,High value loyal customers,22
+41883.0,312,13,12.79,3,7,4,2,3,1,0,High value loyal customers,9
+59809.0,877,36,13.2,3,8,3,3,6,2,0,High value loyal customers,12
+23957.0,68,47,13.18,1,6,2,0,3,1,2,Family budget customers,5
+38547.0,22,49,12.34,1,8,1,0,2,1,3,At risk customers,3
+35688.0,211,94,13.36,7,8,4,1,4,3,0,High value loyal customers,9
+49605.0,127,65,11.53,1,3,2,1,4,0,3,At risk customers,7
+59354.0,459,59,11.69,1,3,4,4,7,2,1,Deal driven customers,15
+65747.0,460,96,11.82,4,6,8,1,6,1,0,High value loyal customers,15
+46344.0,429,28,13.05,4,7,7,1,5,1,0,High value loyal customers,13
+34176.0,89,12,11.64,4,6,3,0,4,1,3,At risk customers,7
+61010.0,1021,57,13.23,2,5,8,5,11,1,0,High value loyal customers,24
+69372.0,1381,10,12.86,1,4,10,4,6,0,1,Deal driven customers,20
+49967.0,306,4,12.48,3,7,6,1,5,1,0,High value loyal customers,12
+60199.0,18,49,12.3,1,4,0,0,3,3,3,At risk customers,3
+55375.0,162,3,12.21,1,2,1,1,6,1,3,At risk customers,8
+80317.0,1231,64,12.36,1,1,3,4,10,0,1,Deal driven customers,17
+30523.0,13,0,12.5,1,7,1,0,2,3,3,At risk customers,3
+70356.0,1706,20,13.15,2,6,10,6,9,0,0,High value loyal customers,25
+23228.0,121,91,11.99,4,8,3,0,4,1,3,At risk customers,7
+74165.0,1293,9,12.67,1,2,5,4,10,0,1,Deal driven customers,19
+157243.0,1608,98,11.84,15,0,0,22,0,1,1,Deal driven customers,22
+43482.0,88,83,12.13,3,6,2,0,4,3,3,At risk customers,6
+62551.0,421,27,12.12,1,3,6,7,4,0,1,Deal driven customers,17
+52332.0,259,63,12.34,1,4,3,2,6,0,1,Deal driven customers,11
+66951.0,1117,46,12.16,1,1,3,4,7,0,1,Deal driven customers,14
+26091.0,89,84,11.85,3,5,2,1,3,2,3,At risk customers,6
+33456.0,36,58,11.7,2,7,1,0,3,2,3,At risk customers,4
+28718.0,57,78,12.47,2,8,2,0,3,1,2,Family budget customers,5
+50447.0,148,4,11.7,1,6,3,1,3,2,3,At risk customers,7
+53537.0,93,17,11.92,2,5,2,1,3,2,3,At risk customers,6
+52074.0,119,77,11.74,1,4,2,2,2,1,3,At risk customers,6
+80427.0,1835,56,13.3,1,5,11,8,8,1,1,Deal driven customers,27
+83837.0,1318,79,13.04,1,4,9,10,5,0,1,Deal driven customers,24
+38853.0,45,90,11.61,2,7,2,0,3,2,3,At risk customers,5
+38285.0,10,96,11.52,1,2,0,0,3,3,3,At risk customers,3
+78497.0,978,44,12.08,1,2,5,7,12,0,1,Deal driven customers,24
+51650.0,191,81,11.64,1,5,4,1,4,1,3,At risk customers,9
+16248.0,57,77,11.64,3,6,2,1,3,1,3,At risk customers,6
+66835.0,1033,21,12.26,1,2,6,4,13,0,1,Deal driven customers,23
+30477.0,66,16,11.94,1,6,1,1,3,1,3,At risk customers,5
+28249.0,43,80,11.55,1,6,2,0,3,0,3,At risk customers,5
+25271.0,50,45,13.07,1,9,1,1,2,1,2,Family budget customers,4
+32303.0,39,63,11.82,2,5,1,0,4,1,3,At risk customers,5
+61286.0,608,34,12.41,2,5,7,1,8,1,0,High value loyal customers,16
+74068.0,1581,14,12.79,1,2,4,10,9,0,1,Deal driven customers,23
+45759.0,68,13,12.85,2,7,2,0,3,2,3,At risk customers,5
+24882.0,80,52,13.31,1,6,1,1,2,1,2,Family budget customers,4
+66973.0,1282,98,12.62,1,3,8,7,12,0,1,Deal driven customers,27
+36640.0,65,99,12.26,1,5,2,1,2,1,3,At risk customers,5
+38872.0,91,93,12.59,2,8,3,0,3,1,2,Family budget customers,6
+51148.0,315,38,12.87,4,6,5,1,6,2,0,High value loyal customers,12
+31353.0,31,24,12.01,2,8,1,1,2,2,3,At risk customers,4
+69661.0,834,80,11.64,1,3,7,3,12,0,1,Deal driven customers,22
+80067.0,1600,82,12.28,1,2,4,6,6,0,1,Deal driven customers,16
+86718.0,1270,20,12.95,1,2,5,6,5,0,1,Deal driven customers,16
+46854.0,263,81,11.75,6,8,5,1,3,2,0,High value loyal customers,9
+69142.0,535,50,11.51,3,5,8,1,7,1,0,High value loyal customers,16
+75922.0,1295,60,12.06,1,1,4,4,9,0,1,Deal driven customers,17
+63693.0,1150,63,12.21,3,6,11,6,9,1,0,High value loyal customers,26
+102160.0,1240,54,13.16,0,4,7,9,10,0,1,Deal driven customers,26
+40637.0,38,72,12.46,2,7,1,0,3,2,3,At risk customers,4
+18890.0,35,5,13.14,1,6,0,1,2,0,2,Family budget customers,3
+29604.0,53,88,12.06,1,9,1,0,3,1,3,At risk customers,4
+48721.0,293,50,12.64,6,6,4,2,5,2,0,High value loyal customers,11
+44794.0,65,99,11.56,1,6,2,0,3,1,3,At risk customers,5
+64497.0,1804,17,13.31,5,8,11,4,9,1,0,High value loyal customers,24
+46097.0,241,11,12.75,5,4,3,1,6,1,0,High value loyal customers,10
+77972.0,1101,18,11.79,1,1,4,6,9,0,1,Deal driven customers,19
+44377.0,264,70,13.24,8,8,5,1,5,2,0,High value loyal customers,11
+46014.0,541,21,12.94,10,7,7,1,8,2,0,High value loyal customers,16
+70951.0,1198,66,12.66,1,1,3,4,9,0,1,Deal driven customers,16
+41443.0,482,79,11.75,6,8,8,1,5,1,0,High value loyal customers,14
+52195.0,17,2,11.64,1,8,1,0,2,3,3,At risk customers,3
+83790.0,1615,81,12.13,1,3,8,10,6,0,1,Deal driven customers,24
+44551.0,285,24,12.33,2,7,4,1,5,1,0,High value loyal customers,10
+69508.0,1135,48,13.13,2,6,11,4,11,1,0,High value loyal customers,26
+45204.0,114,93,11.72,1,3,1,1,4,1,3,At risk customers,6
+72460.0,1047,56,12.13,1,1,3,5,7,0,1,Deal driven customers,15
+77622.0,714,3,11.72,2,3,6,3,11,2,0,High value loyal customers,20
+30732.0,185,44,12.99,4,8,4,1,4,1,0,High value loyal customers,9
+63887.0,1245,38,13.31,5,6,9,6,12,1,0,High value loyal customers,27
+42011.0,189,46,12.77,4,8,3,1,4,1,0,High value loyal customers,8
+51369.0,576,84,13.18,2,8,8,2,4,1,0,High value loyal customers,14
+51537.0,1103,27,13.06,3,8,2,2,11,1,0,High value loyal customers,15
+79930.0,1753,72,13.4,1,2,3,5,8,0,1,Deal driven customers,16
+34320.0,17,66,11.87,1,8,1,0,2,1,3,At risk customers,3
+37070.0,433,30,12.78,9,7,5,1,8,2,0,High value loyal customers,14
+81975.0,1588,2,12.99,1,7,6,3,4,1,0,High value loyal customers,13
+38590.0,22,65,12.63,1,8,1,0,2,1,2,Family budget customers,3
+15033.0,19,37,11.71,1,3,1,0,3,0,2,Family budget customers,4
+62745.0,1117,89,12.78,3,5,7,8,11,1,0,High value loyal customers,26
+22212.0,69,49,12.06,2,6,2,0,4,1,3,At risk customers,6
+23661.0,23,46,12.07,1,7,1,0,3,1,2,Family budget customers,4
+79761.0,605,32,12.24,1,3,5,2,11,1,1,Deal driven customers,18
+7500.0,57,54,12.01,4,7,3,1,3,1,2,Family budget customers,7
+60182.0,22,23,11.62,1,4,1,0,2,1,3,At risk customers,3
+73455.0,2088,98,12.18,1,3,6,5,10,0,1,Deal driven customers,21
+64961.0,1009,97,13.02,2,3,6,4,4,1,0,High value loyal customers,14
+22804.0,26,75,12.42,1,9,2,0,2,1,2,Family budget customers,4
+73687.0,1627,8,12.09,1,2,3,9,9,0,1,Deal driven customers,21
+61074.0,1102,37,13.37,7,7,11,5,8,1,0,High value loyal customers,24
+31686.0,17,31,11.57,2,6,1,0,3,2,3,At risk customers,4
+80134.0,1690,40,12.62,2,6,5,3,6,1,0,High value loyal customers,14
+75027.0,1390,74,12.98,2,5,9,4,6,1,0,High value loyal customers,19
+67546.0,2126,90,13.33,1,3,4,10,5,0,1,Deal driven customers,19
+65176.0,1531,57,13.17,4,6,9,6,6,1,0,High value loyal customers,21
+31160.0,64,59,12.29,2,8,2,0,3,1,2,Family budget customers,5
+29938.0,26,52,12.18,2,6,1,0,3,1,3,At risk customers,4
+102692.0,1112,5,12.74,1,2,6,9,13,0,1,Deal driven customers,28
+26490.0,210,92,13.27,2,6,3,1,5,0,2,Family budget customers,9
+75702.0,1148,77,13.34,5,8,4,6,11,2,0,High value loyal customers,21
+30899.0,33,35,13.22,2,6,1,0,3,1,2,Family budget customers,4
+63342.0,1101,48,13.21,3,6,8,3,5,1,0,High value loyal customers,16
+45989.0,322,97,13.19,4,3,3,2,7,1,0,High value loyal customers,12
+18701.0,44,95,12.58,4,5,2,0,4,2,2,Family budget customers,6
+40737.0,17,24,12.06,1,8,1,0,2,3,3,At risk customers,3
+15287.0,31,60,13.22,2,7,1,1,2,1,2,Family budget customers,4
+69674.0,845,46,12.61,3,5,10,2,10,2,0,High value loyal customers,22
+44159.0,275,85,11.54,4,5,4,1,6,1,0,High value loyal customers,11
+37717.0,25,31,13.1,1,9,1,0,2,1,2,Family budget customers,3
+43776.0,275,9,12.91,6,8,5,2,4,2,0,High value loyal customers,11
+38179.0,90,30,12.8,4,7,3,1,3,2,2,Family budget customers,7
+80124.0,1495,47,11.52,1,1,3,7,8,0,1,Deal driven customers,18
+38097.0,184,70,13.21,4,7,3,2,2,2,2,Family budget customers,7
+72940.0,981,13,12.53,1,1,3,3,6,0,1,Deal driven customers,12
+22070.0,67,11,12.24,2,6,2,2,2,1,2,Family budget customers,6
+69267.0,1635,31,13.27,2,7,3,4,5,0,0,High value loyal customers,12
+31788.0,60,15,11.78,3,5,3,0,4,1,3,At risk customers,7
+61905.0,231,2,11.9,2,5,4,2,4,1,3,At risk customers,10
+29315.0,48,55,11.74,4,6,2,0,4,2,3,At risk customers,6
+33378.0,99,38,12.9,3,7,2,0,4,2,2,Family budget customers,6
+66313.0,770,86,12.29,2,4,6,3,12,1,0,High value loyal customers,21
+60714.0,957,56,12.95,2,5,7,4,10,0,1,Deal driven customers,21
+77882.0,818,29,11.67,1,1,3,3,5,0,1,Deal driven customers,11
+69867.0,925,30,12.75,1,1,3,5,8,0,1,Deal driven customers,16
+63841.0,908,64,12.7,1,6,9,3,9,1,0,High value loyal customers,21
+24480.0,102,46,12.88,3,7,3,0,4,1,2,Family budget customers,7
+51369.0,576,84,13.18,2,8,8,2,4,1,0,High value loyal customers,14
+37760.0,317,20,13.33,2,7,4,1,6,0,0,High value loyal customers,11
+65640.0,461,74,11.84,1,2,5,1,8,1,1,Deal driven customers,14
+44319.0,37,18,11.71,2,5,2,0,3,2,3,At risk customers,5
+30631.0,70,75,12.47,1,7,3,1,2,1,2,Family budget customers,6
+75278.0,930,17,12.92,1,3,6,3,13,0,1,Deal driven customers,22
+50898.0,859,88,12.98,13,5,6,2,12,2,0,High value loyal customers,20
+79946.0,1478,19,11.64,1,3,5,11,5,0,1,Deal driven customers,21
+35416.0,390,62,12.55,3,8,7,1,5,0,0,High value loyal customers,13
+32414.0,52,11,12.49,1,7,1,0,3,0,2,Family budget customers,4
+38361.0,137,74,12.01,3,7,3,1,3,1,3,At risk customers,7
+82497.0,1919,32,13.17,1,4,2,7,9,0,1,Deal driven customers,18
+16626.0,68,76,11.96,3,9,3,0,3,2,3,At risk customers,6
+29672.0,25,6,12.81,1,6,0,0,3,2,2,Family budget customers,3
+55951.0,1374,62,13.36,3,8,3,6,11,1,0,High value loyal customers,20
+35388.0,32,20,12.82,1,7,1,0,3,1,2,Family budget customers,4
+42386.0,100,43,12.96,1,8,3,0,3,1,2,Family budget customers,6
+68627.0,825,45,12.97,1,1,2,3,6,0,1,Deal driven customers,11
+57912.0,916,34,11.79,5,5,8,3,12,1,0,High value loyal customers,23
+35246.0,62,53,11.71,4,5,3,1,3,2,3,At risk customers,7
+58821.0,728,44,12.22,1,6,9,2,9,1,0,High value loyal customers,20
+46377.0,90,89,11.84,1,4,2,1,3,1,3,At risk customers,6
+39747.0,273,43,11.72,3,8,5,1,4,1,3,At risk customers,10
+23976.0,66,68,12.01,3,7,3,1,3,1,3,At risk customers,7
+80950.0,1213,44,12.76,1,2,6,7,9,0,1,Deal driven customers,22
+27038.0,107,64,13.28,1,9,3,0,3,0,2,Family budget customers,6
+77457.0,1157,85,11.82,1,1,2,5,10,0,1,Deal driven customers,17
+64100.0,546,93,12.31,1,7,8,3,6,1,0,High value loyal customers,17
+42670.0,241,12,12.68,1,4,4,2,4,0,1,Deal driven customers,10
+12571.0,53,86,11.95,4,6,3,1,3,1,2,Family budget customers,7
+22574.0,37,28,12.18,2,7,2,0,3,3,3,At risk customers,5
+52247.25135379061,1611,69,12.58,1,3,6,5,12,0,1,Deal driven customers,23
+70893.0,1508,42,12.9,1,3,6,6,10,0,1,Deal driven customers,22
+54198.0,235,13,12.04,6,4,3,1,6,2,0,High value loyal customers,10
+28839.0,32,86,11.81,2,5,2,0,3,2,3,At risk customers,5
+40321.0,102,59,12.42,2,7,3,0,3,2,3,At risk customers,6
+66503.0,401,30,13.38,2,3,4,3,6,1,0,High value loyal customers,13
+30833.0,28,33,12.46,2,5,1,0,3,2,3,At risk customers,4
+52247.25135379061,1052,67,12.36,6,7,2,3,10,3,0,High value loyal customers,15
+64795.0,680,23,12.95,3,2,3,3,12,1,1,Deal driven customers,18
+34421.0,30,81,12.5,1,7,1,0,2,1,2,Family budget customers,3
+47025.0,20,6,11.89,1,7,1,0,2,2,3,At risk customers,3
+64325.0,1307,41,12.9,5,7,10,3,5,1,0,High value loyal customers,18
+40464.0,630,78,12.97,6,8,8,2,8,1,0,High value loyal customers,18
+62187.0,1283,49,12.49,1,3,4,8,5,0,1,Deal driven customers,17
+14849.0,65,39,12.5,3,8,2,0,4,1,2,Family budget customers,6
+27255.0,37,3,12.15,1,7,1,0,3,1,2,Family budget customers,4
+54432.0,38,37,12.65,1,4,1,0,3,3,3,At risk customers,4
+29999.0,160,22,12.88,4,8,3,1,4,1,2,Family budget customers,8
+24072.0,23,79,12.71,1,8,1,0,2,1,2,Family budget customers,3
+33996.0,71,46,12.3,1,4,1,1,3,0,2,Family budget customers,5
+66334.0,1161,82,12.75,2,5,9,3,5,1,0,High value loyal customers,17
+35178.0,59,10,12.97,1,7,1,1,2,1,2,Family budget customers,4
+22010.0,33,51,12.5,2,8,2,0,3,1,2,Family budget customers,5
+62204.0,946,38,13.3,1,3,4,5,12,2,0,High value loyal customers,21
+75693.0,1442,10,13.07,1,4,11,4,6,0,1,Deal driven customers,21
+30675.0,62,14,13.13,1,8,1,0,3,1,2,Family budget customers,4
+83003.0,1674,18,12.83,1,3,7,6,8,0,1,Deal driven customers,21
+83532.0,1853,36,12.26,1,1,4,6,4,0,1,Deal driven customers,14
+68655.0,1538,95,13.39,1,3,4,5,11,0,1,Deal driven customers,20
+41411.0,139,11,12.07,1,6,2,1,4,0,3,At risk customers,7
+55212.0,1182,65,13.1,3,8,4,2,11,1,0,High value loyal customers,17
+59292.0,507,71,12.55,2,3,3,5,8,1,1,Deal driven customers,16
+27190.0,18,13,12.38,1,8,1,0,2,1,2,Family budget customers,3
+82623.0,940,58,12.14,1,1,2,9,4,0,1,Deal driven customers,15
+44300.0,42,65,12.52,2,6,1,0,3,2,3,At risk customers,4
+84835.0,1190,0,11.54,1,1,4,4,6,0,1,Deal driven customers,14
+30372.0,44,33,13.02,3,7,2,0,3,2,2,Family budget customers,5
+33181.0,16,90,11.99,1,6,1,0,2,1,3,At risk customers,3
+71113.0,835,95,12.04,4,4,6,7,9,1,0,High value loyal customers,22
+71952.0,1443,93,12.97,2,4,8,4,8,1,0,High value loyal customers,20
+69759.0,1029,38,12.18,3,3,4,6,5,0,1,Deal driven customers,15
+72099.0,1188,18,13.18,1,1,3,4,10,0,1,Deal driven customers,17
+60000.0,1277,57,13.02,5,6,11,3,5,1,0,High value loyal customers,19
+38643.0,49,45,12.09,2,7,2,0,3,2,3,At risk customers,5
+50737.0,99,61,12.64,1,6,2,0,4,1,3,At risk customers,6
+68462.0,1670,6,13.05,1,1,3,3,8,0,1,Deal driven customers,14
+65073.0,900,65,12.36,1,2,5,3,5,0,1,Deal driven customers,13
+46681.0,425,52,12.23,2,5,4,6,4,2,0,High value loyal customers,14
+78618.0,2153,87,13.26,1,2,4,7,10,0,1,Deal driven customers,21
+62187.0,636,38,11.78,3,4,6,2,10,1,0,High value loyal customers,18
+28442.0,57,53,11.85,3,4,2,1,4,2,3,At risk customers,7
+37717.0,25,31,13.1,1,9,1,0,2,1,2,Family budget customers,3
+51479.0,494,67,13.01,7,7,6,3,6,2,0,High value loyal customers,15
+54803.0,693,65,13.36,2,4,6,2,9,1,0,High value loyal customers,17
+79530.0,1348,64,12.62,1,2,4,10,11,0,1,Deal driven customers,25
+31615.0,51,82,12.79,2,7,2,0,3,1,2,Family budget customers,5
+72025.0,1932,27,13.12,1,3,4,3,8,0,1,Deal driven customers,15
+52614.0,990,63,13.08,2,8,2,4,8,1,0,High value loyal customers,14
+35684.0,30,66,11.69,1,6,1,0,3,1,3,At risk customers,4
+48178.0,254,69,13.18,6,8,5,1,4,2,0,High value loyal customers,10
+29548.0,29,52,12.34,1,4,1,1,2,1,3,At risk customers,4
+63810.0,1371,45,13.14,4,8,4,3,12,1,0,High value loyal customers,19
+38578.0,73,2,12.53,3,8,3,0,3,2,3,At risk customers,6
+46098.0,120,86,13.37,4,8,3,2,2,2,0,High value loyal customers,7
+22585.0,81,23,12.79,1,9,1,1,2,0,2,Family budget customers,4
+30279.0,37,13,13.0,1,8,1,0,3,1,2,Family budget customers,4
+66426.0,1377,14,12.25,2,6,3,5,10,1,0,High value loyal customers,18
+30822.0,51,92,12.55,1,7,1,0,3,1,2,Family budget customers,4
+33581.0,17,38,12.98,1,8,1,0,2,2,2,Family budget customers,3
+19986.0,22,74,12.13,1,7,0,0,3,1,2,Family budget customers,3
+27421.0,324,14,13.05,3,7,4,1,6,0,0,High value loyal customers,11
+35688.0,211,94,13.36,7,8,4,1,4,3,0,High value loyal customers,9
+36143.0,19,33,11.76,1,3,0,1,2,1,3,At risk customers,3
+10245.0,41,32,12.63,3,5,1,2,2,1,2,Family budget customers,5
+43795.0,492,11,12.21,3,7,7,3,4,1,0,High value loyal customers,14
+63381.0,1005,78,13.24,4,2,4,5,13,1,0,High value loyal customers,22
+38823.0,114,56,13.34,1,6,2,1,3,1,2,Family budget customers,6
+83664.0,1173,57,12.65,3,5,2,2,12,2,0,High value loyal customers,16
+90300.0,1738,7,11.99,0,1,5,6,8,0,1,Deal driven customers,19
+62499.0,222,0,12.06,2,4,3,1,6,1,3,At risk customers,10
+74293.0,1127,66,11.66,1,2,5,4,6,0,1,Deal driven customers,15
+51012.0,209,86,12.7,1,6,4,1,4,0,2,Family budget customers,9
+70777.0,787,80,11.85,3,3,5,3,12,1,1,Deal driven customers,20
+68682.0,1598,56,12.24,1,2,4,9,10,0,1,Deal driven customers,23
+43824.0,186,18,13.29,4,8,3,1,4,2,0,High value loyal customers,8
+15345.0,47,51,13.33,2,8,1,1,2,1,2,Family budget customers,4
+23442.0,27,71,13.02,1,7,1,0,3,1,2,Family budget customers,4
+14515.0,96,71,13.14,4,7,2,2,3,1,2,Family budget customers,7
+31395.0,64,80,12.78,4,6,2,1,3,2,3,At risk customers,6
+75276.0,1040,2,13.26,1,5,9,4,9,0,1,Deal driven customers,22
+42373.0,163,83,12.38,5,5,2,1,5,2,3,At risk customers,8
+30507.0,343,29,12.81,1,7,5,1,4,0,2,Family budget customers,10
+55521.0,446,11,12.19,9,7,6,3,6,3,0,High value loyal customers,15
+48006.0,41,55,11.56,1,6,1,0,3,2,3,At risk customers,4
+27213.0,70,19,13.34,3,8,2,0,4,1,2,Family budget customers,6
+65808.0,272,1,11.59,3,6,5,1,5,2,0,High value loyal customers,11
+30351.0,46,19,12.57,1,9,3,0,2,1,2,Family budget customers,5
+50437.0,490,28,13.21,3,7,7,1,8,2,0,High value loyal customers,16
+23616.0,79,76,13.12,2,8,3,0,3,1,2,Family budget customers,6
+53858.0,915,50,13.14,4,4,4,3,6,1,0,High value loyal customers,13
+66465.0,1485,1,12.76,3,6,11,9,12,1,0,High value loyal customers,32
+46923.0,369,90,13.36,3,7,5,1,7,1,0,High value loyal customers,13
+75072.0,1073,83,12.94,2,3,5,4,8,1,1,Deal driven customers,17
+75865.0,1242,73,11.75,1,1,3,5,10,0,1,Deal driven customers,18
+19789.0,78,24,12.11,3,5,2,1,3,1,2,Family budget customers,6
+80134.0,1378,11,11.88,1,5,2,7,11,0,1,Deal driven customers,20
+91065.0,1474,33,12.85,1,3,7,9,9,0,1,Deal driven customers,25
+49505.0,751,4,12.82,9,8,10,2,8,2,0,High value loyal customers,20
+37401.0,48,14,11.65,2,7,2,0,3,1,3,At risk customers,5
+30096.0,45,30,11.61,1,6,2,0,3,1,3,At risk customers,5
+18492.0,10,75,11.57,1,8,1,0,2,1,3,At risk customers,3
+82584.0,1435,26,12.58,1,1,3,4,8,0,1,Deal driven customers,15
+93027.0,2119,77,12.72,0,2,7,10,5,0,1,Deal driven customers,22
+48686.0,20,8,12.07,1,8,1,0,2,3,3,At risk customers,3
+92910.0,1795,42,11.69,1,1,6,7,13,0,1,Deal driven customers,26
+75433.0,1188,28,11.74,2,6,2,5,10,1,1,Deal driven customers,17
+10404.0,43,52,11.66,2,5,1,0,4,1,2,Family budget customers,5
+61314.0,1008,1,12.68,2,3,5,5,12,1,1,Deal driven customers,22
+84865.0,1688,1,12.65,1,4,2,4,9,0,1,Deal driven customers,15
+42387.0,684,42,13.17,5,8,8,1,7,1,0,High value loyal customers,16
+67309.0,1082,76,12.94,15,7,9,6,9,2,0,High value loyal customers,24
+75236.0,1068,27,12.1,1,4,8,3,13,1,1,Deal driven customers,24
+30015.0,57,28,11.91,2,5,1,0,4,1,3,At risk customers,5
+50943.0,46,49,12.53,1,5,1,0,3,1,3,At risk customers,4
+67272.0,733,12,12.03,3,5,6,2,12,1,0,High value loyal customers,20
+51529.0,467,14,12.32,2,8,9,1,5,1,0,High value loyal customers,15
+32011.0,122,89,12.36,3,7,2,1,4,1,3,At risk customers,7
+7500.0,36,96,12.9,2,8,2,0,3,1,2,Family budget customers,5
+28691.0,34,56,12.49,1,8,1,0,3,1,2,Family budget customers,4
+56223.0,156,72,12.03,2,4,2,1,5,1,3,At risk customers,8
+18100.0,14,14,12.4,1,5,0,0,3,0,2,Family budget customers,3
+30279.0,37,13,13.0,1,8,1,0,3,1,2,Family budget customers,4
+20130.0,34,99,11.79,1,8,1,0,3,0,2,Family budget customers,4
+23295.0,20,72,12.47,1,8,1,0,2,0,2,Family budget customers,3
+42618.0,192,92,12.23,2,8,5,0,4,1,3,At risk customers,9
+81246.0,1379,87,12.01,1,1,4,5,7,0,1,Deal driven customers,16
+24027.0,48,7,12.56,2,8,2,0,3,1,2,Family budget customers,5
+55707.0,428,91,12.02,2,3,3,2,9,1,1,Deal driven customers,14
+57959.0,868,71,12.67,5,3,4,7,11,1,0,High value loyal customers,22
+56796.0,1001,24,12.87,3,7,8,9,7,1,0,High value loyal customers,24
+36230.0,59,17,12.21,1,5,2,0,4,1,3,At risk customers,6
+70829.0,431,87,12.08,2,3,4,2,8,2,0,High value loyal customers,14
+65991.0,971,21,13.32,3,7,9,5,10,1,0,High value loyal customers,24
+38988.0,348,90,13.36,7,8,5,1,6,3,0,High value loyal customers,12
+89572.0,2059,44,13.29,1,4,7,7,9,0,1,Deal driven customers,23
+42207.0,265,71,12.75,4,6,4,1,5,1,0,High value loyal customers,10
+50300.0,270,52,11.6,2,2,2,1,8,1,3,At risk customers,11
+66664.0,1289,78,13.27,1,3,5,7,6,0,1,Deal driven customers,18
+60597.0,893,2,12.0,4,7,2,2,8,1,0,High value loyal customers,12
+70165.0,926,60,12.27,1,1,3,7,11,0,1,Deal driven customers,21
+50520.0,135,25,11.92,2,6,3,1,3,1,3,At risk customers,7
+80124.0,1495,47,11.52,1,1,3,7,8,0,1,Deal driven customers,18
+33183.0,120,46,11.85,2,7,4,0,3,1,3,At risk customers,7
+66582.0,1288,83,11.83,1,1,2,8,9,0,1,Deal driven customers,19
+75261.0,1743,17,12.69,1,2,5,6,5,0,1,Deal driven customers,16
+31880.0,15,13,13.17,1,8,1,0,2,1,2,Family budget customers,3
+53790.0,542,86,11.82,3,6,7,2,8,2,0,High value loyal customers,17
+49269.0,890,92,13.38,3,7,7,3,12,1,0,High value loyal customers,22
+61456.0,1388,47,12.76,4,4,6,10,13,1,0,High value loyal customers,29
+37406.0,17,18,12.22,1,8,1,0,2,1,3,At risk customers,3
+56937.0,906,81,13.41,7,6,8,6,9,1,0,High value loyal customers,23
+38415.0,44,91,12.99,2,7,1,0,3,2,2,Family budget customers,4
+20518.0,25,58,11.62,1,5,1,1,2,1,3,At risk customers,4
+62503.0,973,40,12.87,4,5,8,3,11,1,0,High value loyal customers,22
+41644.0,31,67,11.65,2,3,1,0,3,2,3,At risk customers,4
+55842.0,518,19,11.61,1,5,7,1,8,1,1,Deal driven customers,16
+62010.0,530,93,13.19,4,5,6,2,7,1,0,High value loyal customers,15
+41124.0,506,41,13.17,7,8,7,3,4,1,0,High value loyal customers,14
+38961.0,70,60,12.0,1,7,2,1,2,1,3,At risk customers,5
+37760.0,54,54,12.39,1,6,2,0,3,1,3,At risk customers,5
+32233.0,296,26,13.37,2,9,6,2,2,1,2,Family budget customers,10
+43057.0,266,30,12.17,4,5,4,2,5,1,0,High value loyal customers,11
+83151.0,747,93,13.22,1,3,5,9,4,0,1,Deal driven customers,18
+78825.0,895,35,13.3,1,3,5,10,13,0,1,Deal driven customers,28
+65104.0,1053,4,12.13,2,7,3,5,7,1,0,High value loyal customers,15
+60093.0,735,92,12.52,2,6,7,2,10,1,0,High value loyal customers,19
+14045.0,20,24,11.93,1,7,1,0,3,1,2,Family budget customers,4
+28457.0,205,96,13.18,1,8,4,1,4,0,2,Family budget customers,9
+78952.0,2092,11,13.27,2,6,2,5,12,1,0,High value loyal customers,19
+46310.0,309,99,13.08,2,8,6,1,5,1,0,High value loyal customers,12
+76005.0,1722,72,12.85,1,6,3,5,13,0,1,Deal driven customers,21
+58308.0,900,77,12.97,4,8,2,6,3,1,0,High value loyal customers,11
+55614.0,682,85,12.09,1,7,9,4,6,0,1,Deal driven customers,19
+59432.0,663,88,12.72,3,5,5,3,11,1,0,High value loyal customers,19
+55563.0,43,22,11.74,1,3,2,0,3,1,3,At risk customers,5
+78642.0,1816,83,12.7,1,6,4,9,4,1,1,Deal driven customers,17
+67911.0,976,63,11.61,3,3,6,7,11,1,1,Deal driven customers,24
+65275.0,746,9,12.75,1,2,4,3,13,0,1,Deal driven customers,20
+27203.0,64,92,13.4,2,8,1,1,2,2,2,Family budget customers,4
+48330.0,32,2,12.13,1,5,1,0,3,1,3,At risk customers,4
+24279.0,263,6,13.01,1,8,4,1,3,0,2,Family budget customers,8
+64355.0,1445,66,13.35,2,8,4,3,12,1,0,High value loyal customers,19
+50943.0,46,49,12.53,1,5,1,0,3,1,3,At risk customers,4
+53653.0,1210,29,13.15,2,6,10,4,12,0,0,High value loyal customers,26
+65665.0,945,77,12.08,1,3,5,10,8,1,1,Deal driven customers,23
+81217.0,1157,77,12.45,1,1,3,7,11,0,1,Deal driven customers,21
+34935.0,137,71,12.53,1,7,2,1,4,0,2,Family budget customers,7
+61250.0,730,49,13.04,6,5,5,2,12,1,0,High value loyal customers,19
+39665.0,216,97,12.6,3,7,4,2,3,1,0,High value loyal customers,9
+60152.0,943,6,12.76,1,3,6,4,12,1,1,Deal driven customers,22
+48920.0,347,93,12.2,3,7,6,2,5,2,0,High value loyal customers,13
+89120.0,1924,78,11.79,1,1,5,6,7,0,1,Deal driven customers,18
+44124.0,397,62,12.64,4,8,6,2,5,1,0,High value loyal customers,13
+81169.0,2089,47,12.72,1,2,5,7,9,0,1,Deal driven customers,21
+36443.0,138,9,12.91,4,8,3,1,3,2,2,Family budget customers,7
+26095.0,42,77,12.5,1,7,1,0,3,1,2,Family budget customers,4
+71367.0,777,24,12.36,1,2,4,5,7,0,1,Deal driven customers,16
+80184.0,1902,19,11.84,1,3,6,3,10,0,1,Deal driven customers,19
+30630.0,52,67,11.93,2,7,2,0,3,2,3,At risk customers,5
+73454.0,1651,95,11.84,1,5,2,4,6,0,1,Deal driven customers,12
+42691.0,358,48,12.38,1,5,5,1,6,0,1,Deal driven customers,12
+70503.0,1727,73,13.25,1,6,2,4,9,0,1,Deal driven customers,15
+25545.0,210,35,13.31,3,6,2,2,3,1,2,Family budget customers,7
+32880.0,42,76,13.07,1,8,1,0,3,1,2,Family budget customers,4
+77863.0,1291,20,12.09,1,2,4,5,10,0,1,Deal driven customers,19
+50353.0,442,72,11.56,1,3,4,4,6,0,1,Deal driven customers,14
+61839.0,1895,20,13.39,1,8,4,8,4,0,1,Deal driven customers,16
+49154.0,411,69,12.16,6,6,4,1,8,2,0,High value loyal customers,13
+47682.0,521,80,12.87,4,5,4,3,8,1,0,High value loyal customers,15
+72679.0,1168,65,12.28,1,1,4,7,5,1,1,Deal driven customers,16
+57954.0,493,52,11.54,7,7,8,2,6,2,0,High value loyal customers,16
+65316.0,260,65,12.69,2,4,3,2,5,2,0,High value loyal customers,10
+28567.0,46,57,12.54,2,6,2,0,3,1,2,Family budget customers,5
+47352.0,319,70,12.72,4,7,6,1,5,1,0,High value loyal customers,12
+44931.0,96,0,11.95,1,5,2,1,3,1,3,At risk customers,6
+76982.0,1062,19,11.87,1,4,8,3,4,0,1,Deal driven customers,15
+57247.0,232,50,12.4,2,2,2,1,7,1,1,Deal driven customers,10
+22944.0,76,67,12.02,3,7,3,0,3,1,3,At risk customers,6
+25315.0,54,46,12.15,3,8,3,0,3,1,2,Family budget customers,6
+43638.0,201,37,13.4,2,7,4,1,4,1,0,High value loyal customers,9
+42710.0,406,38,13.09,2,6,4,5,3,1,0,High value loyal customers,12
+84169.0,1919,9,12.4,1,3,7,6,6,0,1,Deal driven customers,19
+54058.0,662,56,12.58,2,3,4,6,8,1,1,Deal driven customers,18
+24683.0,41,98,11.82,2,5,2,0,4,1,3,At risk customers,6
+85620.0,1600,68,11.98,1,1,3,6,4,0,1,Deal driven customers,13
+47850.0,134,72,12.08,1,6,3,0,4,1,3,At risk customers,7
+19514.0,69,47,11.93,4,8,3,1,2,2,3,At risk customers,6
+27159.0,21,33,11.76,2,6,1,0,3,2,3,At risk customers,4
+39548.0,54,87,11.75,2,3,1,1,3,2,3,At risk customers,5
+21474.0,91,0,11.73,2,7,3,1,2,1,3,At risk customers,6
+60504.0,526,73,11.9,2,6,6,2,8,1,0,High value loyal customers,16
+22419.0,162,74,12.7,1,8,3,2,2,0,2,Family budget customers,7
+81698.0,1008,4,12.15,1,1,3,8,13,0,1,Deal driven customers,24
+43462.0,240,50,13.3,6,8,4,1,5,2,0,High value loyal customers,10
+54880.0,795,57,12.84,2,5,6,2,11,1,0,High value loyal customers,19
+79908.0,1772,30,12.74,1,2,5,6,7,0,1,Deal driven customers,18
+15315.0,64,27,12.41,2,5,2,0,4,0,2,Family budget customers,6
+87771.0,1957,61,12.61,1,6,5,10,4,1,1,Deal driven customers,19
+33039.0,78,4,12.31,1,5,2,0,4,1,3,At risk customers,6
+81741.0,1572,75,12.54,0,2,6,6,7,0,1,Deal driven customers,19
+71499.0,795,12,12.52,2,4,8,3,13,1,0,High value loyal customers,24
+62466.0,889,13,11.96,5,4,6,3,12,1,0,High value loyal customers,21
+48799.0,331,9,12.15,3,3,3,2,7,1,0,High value loyal customers,12
+52157.0,265,48,11.57,2,4,3,2,5,1,3,At risk customers,10
+66565.0,1065,80,13.07,4,8,4,2,9,1,0,High value loyal customers,15
+29298.0,11,60,12.32,1,5,1,0,2,2,3,At risk customers,3
+47691.0,21,43,12.49,1,6,1,0,2,1,3,At risk customers,3
+38200.0,17,19,13.07,1,7,1,0,2,2,2,Family budget customers,3
+44989.0,369,26,13.3,5,6,5,1,5,1,0,High value loyal customers,11
+38443.0,38,58,11.93,2,7,1,0,3,2,3,At risk customers,4
+38593.0,177,42,12.3,3,8,4,1,3,1,3,At risk customers,8
+64413.0,279,27,12.42,1,5,5,1,5,1,0,High value loyal customers,11
+36959.0,62,56,12.25,2,8,2,0,3,1,3,At risk customers,5
+61996.0,1230,27,12.92,3,5,6,4,8,1,0,High value loyal customers,18
+51287.0,182,10,11.75,3,7,4,1,3,2,3,At risk customers,8
+13260.0,49,48,12.36,4,8,3,0,3,2,2,Family budget customers,6
+47472.0,75,39,12.29,2,5,2,0,4,2,3,At risk customers,6
+54603.0,227,85,12.48,6,7,4,2,4,2,0,High value loyal customers,10
+45207.0,215,64,13.14,5,6,3,1,6,2,0,High value loyal customers,10
+40689.0,444,69,12.79,7,8,7,1,5,1,0,High value loyal customers,13
+47821.0,47,54,12.2,1,8,1,0,3,2,3,At risk customers,4
+27450.0,143,57,12.71,1,7,2,1,3,0,2,Family budget customers,6
+39453.0,55,64,11.75,2,6,2,0,3,1,3,At risk customers,5
+26850.0,63,10,11.7,4,4,2,1,4,2,3,At risk customers,7
+79800.0,1867,65,13.27,1,3,5,11,5,0,1,Deal driven customers,21
+61794.0,611,74,12.3,2,2,4,4,10,1,1,Deal driven customers,18
+53863.0,473,4,11.62,3,7,7,1,7,1,0,High value loyal customers,15
+24221.0,55,94,12.36,1,4,1,1,3,0,2,Family budget customers,5
+39684.0,81,41,13.22,2,7,2,1,2,1,2,Family budget customers,5
+92163.0,2086,25,13.05,0,2,5,11,5,0,1,Deal driven customers,21
+69882.0,1478,94,12.14,1,1,3,7,9,0,1,Deal driven customers,19
+33178.0,49,9,11.92,1,4,1,0,3,1,3,At risk customers,4
+59973.0,382,47,12.3,1,1,3,4,7,0,1,Deal driven customers,14
+17459.0,69,12,12.28,3,7,3,1,2,1,2,Family budget customers,6
+23910.0,67,80,13.18,1,7,2,0,3,1,2,Family budget customers,5
+42169.0,30,20,12.2,2,8,1,0,3,2,3,At risk customers,4
+26224.0,63,39,12.58,3,6,2,1,3,1,2,Family budget customers,6
+31089.0,79,57,13.37,3,8,3,0,4,1,2,Family budget customers,7
+30081.0,42,27,12.86,1,7,1,0,3,1,2,Family budget customers,4
+62807.0,819,83,13.33,3,5,5,3,12,1,0,High value loyal customers,20
+72906.0,1151,79,12.29,1,1,3,4,9,0,1,Deal driven customers,16
+61467.0,594,69,13.06,3,5,5,2,10,2,0,High value loyal customers,17
+49618.0,129,77,12.93,4,7,3,1,3,2,0,High value loyal customers,7
+21888.0,213,15,13.01,4,10,5,1,2,1,2,Family budget customers,8
+42429.0,67,99,11.88,2,5,1,1,3,1,3,At risk customers,5
+26150.0,28,61,12.81,1,7,1,0,3,3,3,At risk customers,4
+30801.0,45,23,13.18,2,7,1,0,3,1,2,Family budget customers,4
+81168.0,1193,84,11.65,1,3,6,4,7,0,1,Deal driven customers,17
+26877.0,268,74,12.37,2,6,3,1,6,0,2,Family budget customers,10
+45006.0,266,90,12.45,1,3,3,1,7,0,1,Deal driven customers,11
+18978.0,37,41,13.05,1,8,1,0,3,1,2,Family budget customers,4
+22574.0,37,28,12.18,2,7,2,0,3,3,3,At risk customers,5
+48240.0,882,73,13.14,3,5,6,3,13,0,0,High value loyal customers,22
+45837.0,373,88,12.43,5,7,6,2,5,2,0,High value loyal customers,13
+35791.0,35,94,12.65,2,8,1,0,3,3,3,At risk customers,4
+162397.0,107,31,12.58,0,1,0,0,1,2,3,At risk customers,1
+54162.0,42,31,12.79,1,4,1,0,3,2,3,At risk customers,4
+30522.0,326,6,13.37,5,2,1,2,9,1,0,High value loyal customers,12
+54456.0,404,23,12.47,3,6,6,1,7,1,0,High value loyal customers,14
+31632.0,95,92,12.47,1,7,2,1,2,0,2,Family budget customers,5
+72298.0,939,52,11.81,1,1,4,3,6,0,1,Deal driven customers,13
+36975.0,33,50,12.01,1,7,1,0,3,1,3,At risk customers,4
+72635.0,981,54,12.58,1,3,6,8,6,0,1,Deal driven customers,20
+13624.0,36,93,12.95,2,6,2,0,3,1,2,Family budget customers,5
+84196.0,1237,56,12.58,1,3,8,4,7,1,1,Deal driven customers,19
+70971.0,1825,28,13.28,7,7,11,11,5,1,0,High value loyal customers,27
+34487.0,103,94,13.32,3,9,3,0,3,2,2,Family budget customers,6
+28769.0,191,76,13.04,3,9,4,1,4,1,2,Family budget customers,9
+69084.0,1586,43,12.12,2,8,7,3,13,1,0,High value loyal customers,23
+65488.0,963,46,11.55,1,1,3,4,6,0,1,Deal driven customers,13
+62466.0,889,13,11.96,5,4,6,3,12,1,0,High value loyal customers,21
+32218.0,93,27,11.87,1,7,2,1,3,0,3,At risk customers,6
+83917.0,1587,12,12.7,1,3,6,7,7,0,1,Deal driven customers,20
+46102.0,16,3,11.81,1,7,1,0,2,3,3,At risk customers,3
+84574.0,1375,72,12.58,1,5,9,11,11,0,1,Deal driven customers,31
+56181.0,393,6,12.98,1,4,4,2,7,1,0,High value loyal customers,13
+63120.0,1477,53,13.26,5,7,8,4,9,1,0,High value loyal customers,21
+73691.0,1179,58,12.15,2,2,6,2,8,1,1,Deal driven customers,16
+63381.0,1005,78,13.24,4,2,4,5,13,1,0,High value loyal customers,22
+76140.0,1348,57,11.64,1,2,5,9,6,0,1,Deal driven customers,20
+62859.0,1307,37,13.0,4,6,9,4,6,1,0,High value loyal customers,19
+45906.0,486,20,12.65,2,5,5,4,4,1,0,High value loyal customers,13
+77632.0,2252,73,12.81,1,2,4,2,6,0,1,Deal driven customers,12
+46463.0,235,56,12.37,7,6,3,1,6,2,0,High value loyal customers,10
+105471.0,1724,36,12.94,0,3,9,8,13,0,1,Deal driven customers,30
+55282.0,235,9,12.05,1,4,3,1,6,1,3,At risk customers,10
+78710.0,1092,42,11.61,3,4,7,6,12,1,1,Deal driven customers,25
+66886.0,599,28,12.29,2,5,7,1,7,1,0,High value loyal customers,15
+98777.0,2008,23,11.87,0,1,4,6,9,0,1,Deal driven customers,19
+29103.0,48,38,13.35,2,9,1,0,3,1,2,Family budget customers,4
+67445.0,1174,63,13.39,5,6,9,6,12,1,0,High value loyal customers,27
+50616.0,67,71,11.72,1,2,1,1,4,1,3,At risk customers,6
+49431.0,365,9,13.41,2,8,7,1,5,1,0,High value loyal customers,13
+153924.0,6,81,11.9,0,0,0,0,0,0,3,At risk customers,0
+61278.0,165,87,11.99,2,6,3,1,4,1,3,At risk customers,8
+26490.0,210,92,13.27,2,6,3,1,5,0,2,Family budget customers,9
+73059.0,1095,36,12.33,1,4,9,3,13,1,1,Deal driven customers,25
+46734.0,223,86,12.19,4,6,3,2,3,3,3,At risk customers,8
+56253.0,597,83,13.07,4,6,7,2,9,1,0,High value loyal customers,18
+19986.0,22,74,12.13,1,7,0,0,3,1,2,Family budget customers,3
+58330.0,1064,87,12.02,1,4,6,4,13,1,1,Deal driven customers,23
+25965.0,74,29,13.32,1,8,2,0,3,0,2,Family budget customers,5
+14661.0,26,88,13.0,1,6,1,0,3,0,2,Family budget customers,4
+18690.0,60,77,13.01,1,8,1,1,2,0,2,Family budget customers,4
+45068.0,20,25,12.63,1,7,1,0,2,1,2,Family budget customers,3
+21063.0,59,34,12.27,2,6,2,0,3,1,2,Family budget customers,5
+29187.0,34,43,12.65,1,8,1,0,3,1,2,Family budget customers,4
+54690.0,198,76,12.15,3,3,3,1,5,2,3,At risk customers,9
+59304.0,1048,81,12.42,3,5,7,8,10,1,0,High value loyal customers,25
+59247.0,574,87,12.15,5,6,5,2,9,2,0,High value loyal customers,16
+66731.0,1029,33,13.3,4,3,4,3,6,1,0,High value loyal customers,13
+77353.0,670,38,12.04,2,4,6,4,8,1,1,Deal driven customers,18
+52614.0,990,63,13.08,2,8,2,4,8,1,0,High value loyal customers,14
+26751.0,11,26,11.61,1,8,1,0,2,2,3,At risk customers,3
+81300.0,1241,17,13.17,3,5,10,3,5,1,0,High value loyal customers,18
+70337.0,576,75,11.99,1,1,2,2,12,0,1,Deal driven customers,16
+36145.0,172,13,12.54,4,9,4,1,3,1,2,Family budget customers,8
+65295.0,664,19,12.02,1,2,3,3,13,0,1,Deal driven customers,19
+68118.0,928,51,12.2,2,6,8,9,4,1,0,High value loyal customers,21
+68743.0,2074,81,13.34,1,7,11,5,13,0,1,Deal driven customers,29
+41039.0,467,32,12.44,1,8,8,1,5,0,0,High value loyal customers,14
+38946.0,257,84,12.19,2,5,3,1,6,1,3,At risk customers,10
+65777.0,1146,87,12.03,1,1,2,8,6,0,1,Deal driven customers,16
+66476.0,689,99,12.82,2,4,5,2,11,1,0,High value loyal customers,18
+86857.0,2114,96,13.3,1,2,5,6,10,0,1,Deal driven customers,21
+160803.0,1717,21,13.41,15,0,0,28,1,0,1,Deal driven customers,29
+77845.0,1346,40,11.63,1,1,3,5,12,0,1,Deal driven customers,20
+69476.0,1044,3,12.25,1,2,4,6,4,0,1,Deal driven customers,14
+50611.0,493,98,13.24,6,6,4,5,7,1,0,High value loyal customers,16
+61209.0,957,73,12.35,1,2,5,3,4,0,1,Deal driven customers,12
+42315.0,270,90,12.47,3,3,1,4,4,1,3,At risk customers,9
+13084.0,29,29,12.16,1,6,1,0,3,0,2,Family budget customers,4
+47570.0,121,3,12.59,3,7,2,2,2,2,3,At risk customers,6
+61923.0,126,94,12.43,1,3,2,1,4,2,3,At risk customers,7
+34824.0,23,65,11.77,1,6,1,0,2,0,3,At risk customers,3
+26518.0,57,33,12.73,3,8,2,0,3,2,2,Family budget customers,5
+45938.0,636,46,12.16,2,6,8,4,6,0,0,High value loyal customers,18
+78468.0,1004,29,11.73,1,4,10,7,10,0,1,Deal driven customers,27
+78901.0,734,99,12.29,3,4,9,3,5,1,0,High value loyal customers,17
+71427.0,614,26,11.81,2,4,8,2,8,2,0,High value loyal customers,18
+71022.0,1453,30,11.88,3,8,5,2,11,1,0,High value loyal customers,18
+90247.0,1621,27,11.67,1,1,3,4,7,0,1,Deal driven customers,14
+41335.0,187,24,12.01,3,7,4,1,4,1,3,At risk customers,9
+71952.0,1443,93,12.97,2,4,8,4,8,1,0,High value loyal customers,20
+35682.0,57,34,11.51,1,2,1,1,3,1,3,At risk customers,5
+43185.0,637,88,12.73,2,8,9,3,6,1,0,High value loyal customers,18
+66375.0,948,96,12.11,3,7,2,4,5,1,0,High value loyal customers,11
+35178.0,59,10,12.97,1,7,1,1,2,1,2,Family budget customers,4
+25252.0,18,26,12.47,1,8,1,0,2,1,2,Family budget customers,3
+55250.0,903,49,13.19,4,5,7,5,10,1,0,High value loyal customers,22
+33249.0,112,11,12.86,2,6,2,1,3,1,2,Family budget customers,6
+58398.0,596,44,12.63,3,4,5,4,8,0,1,Deal driven customers,17
+50272.0,233,75,12.4,3,7,4,1,5,1,0,High value loyal customers,10
+76618.0,1511,64,13.07,1,1,3,2,5,0,1,Deal driven customers,10
+87305.0,1152,19,13.27,1,2,5,3,8,0,1,Deal driven customers,16
+25851.0,48,45,12.88,2,7,2,0,3,1,2,Family budget customers,5
+58710.0,1185,77,12.75,6,6,11,5,9,1,0,High value loyal customers,25
+45160.0,21,9,11.76,1,7,1,0,2,2,3,At risk customers,3
+74806.0,965,1,13.03,2,4,5,4,5,1,0,High value loyal customers,14
+59111.0,869,90,12.67,1,7,11,1,8,0,0,High value loyal customers,20
+18988.0,16,43,11.61,2,7,1,0,3,1,3,At risk customers,4
+72190.0,1947,79,12.88,1,3,5,6,4,0,1,Deal driven customers,15
+7500.0,71,19,13.42,5,9,4,1,2,1,2,Family budget customers,7
+44794.0,65,99,11.56,1,6,2,0,3,1,3,At risk customers,5
+80395.0,1380,62,12.1,1,2,6,5,12,0,1,Deal driven customers,23
+75012.0,1027,41,11.93,1,1,3,8,11,0,1,Deal driven customers,22
+56962.0,411,60,12.22,7,7,6,3,5,3,0,High value loyal customers,14
+89891.0,836,17,12.71,1,4,11,6,8,0,1,Deal driven customers,25
+35946.0,11,24,12.26,1,5,0,0,3,2,3,At risk customers,3
+53593.0,480,60,13.4,8,8,7,2,6,2,0,High value loyal customers,15
+66373.0,606,57,12.55,7,3,4,2,10,2,0,High value loyal customers,16
+45072.0,284,74,12.21,5,8,6,1,4,3,0,High value loyal customers,11
+89694.0,1472,22,12.23,3,5,4,3,4,2,0,High value loyal customers,11
+72025.0,1677,46,11.67,1,2,4,8,13,0,1,Deal driven customers,25
+67432.0,1335,69,12.76,2,4,8,5,4,1,0,High value loyal customers,17
+70545.0,334,29,11.58,1,2,4,1,7,1,1,Deal driven customers,12
+17487.0,18,37,12.79,1,7,1,0,2,1,2,Family budget customers,3
+62882.0,1338,26,13.39,2,4,7,5,6,1,0,High value loyal customers,18
+64108.0,1099,8,12.78,4,5,6,9,11,1,0,High value loyal customers,26
+34941.0,97,26,12.82,2,8,3,0,3,2,2,Family budget customers,6
+48767.0,63,79,12.0,3,5,2,1,3,3,3,At risk customers,6
+38702.0,109,71,12.42,2,6,3,0,4,1,3,At risk customers,7
+82224.0,902,83,11.93,1,3,6,9,5,0,1,Deal driven customers,20
+83844.0,1574,57,12.64,1,1,4,4,11,0,1,Deal driven customers,19
+17003.0,38,37,12.06,3,5,2,0,4,1,2,Family budget customers,6
+71163.0,960,30,11.81,1,1,3,8,12,0,1,Deal driven customers,23
+33697.0,28,34,12.29,1,7,1,0,2,1,2,Family budget customers,3
+63564.0,1215,0,11.92,1,6,10,10,7,0,1,Deal driven customers,27
+83443.0,1497,89,12.0,1,2,6,10,5,0,1,Deal driven customers,21
+51518.0,449,92,12.24,2,3,3,2,10,1,1,Deal driven customers,15
+58330.0,1064,87,12.02,1,4,6,4,13,1,1,Deal driven customers,23
+80952.0,1757,20,12.84,1,8,8,5,11,0,1,Deal driven customers,24
+75507.0,1440,56,11.67,1,3,8,6,6,0,1,Deal driven customers,20
+63855.0,1006,28,12.89,1,4,7,3,13,0,1,Deal driven customers,23
+62220.0,1226,55,13.39,5,6,7,6,5,1,0,High value loyal customers,18
+58512.0,1171,25,12.28,5,8,3,4,8,1,0,High value loyal customers,15
+40662.0,92,0,12.8,2,4,2,1,3,1,2,Family budget customers,6
+38829.0,99,86,11.74,1,5,3,2,2,1,3,At risk customers,7
+35523.0,66,8,12.24,2,7,3,0,3,1,3,At risk customers,6
+79146.0,564,33,11.69,2,6,8,1,8,2,0,High value loyal customers,17
+78285.0,1427,13,12.18,1,3,6,4,10,0,1,Deal driven customers,20
+31626.0,86,12,12.64,1,7,2,1,2,1,2,Family budget customers,5
+75127.0,833,92,11.61,1,1,2,11,5,0,1,Deal driven customers,18
+48726.0,242,90,12.68,3,6,3,2,4,1,0,High value loyal customers,9
+74985.0,1869,8,13.3,1,2,3,6,7,0,1,Deal driven customers,16
+67430.0,1364,6,13.32,1,6,11,5,12,0,1,Deal driven customers,28
+46891.0,183,91,12.33,1,4,2,1,4,1,3,At risk customers,7
+62058.0,450,52,12.6,4,6,6,1,7,1,0,High value loyal customers,14
+72063.0,758,3,12.5,2,2,5,2,12,1,1,Deal driven customers,19
+78939.0,1507,57,12.05,1,3,8,5,6,0,1,Deal driven customers,19
+42720.0,654,9,12.69,8,8,7,3,7,2,0,High value loyal customers,17
+33622.0,81,22,12.72,3,7,2,0,4,2,2,Family budget customers,6
+6835.0,137,76,13.06,0,20,0,0,1,1,2,Family budget customers,1
+41452.0,16,86,12.82,1,7,1,0,2,2,3,At risk customers,3
+40760.0,93,64,12.34,2,6,2,1,3,1,3,At risk customers,6
+74250.0,1158,90,11.93,1,1,2,11,4,0,1,Deal driven customers,17
+51124.0,43,79,12.04,2,3,1,0,3,2,3,At risk customers,4
+72258.0,1525,28,12.3,2,2,6,9,5,1,1,Deal driven customers,20
+71466.0,1230,86,11.74,1,1,4,4,10,0,1,Deal driven customers,18
+36283.0,29,42,11.72,2,4,1,0,3,2,3,At risk customers,4
+20587.0,25,39,11.64,1,7,1,1,2,1,3,At risk customers,4
+30467.0,24,8,11.79,1,7,1,0,2,1,3,At risk customers,3
+31590.0,38,40,12.54,1,8,1,0,3,1,2,Family budget customers,4
+20425.0,57,5,13.17,2,7,2,0,3,1,2,Family budget customers,5
+17144.0,47,96,11.87,5,7,3,0,4,2,3,At risk customers,7
+42564.0,813,28,12.99,6,7,6,8,4,1,0,High value loyal customers,18
+43783.0,629,22,11.59,6,7,7,1,8,1,0,High value loyal customers,16
+40780.0,377,30,13.31,4,9,7,1,5,1,0,High value loyal customers,13
+62847.0,1612,45,12.96,1,2,3,6,4,0,1,Deal driven customers,13
+82017.0,729,58,13.15,1,2,5,4,7,0,1,Deal driven customers,16
+16813.0,50,49,12.45,1,7,2,0,3,0,2,Family budget customers,5
+51267.0,270,37,12.17,4,4,3,3,5,2,0,High value loyal customers,11
+46524.0,177,70,12.74,2,3,1,1,5,1,3,At risk customers,7
+45183.0,315,33,12.95,1,7,4,1,7,0,0,High value loyal customers,12
+70421.0,767,98,11.51,3,6,10,3,7,1,0,High value loyal customers,20
+60161.0,1071,17,13.19,3,8,11,4,8,1,0,High value loyal customers,23
+73926.0,1580,54,12.83,1,3,6,5,12,0,1,Deal driven customers,23
+19329.0,60,39,12.05,3,8,4,0,3,1,2,Family budget customers,7
+61872.0,573,81,12.05,4,4,4,4,9,1,0,High value loyal customers,17
+46984.0,41,71,12.77,1,5,1,0,3,2,3,At risk customers,4
+34838.0,170,62,12.95,3,6,2,1,4,2,2,Family budget customers,7
+82716.0,1167,8,12.15,1,2,6,8,13,0,1,Deal driven customers,27
+48192.0,1526,76,12.74,3,8,2,8,12,0,0,High value loyal customers,22
+49681.0,458,66,12.16,6,7,7,1,7,2,0,High value loyal customers,15
+56850.0,63,83,11.78,1,2,1,1,3,1,3,At risk customers,5
+55267.0,405,28,12.19,4,3,3,4,6,1,0,High value loyal customers,13
+59666.0,1027,87,12.78,7,8,3,2,8,2,0,High value loyal customers,13
+72504.0,1478,43,12.74,2,2,5,9,6,1,1,Deal driven customers,20
+26872.0,72,0,12.21,1,6,1,1,2,0,2,Family budget customers,4
+21359.0,48,1,12.7,2,8,2,0,3,1,2,Family budget customers,5
+73170.0,726,1,11.59,1,2,5,4,6,0,1,Deal driven customers,15
+52750.0,860,72,12.9,6,4,5,7,9,1,0,High value loyal customers,21
+91820.0,1497,72,12.1,0,1,5,5,12,0,1,Deal driven customers,22
+65968.0,495,12,11.64,2,3,5,4,7,1,1,Deal driven customers,16
+30772.0,20,89,11.81,1,6,1,0,2,2,3,At risk customers,3
+22507.0,570,67,13.1,3,9,10,2,4,0,0,High value loyal customers,16
+65685.0,769,54,11.76,1,5,9,2,9,1,1,Deal driven customers,20
+25804.0,55,34,12.33,2,8,2,0,3,1,2,Family budget customers,5
+76412.0,1808,15,12.66,1,3,5,4,8,0,1,Deal driven customers,17
+22063.0,55,43,12.4,2,7,2,0,3,1,2,Family budget customers,5
+57091.0,577,0,11.55,1,5,7,3,7,0,1,Deal driven customers,17
+22419.0,162,74,12.7,1,8,3,2,2,0,2,Family budget customers,7
+87771.0,1957,61,12.61,1,6,5,10,4,1,1,Deal driven customers,19
+78353.0,1576,51,12.71,1,8,10,2,11,1,0,High value loyal customers,23
+93404.0,1616,97,12.65,3,5,3,4,7,3,0,High value loyal customers,14
+37859.0,36,75,12.97,2,8,1,0,3,3,3,At risk customers,4
+80995.0,1482,83,12.64,1,4,8,9,4,1,1,Deal driven customers,21
+16529.0,22,23,11.84,1,6,1,0,3,1,2,Family budget customers,4
+55412.0,63,65,12.11,1,5,2,0,3,2,3,At risk customers,5
+48789.0,680,94,13.31,1,6,6,4,7,0,1,Deal driven customers,17
+56575.0,542,42,12.66,3,5,7,3,7,2,0,High value loyal customers,17
+25130.0,50,10,12.25,2,7,2,0,3,1,2,Family budget customers,5
+35441.0,39,94,12.88,2,8,1,0,3,2,2,Family budget customers,4
+71391.0,1043,50,12.76,5,3,6,5,12,1,0,High value loyal customers,23
+49494.0,385,46,12.68,2,7,6,1,5,1,0,High value loyal customers,12
+81702.0,1633,98,13.27,1,3,7,7,12,0,1,Deal driven customers,26
+45889.0,46,42,12.5,1,6,1,0,3,1,3,At risk customers,4
+56628.0,761,30,11.78,2,5,7,6,5,1,0,High value loyal customers,18
+34026.0,76,11,12.41,3,5,2,1,3,2,3,At risk customers,6
+40049.0,290,61,13.09,3,5,3,2,6,1,0,High value loyal customers,11
+34176.0,89,12,11.64,4,6,3,0,4,1,3,At risk customers,7
+19419.0,70,76,13.14,4,9,4,0,3,1,2,Family budget customers,7
+82504.0,1066,2,12.43,1,1,3,6,7,0,1,Deal driven customers,16
+81205.0,2009,43,11.96,1,2,5,6,7,0,1,Deal driven customers,18
+61618.0,1345,27,13.25,2,3,3,6,8,0,1,Deal driven customers,17
+55284.0,764,60,13.02,3,5,7,5,8,1,0,High value loyal customers,20
+49980.0,195,79,12.19,2,5,3,1,5,1,3,At risk customers,9
+15072.0,53,96,12.64,4,5,3,1,3,2,2,Family budget customers,7
+49166.0,368,17,12.55,2,6,5,3,3,1,0,High value loyal customers,11
+65324.0,544,0,11.97,3,4,6,2,9,1,0,High value loyal customers,17
+82347.0,1853,38,13.15,1,3,7,7,10,0,1,Deal driven customers,24
+30843.0,35,43,11.6,2,5,1,1,2,2,3,At risk customers,4
+46374.0,446,1,11.79,3,8,7,1,7,1,0,High value loyal customers,15
+60474.0,1180,25,12.75,7,7,10,2,12,1,0,High value loyal customers,24
+38576.0,41,2,11.83,1,7,1,0,3,1,3,At risk customers,4
+55357.0,727,66,12.86,3,5,6,2,11,2,0,High value loyal customers,19
+37758.0,40,49,13.24,2,8,1,0,3,2,2,Family budget customers,4
+85710.0,1062,5,12.66,1,2,6,9,10,0,1,Deal driven customers,25
+23228.0,40,71,11.93,2,8,2,0,3,1,3,At risk customers,5
+44602.0,292,35,11.87,6,8,6,1,4,2,0,High value loyal customers,11
+7500.0,15,94,12.98,1,6,0,0,3,0,2,Family budget customers,3
+38683.0,341,80,13.24,6,7,4,1,6,1,0,High value loyal customers,11
+49514.0,369,61,12.04,2,7,6,1,4,1,0,High value loyal customers,11
+57906.0,401,29,12.56,3,4,4,2,8,1,0,High value loyal customers,14
+43456.0,393,0,12.77,3,5,5,1,8,1,0,High value loyal customers,14
+19485.0,10,80,12.27,1,7,1,0,2,2,3,At risk customers,3
+53172.0,486,54,12.65,3,3,2,3,8,1,0,High value loyal customers,13
+30545.0,69,71,13.21,2,7,2,0,3,1,2,Family budget customers,5
+70123.0,1727,27,12.26,1,3,5,7,4,0,1,Deal driven customers,16
+62450.0,995,61,11.98,2,3,5,5,4,1,1,Deal driven customers,14
+21675.0,45,55,11.56,3,7,4,0,3,1,3,At risk customers,7
+42395.0,182,35,11.74,4,7,3,1,4,2,3,At risk customers,8
+61346.0,989,34,12.24,1,3,5,7,10,1,1,Deal driven customers,22
+80812.0,1677,95,12.29,1,2,4,8,5,0,1,Deal driven customers,17
+42835.0,595,64,12.5,7,6,6,6,4,2,0,High value loyal customers,16
+39922.0,156,30,12.88,2,8,3,0,4,1,2,Family budget customers,7
+86424.0,1226,12,11.74,1,1,6,9,12,0,1,Deal driven customers,27
+17117.0,128,96,12.95,4,9,3,1,3,1,2,Family budget customers,7
+24762.0,86,16,11.89,3,8,3,1,2,1,3,At risk customers,6
+35797.0,68,16,13.21,2,8,2,0,3,1,2,Family budget customers,5
+36627.0,16,78,12.44,1,5,0,0,3,2,3,At risk customers,3
+51111.0,55,83,11.53,2,6,2,0,3,2,3,At risk customers,5
+86857.0,2114,96,13.3,1,2,5,6,10,0,1,Deal driven customers,21
+82072.0,2018,67,12.5,1,1,3,2,13,0,1,Deal driven customers,18
+46231.0,263,87,13.1,4,9,6,1,4,3,0,High value loyal customers,11
+42243.0,55,34,12.05,2,7,2,0,3,2,3,At risk customers,5
+51195.0,564,46,12.75,8,8,9,2,5,2,0,High value loyal customers,16
+68092.0,1281,7,12.04,2,5,2,6,10,0,1,Deal driven customers,18
+31814.0,83,73,12.89,2,9,2,0,3,1,2,Family budget customers,5
+51390.0,353,54,13.31,6,5,5,2,5,2,0,High value loyal customers,12
+76630.0,1003,93,11.96,1,1,3,10,11,0,1,Deal driven customers,24
+26868.0,14,52,11.67,1,7,1,0,2,1,3,At risk customers,3
+48948.0,902,53,12.91,2,6,7,10,5,0,0,High value loyal customers,22
+55260.0,1139,81,13.05,2,6,8,10,5,1,0,High value loyal customers,23
+64090.0,797,8,12.4,1,5,6,9,4,1,1,Deal driven customers,19
+78331.0,1638,97,11.94,2,4,10,6,7,1,1,Deal driven customers,23
+37087.0,401,50,12.39,3,6,4,2,8,1,0,High value loyal customers,14
+21846.0,84,38,12.19,4,8,4,0,3,1,2,Family budget customers,7
+81320.0,928,61,12.9,1,2,4,3,10,0,1,Deal driven customers,17
+54137.0,203,46,12.38,2,6,4,1,4,1,0,High value loyal customers,9
+66825.0,858,73,12.47,1,2,4,5,6,0,1,Deal driven customers,15
+57100.0,409,19,12.07,1,3,3,3,6,0,1,Deal driven customers,12
+58917.0,282,10,12.77,5,5,4,1,6,3,0,High value loyal customers,11
+85072.0,1423,94,11.73,1,0,3,4,10,0,1,Deal driven customers,17
+86429.0,1449,10,12.11,0,2,7,4,7,0,1,Deal driven customers,18
+45684.0,28,37,12.08,1,7,1,0,2,1,3,At risk customers,3
+47889.0,67,94,11.99,1,5,2,0,3,1,3,At risk customers,5
+45921.0,199,23,11.81,1,4,2,1,6,0,3,At risk customers,9
+78420.0,1453,75,12.51,1,1,3,10,8,0,1,Deal driven customers,21
+75114.0,1253,40,12.15,1,2,3,10,5,0,1,Deal driven customers,18
+52278.0,1198,24,12.93,6,8,10,5,10,1,0,High value loyal customers,25
+35641.0,178,11,12.47,2,7,3,1,4,1,2,Family budget customers,8
+95529.0,1990,29,13.08,1,3,7,3,7,0,1,Deal driven customers,17
+62820.0,976,51,12.64,1,1,3,4,6,0,1,Deal driven customers,13
+73113.0,1001,86,12.01,1,2,3,4,7,0,1,Deal driven customers,14
+84169.0,1919,9,12.4,1,3,7,6,6,0,1,Deal driven customers,19
+42607.0,350,30,12.12,2,3,3,2,7,1,1,Deal driven customers,12
+74637.0,1650,73,12.62,1,3,6,9,9,0,1,Deal driven customers,24
+46015.0,46,25,11.72,1,7,1,0,3,2,3,At risk customers,4
+72354.0,1228,67,12.71,1,1,2,10,6,0,1,Deal driven customers,18
+39858.0,95,67,12.93,1,6,2,0,4,1,2,Family budget customers,6
+34469.0,62,58,11.66,3,4,1,1,4,2,3,At risk customers,6
+83033.0,1761,82,11.62,1,5,11,4,10,1,1,Deal driven customers,25
+24401.0,467,98,13.33,3,8,6,1,6,0,0,High value loyal customers,13
+77583.0,1149,93,11.89,1,2,4,5,9,0,1,Deal driven customers,18
+74116.0,2052,53,12.0,1,2,4,4,10,0,1,Deal driven customers,18
+74293.0,1127,66,11.66,1,2,5,4,6,0,1,Deal driven customers,15
+68397.0,1416,6,12.12,1,3,6,9,5,1,1,Deal driven customers,20
+79632.0,1113,42,11.73,1,2,6,4,9,0,1,Deal driven customers,19
+46107.0,125,78,11.89,1,3,1,1,4,1,3,At risk customers,6
+64950.0,966,29,13.39,2,7,11,2,10,1,0,High value loyal customers,23
+25443.0,32,82,13.02,1,8,1,0,3,1,2,Family budget customers,4
+75127.0,833,92,11.61,1,1,2,11,5,0,1,Deal driven customers,18
+32892.0,46,78,11.6,2,8,3,0,3,1,3,At risk customers,6
+71796.0,960,54,12.19,1,4,9,3,4,0,1,Deal driven customers,16
+67536.0,1829,45,12.61,3,8,11,5,11,1,0,High value loyal customers,27
+55239.0,779,59,12.47,3,5,7,5,11,1,0,High value loyal customers,23
+60554.0,811,8,12.39,2,6,8,4,9,1,0,High value loyal customers,21
+64831.0,1120,51,12.56,8,6,6,3,5,2,0,High value loyal customers,14
+56067.0,725,51,12.45,2,5,7,4,7,1,0,High value loyal customers,18
+82025.0,1187,76,12.59,1,1,3,2,6,0,1,Deal driven customers,11
+94384.0,2302,62,12.83,0,2,5,8,5,0,1,Deal driven customers,18
+14906.0,66,86,13.02,3,7,2,1,3,0,2,Family budget customers,6
+51563.0,1250,60,13.25,1,8,4,4,10,0,1,Deal driven customers,18
+57937.0,683,56,11.87,3,3,4,4,9,1,1,Deal driven customers,17
+68274.0,305,83,12.25,2,3,4,2,5,2,0,High value loyal customers,11
+39771.0,50,92,12.07,1,4,2,0,3,1,3,At risk customers,5
+67893.0,995,31,13.25,2,8,3,2,9,1,0,High value loyal customers,14
+27922.0,41,80,11.64,1,4,2,0,3,1,3,At risk customers,5
+52190.0,77,39,11.65,3,5,2,1,3,2,3,At risk customers,6
+44051.0,171,20,12.92,4,6,3,1,4,2,0,High value loyal customers,8
+42767.0,131,53,12.64,1,8,3,1,2,2,3,At risk customers,6
+46106.0,54,84,11.64,1,6,1,1,2,2,3,At risk customers,4
+16927.0,53,50,12.89,5,8,3,0,4,2,2,Family budget customers,7
+59754.0,475,96,13.08,3,5,5,2,6,1,0,High value loyal customers,13
+53700.0,694,94,13.37,4,5,5,5,8,1,0,High value loyal customers,18
+59041.0,96,25,11.65,2,5,2,0,4,2,3,At risk customers,6
+54237.0,361,48,12.68,4,6,5,2,5,1,0,High value loyal customers,12
+70647.0,1079,65,13.28,2,2,4,7,13,1,1,Deal driven customers,24
+52597.0,578,69,11.65,3,5,6,3,8,1,0,High value loyal customers,17
+41021.0,64,12,13.0,2,6,2,0,3,1,2,Family budget customers,5
+40233.0,149,84,12.21,5,6,2,1,5,1,3,At risk customers,8
+50183.0,231,47,11.52,7,5,3,1,6,2,0,High value loyal customers,10
+54753.0,728,87,12.3,3,4,5,2,11,1,0,High value loyal customers,18
+92955.0,1778,35,12.37,1,2,6,7,9,0,1,Deal driven customers,22
+33471.0,93,47,13.22,3,7,3,0,4,1,2,Family budget customers,7
+34596.0,23,48,12.72,1,8,1,0,2,1,2,Family budget customers,3
+44010.0,662,46,13.22,6,9,10,2,6,1,0,High value loyal customers,18
+84219.0,1198,27,11.91,1,1,3,4,10,0,1,Deal driven customers,17
+40706.0,81,37,12.95,4,7,3,0,4,3,3,At risk customers,7
+15716.0,92,8,13.13,3,8,3,0,4,1,2,Family budget customers,7
+59052.0,491,29,12.12,3,5,7,1,7,1,0,High value loyal customers,15
+80573.0,1564,85,13.21,1,2,4,6,13,0,1,Deal driven customers,23
+83715.0,926,2,11.91,1,0,2,8,13,0,1,Deal driven customers,23
+82576.0,1910,66,13.42,1,1,2,4,12,0,1,Deal driven customers,18
+56962.0,411,60,12.22,7,7,6,3,5,3,0,High value loyal customers,14
+35704.0,94,54,11.99,3,4,2,0,4,2,3,At risk customers,6
+53103.0,1085,70,12.3,5,7,10,6,7,1,0,High value loyal customers,23
+46779.0,23,55,12.47,1,4,0,1,2,2,3,At risk customers,3
+4861.0,6,20,11.53,0,14,0,0,0,0,2,Family budget customers,0
+33462.0,54,78,12.4,1,7,2,0,3,1,2,Family budget customers,5
+63693.0,1150,63,12.21,3,6,11,6,9,1,0,High value loyal customers,26
+80763.0,1415,17,12.38,1,3,5,11,6,0,1,Deal driven customers,22
+65352.0,405,43,12.36,2,4,4,2,8,1,0,High value loyal customers,14
+82170.0,1908,13,12.1,1,2,5,6,7,0,1,Deal driven customers,18
+75759.0,2486,46,12.18,1,5,9,7,9,0,1,Deal driven customers,25
+79689.0,1315,65,12.64,1,2,4,9,13,0,1,Deal driven customers,26
+35340.0,45,1,11.51,2,5,2,0,3,2,3,At risk customers,5
+85683.0,1789,6,11.78,1,1,2,4,10,0,1,Deal driven customers,16
+24884.0,19,32,13.09,1,7,0,0,3,1,2,Family budget customers,3
+42021.0,573,34,13.33,5,9,10,1,6,1,0,High value loyal customers,17
+64449.0,805,70,11.87,4,4,5,3,12,1,0,High value loyal customers,20
+64587.0,108,49,11.53,2,3,1,1,4,2,3,At risk customers,6
+34824.0,23,65,11.77,1,6,1,0,2,0,3,At risk customers,3
+75437.0,1493,25,12.14,1,6,8,4,10,0,1,Deal driven customers,22
+26091.0,89,84,11.85,3,5,2,1,3,2,3,At risk customers,6
+52845.0,936,7,12.38,3,6,8,8,6,1,0,High value loyal customers,22
+46086.0,343,34,12.16,4,4,3,1,8,1,0,High value loyal customers,12
+78028.0,528,38,13.31,1,7,6,4,9,1,0,High value loyal customers,19
+95169.0,1901,1,12.23,1,1,4,3,4,0,1,Deal driven customers,11
+56337.0,724,25,12.76,5,8,8,5,4,2,0,High value loyal customers,17
+22434.0,58,25,12.88,2,8,2,0,3,1,2,Family budget customers,5
+36930.0,297,50,12.62,5,8,5,2,4,1,0,High value loyal customers,11
+36130.0,488,46,12.91,6,4,3,8,4,1,0,High value loyal customers,15
+65569.0,859,96,13.15,2,3,6,5,10,1,0,High value loyal customers,21
+83844.0,1574,57,12.64,1,1,4,4,11,0,1,Deal driven customers,19
+19514.0,69,47,11.93,4,8,3,1,2,2,3,At risk customers,6
+36736.0,17,52,12.64,1,6,1,0,2,2,3,At risk customers,3
+77568.0,2194,30,13.35,1,5,10,2,8,1,0,High value loyal customers,20
+49187.0,116,63,11.97,1,2,1,1,5,1,3,At risk customers,7
+30168.0,279,51,12.82,7,9,6,1,4,1,0,High value loyal customers,11
+34053.0,103,14,13.31,1,8,3,0,3,1,2,Family budget customers,6
+38196.0,44,20,11.7,3,5,2,0,4,2,3,At risk customers,6
+59412.0,406,56,11.7,1,3,4,2,8,0,1,Deal driven customers,14
+70924.0,1363,41,11.73,1,3,6,6,7,0,1,Deal driven customers,19
+54165.0,236,72,12.59,1,2,2,1,7,0,1,Deal driven customers,10
+32300.0,39,1,12.99,1,8,1,0,3,1,2,Family budget customers,4
+20180.0,137,27,12.86,1,7,2,1,4,0,2,Family budget customers,7
+34961.0,79,77,11.53,3,7,3,1,3,1,3,At risk customers,7
+28440.0,63,87,12.48,1,8,2,0,3,1,2,Family budget customers,5
+64504.0,1314,81,12.83,7,7,11,3,4,3,0,High value loyal customers,18
+33564.0,71,51,11.52,1,5,1,1,3,1,3,At risk customers,5
+17345.0,58,79,13.16,2,8,2,1,2,1,2,Family budget customers,5
+56320.0,702,11,12.73,3,4,5,4,9,1,0,High value loyal customers,18
+28647.0,94,54,12.36,1,7,2,2,2,1,2,Family budget customers,6
+15038.0,80,93,12.92,2,9,2,1,2,1,2,Family budget customers,5
+32173.0,22,0,12.42,1,4,1,0,3,1,2,Family budget customers,4
+68316.0,1211,54,13.16,5,6,10,7,10,1,0,High value loyal customers,27
+74538.0,1461,21,12.51,1,3,8,8,5,0,1,Deal driven customers,21
+91700.0,1968,58,12.95,1,3,8,6,5,0,1,Deal driven customers,19
+68695.0,1091,3,11.52,1,2,4,4,7,0,1,Deal driven customers,15
+31056.0,55,99,12.94,1,8,1,0,3,1,2,Family budget customers,4
+79593.0,1366,70,11.64,1,2,5,6,7,0,1,Deal driven customers,18
+28071.0,313,65,13.34,2,8,5,1,5,0,2,Family budget customers,11
+37334.0,62,44,11.84,4,4,3,0,4,2,3,At risk customers,7
+46423.0,92,6,12.28,3,7,2,0,4,2,3,At risk customers,6
+37126.0,72,9,11.76,1,6,1,2,2,1,3,At risk customers,5
+47703.0,655,95,12.59,4,5,6,3,8,1,0,High value loyal customers,17
+61180.0,704,70,11.69,2,3,5,5,6,1,1,Deal driven customers,16
+38998.0,54,92,13.16,3,8,2,0,3,2,2,Family budget customers,5
+8028.0,178,62,13.28,15,19,0,1,0,0,2,Family budget customers,1
+76081.0,1033,85,11.61,1,2,4,5,4,0,1,Deal driven customers,13
+34728.0,36,2,12.42,1,6,1,1,2,1,2,Family budget customers,4
+33168.0,122,0,13.22,3,7,2,1,4,1,2,Family budget customers,7
+33585.0,122,91,12.27,1,4,2,0,4,1,3,At risk customers,6
+77037.0,1123,3,12.22,1,3,7,7,12,1,1,Deal driven customers,26
+35196.0,497,68,13.13,6,8,6,1,5,1,0,High value loyal customers,12
+44529.0,691,98,12.49,6,5,6,2,11,1,0,High value loyal customers,19
+70924.0,1363,41,11.73,1,3,6,6,7,0,1,Deal driven customers,19
+28764.0,12,16,11.57,1,8,1,0,2,2,3,At risk customers,3
+69098.0,2440,82,12.87,1,5,7,8,9,0,1,Deal driven customers,24
+25959.0,56,1,12.88,2,6,1,2,2,2,2,Family budget customers,5
+27100.0,37,64,12.74,1,7,1,0,3,1,2,Family budget customers,4
+70596.0,968,68,13.24,1,2,3,5,12,0,1,Deal driven customers,20
+42557.0,270,98,13.34,4,8,6,1,4,1,0,High value loyal customers,11
+53312.0,278,32,12.39,1,7,5,1,5,0,0,High value loyal customers,11
+72228.0,1250,87,13.09,1,3,6,7,8,0,1,Deal driven customers,21
+67605.0,938,84,12.75,1,1,2,8,6,0,1,Deal driven customers,16
+62845.0,1178,3,13.25,11,8,3,4,10,2,0,High value loyal customers,17
+65196.0,1155,34,12.44,2,5,7,6,11,2,0,High value loyal customers,24
+42000.0,653,23,12.97,2,5,5,2,11,0,0,High value loyal customers,18
+35860.0,49,37,11.62,2,5,1,1,2,2,3,At risk customers,4
+65526.0,506,22,11.72,1,2,4,4,8,1,1,Deal driven customers,16
+16860.0,38,19,13.3,3,7,1,1,3,2,2,Family budget customers,5
+83528.0,1650,7,11.67,1,1,4,10,8,0,1,Deal driven customers,22
+64176.0,1826,52,13.41,8,6,8,9,8,1,0,High value loyal customers,25
+22304.0,18,91,13.41,1,8,1,0,2,0,2,Family budget customers,3
+67023.0,906,93,11.83,1,2,3,7,13,0,1,Deal driven customers,23
+32892.0,46,78,11.6,2,8,3,0,3,1,3,At risk customers,6
+70713.0,1477,23,13.08,6,3,5,6,8,1,0,High value loyal customers,19
+59925.0,766,83,13.08,3,6,9,2,9,1,0,High value loyal customers,20
+39722.0,47,92,11.85,2,5,2,0,3,1,3,At risk customers,5
+46610.0,467,4,12.45,1,6,6,1,6,0,1,Deal driven customers,13
+88347.0,2116,32,12.5,1,1,4,7,9,0,1,Deal driven customers,20
+87171.0,1298,27,12.67,1,2,6,7,11,0,1,Deal driven customers,24
+26907.0,22,10,12.36,2,7,1,0,3,2,3,At risk customers,4
+50014.0,396,9,11.94,2,5,4,1,8,1,0,High value loyal customers,13
+41014.0,20,65,12.69,1,7,1,0,2,1,2,Family budget customers,3
+66294.0,967,68,11.79,1,2,4,3,5,0,1,Deal driven customers,12
+36715.0,357,16,13.12,6,9,7,2,4,1,0,High value loyal customers,13
+79456.0,1401,12,13.36,1,3,5,6,4,0,1,Deal driven customers,15
+40479.0,15,95,12.37,1,4,0,0,3,1,3,At risk customers,3
+75345.0,2087,16,12.91,1,3,5,8,6,0,1,Deal driven customers,19
+54233.0,981,46,12.9,4,8,11,6,5,1,0,High value loyal customers,22
+24163.0,17,3,12.22,2,4,1,0,3,2,3,At risk customers,4
+84460.0,523,80,12.99,0,5,9,9,4,0,1,Deal driven customers,22
+43776.0,23,77,11.66,1,6,1,0,2,1,3,At risk customers,3
+71691.0,1192,0,11.79,1,2,4,7,5,0,1,Deal driven customers,16
+85844.0,1958,62,11.59,1,2,6,6,7,0,1,Deal driven customers,19
+39190.0,133,91,11.68,2,5,2,1,4,1,3,At risk customers,7
+71367.0,777,24,12.36,1,2,4,5,7,0,1,Deal driven customers,16
+38578.0,73,2,12.53,3,8,3,0,3,2,3,At risk customers,6
+57236.0,121,22,11.81,3,3,2,1,4,2,3,At risk customers,7
+61825.0,424,56,12.4,1,4,4,2,8,1,1,Deal driven customers,14
+79803.0,868,54,11.58,1,1,4,3,5,1,1,Deal driven customers,12
+80910.0,756,71,13.17,1,1,3,3,8,0,1,Deal driven customers,14
+27590.0,12,38,12.69,1,7,1,0,2,1,2,Family budget customers,3
+56775.0,937,62,12.99,2,5,5,8,10,1,0,High value loyal customers,23
+83829.0,1862,78,12.23,0,1,4,7,6,0,1,Deal driven customers,17
+54210.0,367,18,12.62,2,5,4,1,7,1,0,High value loyal customers,12
+38508.0,443,95,12.41,6,8,7,2,5,1,0,High value loyal customers,14
+53187.0,267,66,12.18,2,5,4,1,6,1,0,High value loyal customers,11
+30023.0,61,28,11.77,1,8,2,0,3,1,3,At risk customers,5
+76045.0,1323,78,12.13,1,2,4,5,11,0,1,Deal driven customers,20
+50870.0,63,13,11.53,1,5,2,0,3,1,3,At risk customers,5
+15315.0,64,27,12.41,2,5,2,0,4,0,2,Family budget customers,6
+65463.0,562,17,11.92,2,5,6,2,9,1,0,High value loyal customers,17
+66480.0,312,71,11.59,7,4,4,1,7,2,0,High value loyal customers,12
+76773.0,1156,79,12.85,1,1,2,2,11,0,1,Deal driven customers,15
+81698.0,1104,1,12.84,1,5,8,2,5,0,1,Deal driven customers,15
+54466.0,16,78,11.89,1,5,1,0,2,2,3,At risk customers,3
+98777.0,2008,23,11.87,0,1,4,6,9,0,1,Deal driven customers,19
+16269.0,44,75,12.34,3,8,3,0,3,1,2,Family budget customers,6
+71819.0,1574,70,12.34,3,6,3,3,5,1,0,High value loyal customers,11
+33569.0,63,10,12.21,1,8,1,1,2,1,2,Family budget customers,4
+36262.0,426,24,12.28,1,6,3,5,3,0,1,Deal driven customers,11
+22634.0,96,47,12.96,1,8,2,1,2,0,2,Family budget customers,5
+47025.0,635,98,12.3,5,9,11,1,6,1,0,High value loyal customers,18
+70566.0,757,4,12.24,2,3,6,5,9,1,1,Deal driven customers,20
+31605.0,125,15,13.11,2,7,2,1,4,1,2,Family budget customers,7
+52034.0,332,67,12.62,5,7,4,2,5,2,0,High value loyal customers,11
+48526.0,135,32,12.02,1,3,2,1,4,1,3,At risk customers,7
+46734.0,330,40,13.12,2,7,6,1,5,1,0,High value loyal customers,12
+39552.0,384,54,13.04,7,8,6,2,5,2,0,High value loyal customers,13
+86358.0,1722,78,13.4,4,8,5,3,6,2,0,High value loyal customers,14
+46931.0,78,94,11.69,2,3,1,1,3,3,3,At risk customers,5
+16581.0,24,51,12.97,1,4,0,0,3,0,2,Family budget customers,3
+63998.0,1168,42,12.03,1,4,7,6,11,0,1,Deal driven customers,24
+67381.0,957,67,12.96,4,7,2,2,9,1,0,High value loyal customers,13
+25930.0,15,87,12.22,1,7,1,0,2,2,3,At risk customers,3
+42693.0,57,29,11.57,1,5,1,0,3,1,3,At risk customers,4
+85606.0,1956,89,13.13,2,3,6,7,9,1,1,Deal driven customers,22
+72903.0,2013,74,12.17,1,4,7,5,8,0,1,Deal driven customers,20
+49669.0,326,97,11.61,2,6,5,1,6,1,0,High value loyal customers,12
+36778.0,77,63,13.41,3,9,3,0,3,2,2,Family budget customers,6
+85696.0,1313,88,12.66,1,1,4,6,9,0,1,Deal driven customers,19
+10979.0,30,34,11.61,2,5,3,0,3,0,2,Family budget customers,6
+49678.0,315,81,12.91,2,7,6,2,4,1,0,High value loyal customers,12
+56129.0,660,65,12.53,4,4,6,2,10,1,0,High value loyal customers,18
+37155.0,74,51,12.92,1,5,2,0,4,1,2,Family budget customers,6
+21282.0,46,76,11.64,2,6,2,1,2,1,3,At risk customers,5
+33419.0,86,76,12.37,2,7,2,0,4,1,3,At risk customers,6
+63285.0,1103,84,12.15,1,3,6,5,13,0,1,Deal driven customers,24
+21255.0,61,56,11.94,4,4,2,1,4,1,3,At risk customers,7
+42162.0,145,31,12.12,2,6,3,1,3,1,3,At risk customers,7
+54450.0,684,0,13.3,12,8,9,2,8,2,0,High value loyal customers,19
+57744.0,411,91,12.13,2,8,9,1,4,1,0,High value loyal customers,14
+26576.0,27,40,13.22,1,9,1,0,2,1,2,Family budget customers,3
+57513.0,1060,59,12.49,2,6,9,3,13,0,0,High value loyal customers,25
+68142.0,1459,96,13.34,3,6,10,4,7,1,0,High value loyal customers,21
+7500.0,18,61,13.34,1,8,1,0,2,1,2,Family budget customers,3
+83145.0,1833,14,13.27,1,2,5,9,11,0,1,Deal driven customers,25
+54197.0,237,16,11.75,2,1,1,3,6,1,1,Deal driven customers,10
+23091.0,48,98,11.59,4,7,2,1,3,2,3,At risk customers,6
+46049.0,515,11,12.45,10,7,5,2,9,2,0,High value loyal customers,16
+56715.0,1020,52,13.07,1,4,7,3,4,0,1,Deal driven customers,14
+79410.0,1370,19,11.59,1,1,3,2,5,0,1,Deal driven customers,10
+57304.0,1026,61,12.81,2,5,7,6,10,1,0,High value loyal customers,23
+44375.0,301,73,11.78,1,5,4,1,6,1,3,At risk customers,11
+54450.0,684,0,13.3,12,8,9,2,8,2,0,High value loyal customers,19
+59594.0,499,74,13.2,1,7,8,1,7,1,0,High value loyal customers,16
+80685.0,1004,55,13.36,1,2,6,4,10,0,1,Deal driven customers,20
+40344.0,218,48,12.22,2,7,4,1,5,1,3,At risk customers,10
+62710.0,606,53,12.61,4,4,4,2,12,1,0,High value loyal customers,18
+48985.0,75,13,12.49,1,3,1,1,3,1,3,At risk customers,5
+35322.0,106,34,13.36,3,8,2,0,4,3,2,Family budget customers,6
+77142.0,990,54,12.59,1,2,4,4,8,0,1,Deal driven customers,16
+81657.0,1097,69,11.94,1,1,3,4,8,0,1,Deal driven customers,15
+14421.0,16,81,11.87,1,5,1,0,2,0,2,Family budget customers,3
+20130.0,34,99,11.79,1,8,1,0,3,0,2,Family budget customers,4
+74214.0,1711,3,13.35,1,5,8,2,5,0,1,Deal driven customers,15
+66726.0,438,61,11.97,3,7,8,2,4,2,0,High value loyal customers,14
+23724.0,75,65,12.98,2,8,2,0,3,1,2,Family budget customers,5
+47353.0,225,93,12.13,3,5,2,2,6,1,0,High value loyal customers,10
+33444.0,18,24,13.16,1,8,1,0,2,2,2,Family budget customers,3
+54386.0,470,8,12.62,2,3,3,2,10,1,1,Deal driven customers,15
+28510.0,91,72,12.72,3,5,2,0,4,2,3,At risk customers,6
+90638.0,2525,29,11.88,1,1,3,4,10,0,1,Deal driven customers,17
+48070.0,504,33,12.96,3,7,8,2,6,1,0,High value loyal customers,16
+43140.0,235,68,12.99,1,6,4,1,5,1,0,High value loyal customers,10
+54959.0,1232,55,12.95,3,7,9,5,4,1,0,High value loyal customers,18
+15056.0,88,76,12.66,5,5,2,2,3,2,2,Family budget customers,7
+26954.0,17,17,11.65,1,7,1,0,2,1,3,At risk customers,3
+22327.0,24,94,12.41,1,5,1,0,3,1,2,Family budget customers,4
+44393.0,60,86,12.36,2,4,1,0,4,2,3,At risk customers,5
+62000.0,1020,25,12.35,1,4,6,6,13,1,1,Deal driven customers,25
+31497.0,155,22,13.07,2,8,3,1,4,1,2,Family budget customers,8
+45894.0,51,15,11.84,1,5,1,0,3,2,3,At risk customers,4
+78579.0,1812,35,13.02,1,3,5,6,4,0,1,Deal driven customers,15
+67369.0,1461,81,13.12,4,4,7,4,10,1,0,High value loyal customers,21
+58401.0,96,55,11.7,1,4,1,2,2,1,3,At risk customers,5
+62307.0,160,94,11.87,1,5,4,0,4,1,3,At risk customers,8
+43641.0,139,50,12.69,3,6,2,1,4,2,3,At risk customers,7
+63841.0,908,64,12.7,1,6,9,3,9,1,0,High value loyal customers,21
+46891.0,183,91,12.33,1,4,2,1,4,1,3,At risk customers,7
+70091.0,1161,11,12.75,2,8,5,2,10,1,0,High value loyal customers,17
+78075.0,988,72,11.74,1,1,3,5,5,0,1,Deal driven customers,13
+59184.0,1072,6,13.31,3,5,6,6,12,1,0,High value loyal customers,24
+54809.0,174,0,12.3,4,4,2,1,5,2,3,At risk customers,8
+58113.0,758,66,12.93,3,7,9,2,8,1,0,High value loyal customers,19
+51412.0,195,42,12.0,2,4,3,2,4,1,3,At risk customers,9
+15287.0,31,60,13.22,2,7,1,1,2,1,2,Family budget customers,4
+66636.0,1084,64,12.37,1,1,3,4,9,0,1,Deal driven customers,16
+50965.0,685,87,12.86,3,8,10,4,5,1,0,High value loyal customers,19
+84618.0,1672,96,12.11,1,2,6,9,10,0,1,Deal driven customers,25
+18351.0,43,1,12.17,1,7,2,0,3,0,2,Family budget customers,5
+40451.0,49,54,11.87,1,5,1,1,2,2,3,At risk customers,4
+36317.0,133,53,12.61,2,7,3,0,4,1,2,Family budget customers,7
+42213.0,363,96,12.22,2,7,5,1,7,1,0,High value loyal customers,13
+65748.0,545,58,12.71,2,1,2,4,10,1,1,Deal driven customers,16
+77044.0,1065,12,12.18,2,4,7,11,11,1,1,Deal driven customers,29
+74918.0,2047,78,12.81,1,3,5,9,6,0,1,Deal driven customers,20
+56721.0,296,64,13.17,5,6,4,1,5,2,0,High value loyal customers,10
+42160.0,140,26,12.51,4,6,2,1,4,2,3,At risk customers,7
+61559.0,530,8,12.46,1,3,4,2,10,1,1,Deal driven customers,16
+33629.0,152,49,13.4,5,9,3,1,4,2,0,High value loyal customers,8
+68682.0,1598,56,12.24,1,2,4,9,10,0,1,Deal driven customers,23
+34377.0,114,55,12.95,2,7,2,2,2,1,2,Family budget customers,6
+8940.0,101,25,13.36,3,8,3,1,3,1,2,Family budget customers,7
+26228.0,25,50,12.27,1,8,1,0,2,1,2,Family budget customers,3
+77297.0,789,84,12.93,1,4,5,7,9,0,1,Deal driven customers,21
+40211.0,87,30,12.42,2,8,2,1,2,2,3,At risk customers,5
+33438.0,90,81,12.27,4,5,2,1,4,2,3,At risk customers,7
+75032.0,1215,74,12.68,2,3,5,4,9,1,1,Deal driven customers,18
+61284.0,811,76,12.22,1,6,11,2,8,0,1,Deal driven customers,21
+22518.0,61,36,13.19,2,5,2,1,2,1,2,Family budget customers,5
+54730.0,405,64,12.38,5,4,4,1,8,1,0,High value loyal customers,13
+38452.0,72,62,11.76,3,7,3,0,3,2,3,At risk customers,6
+44421.0,189,53,12.87,5,8,5,0,4,2,0,High value loyal customers,9
+38197.0,40,86,12.51,1,5,1,0,3,1,3,At risk customers,4
+41986.0,63,15,11.89,3,4,3,0,4,1,3,At risk customers,7
+28427.0,52,67,12.78,2,8,2,0,3,1,2,Family budget customers,5
+37395.0,39,47,11.67,1,6,1,0,3,1,3,At risk customers,4
+64722.0,805,47,11.6,4,6,8,2,11,1,0,High value loyal customers,21
+55249.0,130,81,11.71,1,3,2,1,4,1,3,At risk customers,7
+84906.0,1631,98,12.24,1,2,5,6,12,0,1,Deal driven customers,23
+28691.0,34,56,12.49,1,8,1,0,3,1,2,Family budget customers,4
+44213.0,152,48,12.09,4,6,2,1,5,2,3,At risk customers,8
+25707.0,21,18,11.95,1,7,1,0,3,1,3,At risk customers,4
+59062.0,71,74,12.24,2,4,2,0,3,3,3,At risk customers,5
+76624.0,899,68,11.61,1,1,5,10,7,1,1,Deal driven customers,22
+66000.0,711,36,11.7,1,1,1,3,5,0,1,Deal driven customers,9
+27683.0,351,90,13.41,4,8,6,2,4,1,0,High value loyal customers,12
+1730.0,8,65,11.62,15,20,0,0,0,0,2,Family budget customers,0
+7500.0,119,63,13.08,4,9,3,2,2,1,2,Family budget customers,7
+40521.0,21,82,12.74,1,5,0,1,2,2,3,At risk customers,3
+20427.0,10,63,11.77,1,8,1,0,2,1,3,At risk customers,3
+65106.0,973,55,11.61,3,6,8,3,13,1,0,High value loyal customers,24
+69969.0,1536,64,12.35,1,3,4,2,6,0,1,Deal driven customers,12
+67433.0,992,51,12.46,4,4,6,5,13,2,0,High value loyal customers,24
+77766.0,1529,97,12.85,2,6,11,10,11,1,0,High value loyal customers,32
+74716.0,860,92,12.3,2,4,7,3,5,1,0,High value loyal customers,15
+68118.0,928,51,12.2,2,6,8,9,4,1,0,High value loyal customers,21
+55158.0,418,72,13.42,4,7,7,2,5,2,0,High value loyal customers,14
+62972.0,587,39,13.41,2,6,7,4,3,1,0,High value loyal customers,14
+74190.0,641,49,11.64,2,2,4,2,11,1,1,Deal driven customers,17
+39356.0,23,21,11.79,1,6,1,0,2,2,3,At risk customers,3
+76653.0,2279,91,12.38,1,2,4,7,11,0,1,Deal driven customers,22
+35860.0,49,37,11.62,2,5,1,1,2,2,3,At risk customers,4
+90687.0,1779,98,12.61,1,2,6,2,8,0,1,Deal driven customers,16
+73450.0,1804,85,12.07,1,3,7,8,11,0,1,Deal driven customers,26
+31454.0,48,40,12.49,3,8,2,0,3,2,3,At risk customers,5
+47139.0,83,2,11.82,2,7,2,1,2,2,3,At risk customers,5
+83829.0,1862,78,12.23,0,1,4,7,6,0,1,Deal driven customers,17
+53378.0,793,41,13.27,10,8,9,4,6,2,0,High value loyal customers,19
+19656.0,84,94,12.89,3,7,2,1,3,1,2,Family budget customers,6
+45579.0,183,10,12.36,1,6,4,1,4,1,3,At risk customers,9
+85485.0,1383,73,11.53,1,2,6,6,6,0,1,Deal driven customers,18
+55956.0,999,22,11.73,2,4,7,3,4,0,1,Deal driven customers,14
+64191.0,825,30,12.94,3,3,5,3,13,1,0,High value loyal customers,21
+38808.0,246,21,13.35,4,8,5,1,4,1,0,High value loyal customers,10
+57183.0,610,51,12.79,8,8,9,1,7,2,0,High value loyal customers,17
+23748.0,76,97,13.11,3,8,2,1,3,1,2,Family budget customers,6
+66303.0,1286,56,12.84,4,8,3,4,11,1,0,High value loyal customers,18
+37368.0,30,4,12.04,1,6,1,0,2,1,3,At risk customers,3
+40800.0,99,77,13.0,2,7,3,0,3,3,3,At risk customers,6
+71847.0,1192,95,13.28,0,3,6,7,9,0,1,Deal driven customers,22
+46149.0,362,36,12.09,5,5,5,1,7,1,0,High value loyal customers,13
+78687.0,2130,13,13.39,1,2,4,6,8,0,1,Deal driven customers,18
+49118.0,1229,90,13.37,2,7,9,7,10,0,0,High value loyal customers,26
+37633.0,38,49,13.28,2,9,1,0,3,2,2,Family budget customers,4
+39767.0,485,18,12.45,2,8,7,1,7,0,0,High value loyal customers,15
+26997.0,434,89,13.15,2,7,4,2,5,0,0,High value loyal customers,11
+33986.0,44,43,12.8,1,7,1,0,3,1,2,Family budget customers,4
+57091.0,496,82,13.1,2,7,9,2,5,1,0,High value loyal customers,16
+46831.0,78,84,12.56,2,4,1,2,2,2,3,At risk customers,5
+83151.0,2346,80,12.89,1,2,5,7,10,0,1,Deal driven customers,22
+52531.0,794,68,13.0,2,6,7,2,10,0,0,High value loyal customers,19
+15759.0,17,12,12.32,1,7,1,0,2,0,2,Family budget customers,3
+22804.0,26,75,12.42,1,9,2,0,2,1,2,Family budget customers,4
+43050.0,76,10,11.79,2,5,2,0,4,1,3,At risk customers,6
+42997.0,15,91,12.07,1,7,1,0,2,2,3,At risk customers,3
+48918.0,62,21,11.72,2,4,1,0,4,2,3,At risk customers,5
+60033.0,198,28,11.76,2,2,2,1,5,1,3,At risk customers,8
+34043.0,49,97,12.18,1,9,2,0,2,1,3,At risk customers,4
+57811.0,802,49,12.52,5,5,7,2,11,1,0,High value loyal customers,20
+78569.0,1736,14,11.86,1,1,4,6,4,0,1,Deal driven customers,14
+7500.0,57,5,13.01,4,6,2,1,3,2,2,Family budget customers,6
+157733.0,59,37,12.58,0,1,1,0,1,1,3,At risk customers,2
+94384.0,2302,62,12.83,0,2,5,8,5,0,1,Deal driven customers,18
+23148.0,37,83,11.87,1,7,2,0,3,0,2,Family budget customers,5
+44267.0,310,48,12.85,5,9,5,2,4,2,0,High value loyal customers,11
+71626.0,1305,94,13.16,1,3,5,5,8,0,1,Deal driven customers,18
+60894.0,832,61,12.51,5,7,10,3,8,1,0,High value loyal customers,21
+50200.0,401,70,12.75,6,8,7,1,5,2,0,High value loyal customers,13
+81051.0,1501,43,11.61,1,2,5,5,12,0,1,Deal driven customers,22
+65169.0,1189,23,11.96,1,6,10,4,13,0,1,Deal driven customers,27
+59868.0,1194,37,12.44,7,6,11,2,12,1,0,High value loyal customers,25
+65695.0,656,50,11.92,2,4,5,4,10,1,1,Deal driven customers,19
+64857.0,1540,78,13.1,1,4,7,5,10,0,1,Deal driven customers,22
+45143.0,311,74,12.35,3,7,6,1,5,1,0,High value loyal customers,12
+74805.0,820,14,12.15,5,2,4,7,10,1,1,Deal driven customers,21
+59060.0,274,77,11.97,3,4,3,1,7,1,0,High value loyal customers,11
+27238.0,57,39,12.7,3,9,3,0,3,2,2,Family budget customers,6
+47009.0,448,89,12.25,4,4,3,2,8,1,0,High value loyal customers,13
+46094.0,44,62,11.56,1,7,1,0,3,2,3,At risk customers,4
+40321.0,102,59,12.42,2,7,3,0,3,2,3,At risk customers,6
+37235.0,61,68,11.91,1,4,1,1,2,1,3,At risk customers,4
+81843.0,1643,13,12.69,1,3,5,9,12,0,1,Deal driven customers,26
+46692.0,397,37,12.57,3,6,6,1,5,1,0,High value loyal customers,12
+77382.0,1121,36,11.98,2,1,5,7,12,1,1,Deal driven customers,24
+37774.0,473,28,13.33,4,9,7,2,3,2,0,High value loyal customers,12
+18393.0,50,2,11.76,2,8,3,0,3,1,2,Family budget customers,6
+72828.0,1678,17,12.88,6,7,6,3,13,1,0,High value loyal customers,22
+24711.0,58,86,11.7,1,7,3,0,3,0,3,At risk customers,6
+45503.0,170,54,12.27,1,5,3,1,4,1,3,At risk customers,8
+6560.0,373,2,12.05,0,17,1,0,1,0,2,Family budget customers,2
+71604.0,1196,3,12.12,1,4,8,3,5,0,1,Deal driven customers,16
+27244.0,101,84,11.82,2,7,2,2,2,1,3,At risk customers,6
+48752.0,316,8,13.05,5,9,6,1,5,2,0,High value loyal customers,12
+71434.0,1400,4,12.28,3,4,7,4,7,1,0,High value loyal customers,18
+90842.0,1424,57,12.42,1,1,4,9,13,0,1,Deal driven customers,26
+88097.0,844,24,13.37,1,9,6,5,8,1,0,High value loyal customers,19
+51948.0,311,51,12.29,2,5,5,2,4,1,0,High value loyal customers,11
+71853.0,1149,29,12.65,1,1,2,8,6,0,1,Deal driven customers,16
+35876.0,129,13,11.7,1,6,3,1,3,0,3,At risk customers,7
+40049.0,32,23,12.21,1,6,1,0,3,1,3,At risk customers,4
+39660.0,299,36,13.4,3,9,7,1,3,1,0,High value loyal customers,11
+50127.0,320,88,11.59,1,6,5,1,6,1,3,At risk customers,12
+43263.0,441,2,13.11,3,5,5,2,6,1,0,High value loyal customers,13
+62845.0,1178,3,13.25,11,8,3,4,10,2,0,High value loyal customers,17
+18929.0,85,15,12.87,1,6,1,0,4,0,2,Family budget customers,5
+24367.0,24,58,12.78,1,9,1,0,2,1,2,Family budget customers,3
+33249.0,112,11,12.86,2,6,2,1,3,1,2,Family budget customers,6
+26887.0,30,27,12.89,1,6,1,0,3,1,2,Family budget customers,4
+50150.0,410,32,12.53,2,5,5,2,7,0,0,High value loyal customers,14
+62061.0,800,12,12.33,3,6,10,4,7,1,0,High value loyal customers,21
+85696.0,1313,88,12.66,1,1,4,6,9,0,1,Deal driven customers,19
+76542.0,1483,91,12.76,1,2,4,8,10,0,1,Deal driven customers,22
+70515.0,1258,12,12.19,1,2,6,6,4,0,1,Deal driven customers,16
+18227.0,28,21,13.15,1,8,0,1,2,1,2,Family budget customers,3
+69139.0,227,23,11.93,1,4,4,1,5,1,3,At risk customers,10
+69109.0,1555,10,13.14,1,4,6,6,7,0,1,Deal driven customers,19
+69627.0,861,35,12.79,2,5,8,2,11,1,0,High value loyal customers,21
+38136.0,103,69,12.69,2,8,3,1,2,1,2,Family budget customers,6
+62159.0,634,68,11.68,1,4,6,2,10,0,1,Deal driven customers,18
+80695.0,1918,85,12.01,1,2,5,8,5,0,1,Deal driven customers,18
+33316.0,131,34,12.24,3,6,2,1,4,2,3,At risk customers,7
+58554.0,586,55,13.26,6,7,8,2,6,2,0,High value loyal customers,16
+17256.0,62,10,12.1,2,8,2,1,2,1,2,Family budget customers,5
+53034.0,447,30,12.59,8,8,6,1,7,2,0,High value loyal customers,14
+52203.0,939,36,13.42,1,6,8,7,11,0,1,Deal driven customers,26
+59601.0,797,14,12.44,4,8,2,2,7,1,0,High value loyal customers,11
+75154.0,1143,79,13.32,1,3,6,3,6,1,1,Deal driven customers,15
+47025.0,415,52,12.15,3,6,6,3,5,1,0,High value loyal customers,14
+37971.0,30,97,12.1,1,8,1,0,3,1,3,At risk customers,4
+41335.0,187,24,12.01,3,7,4,1,4,1,3,At risk customers,9
+67267.0,251,0,11.64,1,2,3,2,5,1,1,Deal driven customers,10
+57338.0,237,96,11.67,2,5,4,1,5,1,3,At risk customers,10
+50523.0,91,89,12.02,2,6,2,0,4,2,3,At risk customers,6
+35791.0,35,94,12.65,2,8,1,0,3,3,3,At risk customers,4
+50611.0,493,98,13.24,6,6,4,5,7,1,0,High value loyal customers,16
+56242.0,971,72,12.83,5,6,8,4,11,1,0,High value loyal customers,23
+48904.0,371,1,13.08,4,8,7,2,4,1,0,High value loyal customers,13
+56243.0,396,26,12.0,6,5,4,2,8,3,0,High value loyal customers,14
+21355.0,68,5,12.36,2,6,2,1,2,1,2,Family budget customers,5
+57420.0,322,22,12.52,3,7,5,1,6,1,0,High value loyal customers,12
+52247.25135379061,317,39,12.75,2,5,4,2,6,1,0,High value loyal customers,12
+46390.0,222,56,11.66,1,7,4,2,3,1,3,At risk customers,9
+54342.0,177,74,12.5,4,6,3,1,4,2,0,High value loyal customers,8
+52247.25135379061,45,87,13.33,1,5,1,0,3,2,2,Family budget customers,4
+52247.25135379061,21,49,11.97,1,7,1,0,2,2,3,At risk customers,3
+20895.0,45,24,13.24,1,9,2,0,3,1,2,Family budget customers,5
+92344.0,1899,9,11.96,0,1,5,10,5,0,1,Deal driven customers,20
+52247.25135379061,42,17,11.83,1,7,1,0,3,1,3,At risk customers,4
+26907.0,22,10,12.36,2,7,1,0,3,2,3,At risk customers,4
+44964.0,41,35,13.04,1,8,1,0,3,2,2,Family budget customers,4
+75507.0,1440,56,11.67,1,3,8,6,6,0,1,Deal driven customers,20
+53761.0,325,7,12.22,6,5,4,4,3,2,0,High value loyal customers,11
+22682.0,95,51,12.24,3,4,2,1,4,1,3,At risk customers,7
+38887.0,42,17,11.83,1,7,1,0,3,1,3,At risk customers,4
+41658.0,72,30,13.14,2,4,1,1,2,2,2,Family budget customers,4
+29791.0,20,21,11.63,2,5,2,0,3,1,3,At risk customers,5
+63915.0,789,2,12.42,2,5,6,3,12,2,0,High value loyal customers,21
+39996.0,15,85,11.61,1,6,1,0,2,2,3,At risk customers,3
+26759.0,59,65,11.9,2,6,2,1,3,1,3,At risk customers,6
+63841.0,908,64,12.7,1,6,9,3,9,1,0,High value loyal customers,21
+51039.0,417,11,13.06,2,7,6,2,4,2,0,High value loyal customers,12
+60544.0,289,92,13.35,4,6,5,1,5,2,0,High value loyal customers,11
+65685.0,769,54,11.76,1,5,9,2,9,1,1,Deal driven customers,20
+37716.0,188,4,11.7,2,7,4,1,3,1,3,At risk customers,8
+36864.0,354,53,13.38,3,8,5,2,4,1,0,High value loyal customers,11
+44511.0,727,39,13.22,6,8,8,4,8,1,0,High value loyal customers,20
+36947.0,146,49,13.4,4,9,3,0,4,2,2,Family budget customers,7
+47352.0,319,70,12.72,4,7,6,1,5,1,0,High value loyal customers,12
+67087.0,794,40,12.04,2,4,7,5,8,1,1,Deal driven customers,20
+57045.0,454,40,13.31,3,3,4,2,9,1,0,High value loyal customers,15
+36957.0,152,43,13.32,4,9,3,2,2,2,2,Family budget customers,7
+69389.0,797,17,13.26,1,4,7,2,12,1,0,High value loyal customers,21
+80134.0,1690,40,12.62,2,6,5,3,6,1,0,High value loyal customers,14
+43142.0,20,84,11.87,1,7,1,0,2,2,3,At risk customers,3
+80589.0,1428,25,11.94,1,1,5,10,5,0,1,Deal driven customers,20
+34412.0,209,62,12.88,3,9,5,0,3,1,2,Family budget customers,8
+57537.0,545,83,12.56,4,4,4,3,8,1,0,High value loyal customers,15
+22634.0,96,47,12.96,1,8,2,1,2,0,2,Family budget customers,5
+51315.0,222,45,11.85,1,2,2,2,5,0,1,Deal driven customers,9
+36026.0,61,34,11.79,2,6,2,0,3,3,3,At risk customers,5
+24639.0,44,3,11.92,3,6,2,0,4,2,3,At risk customers,6
+34578.0,8,1,11.72,1,6,1,0,2,3,3,At risk customers,3
+65704.0,817,18,12.22,1,1,2,10,10,0,1,Deal driven customers,22
+63810.0,1371,45,13.14,4,8,4,3,12,1,0,High value loyal customers,19
+54132.0,42,81,11.87,1,7,1,0,3,1,3,At risk customers,4
+18690.0,60,77,13.01,1,8,1,1,2,0,2,Family budget customers,4
+28164.0,78,23,12.66,3,7,2,0,4,1,2,Family budget customers,6
+34596.0,23,48,12.72,1,8,1,0,2,1,2,Family budget customers,3
+43269.0,19,61,12.29,1,8,1,0,2,1,3,At risk customers,3
+38741.0,61,60,11.76,2,7,2,0,3,2,3,At risk customers,5
+31907.0,449,75,12.83,1,7,6,1,6,0,0,High value loyal customers,13
+27100.0,37,64,12.74,1,7,1,0,3,1,2,Family budget customers,4
+31163.0,38,54,11.88,1,6,1,0,3,1,3,At risk customers,4
+92533.0,1131,84,12.03,1,2,6,5,11,0,1,Deal driven customers,22
+34853.0,34,75,12.02,2,6,2,0,3,2,3,At risk customers,5
+70844.0,294,16,12.17,5,7,6,1,5,2,0,High value loyal customers,12
+31086.0,48,79,12.66,2,8,1,1,2,2,2,Family budget customers,4
+60544.0,289,92,13.35,4,6,5,1,5,2,0,High value loyal customers,11
+20491.0,30,16,12.93,1,7,0,1,2,0,2,Family budget customers,3
+42523.0,125,96,11.69,1,2,1,1,4,0,3,At risk customers,6
+39922.0,156,30,12.88,2,8,3,0,4,1,2,Family budget customers,7
+33402.0,70,60,12.45,3,8,2,1,3,2,3,At risk customers,6
+36408.0,22,11,12.28,1,6,1,0,2,2,3,At risk customers,3
+21645.0,65,75,13.33,3,9,3,0,3,1,2,Family budget customers,6
+78427.0,1930,36,13.19,3,3,3,7,10,0,1,Deal driven customers,20
+82657.0,2283,71,12.26,1,4,7,5,10,0,1,Deal driven customers,22
+51876.0,310,88,12.21,1,1,2,2,8,0,1,Deal driven customers,12
+78041.0,1319,93,13.04,1,2,4,4,9,0,1,Deal driven customers,17
+52852.0,879,93,13.08,4,8,10,7,5,1,0,High value loyal customers,22
+70038.0,1244,54,12.18,1,2,4,4,8,0,1,Deal driven customers,16
+69401.0,690,41,11.78,4,2,4,4,5,1,1,Deal driven customers,13
+46053.0,209,46,12.87,3,5,3,2,4,1,0,High value loyal customers,9
+77343.0,1134,28,11.56,1,1,3,4,9,0,1,Deal driven customers,16
+73892.0,1507,40,12.13,1,1,3,11,8,0,1,Deal driven customers,22
+40304.0,57,82,12.25,1,7,2,0,3,1,3,At risk customers,5
+32727.0,529,38,13.34,2,8,7,3,5,0,0,High value loyal customers,15
+68695.0,1091,3,11.52,1,2,4,4,7,0,1,Deal driven customers,15
+43300.0,180,87,13.22,3,8,4,0,4,1,2,Family budget customers,8
+26290.0,77,49,12.97,4,6,2,0,4,2,2,Family budget customers,6
+93790.0,2349,16,11.88,0,2,6,7,12,0,1,Deal driven customers,25
+38410.0,534,65,13.3,2,6,5,2,9,0,0,High value loyal customers,16
+64866.0,556,9,11.93,4,5,7,3,7,1,0,High value loyal customers,17
+57957.0,637,24,12.37,7,3,4,6,8,1,0,High value loyal customers,18
+46015.0,46,25,11.72,1,7,1,0,3,2,3,At risk customers,4
+16531.0,44,43,11.54,3,7,3,0,3,1,3,At risk customers,6
+28072.0,47,10,12.48,1,7,1,0,3,1,2,Family budget customers,4
+49476.0,795,29,12.53,4,2,2,11,5,1,1,Deal driven customers,18
+50725.0,586,45,12.88,4,8,8,1,8,1,0,High value loyal customers,17
+83844.0,1574,57,12.64,1,1,4,4,11,0,1,Deal driven customers,19
+41145.0,13,20,11.89,1,3,0,0,3,2,3,At risk customers,3
+67419.0,1471,29,12.96,4,5,9,4,8,1,0,High value loyal customers,21
+23162.0,65,82,12.03,3,6,1,1,3,2,3,At risk customers,5
+34380.0,175,68,12.67,4,8,4,1,3,1,2,Family budget customers,8
+34704.0,40,65,12.68,1,5,1,0,3,1,2,Family budget customers,4
+94871.0,1078,99,13.33,1,7,8,5,4,2,0,High value loyal customers,17
+65148.0,1115,9,13.12,2,4,6,6,7,1,0,High value loyal customers,19
+39898.0,134,20,12.88,2,7,3,0,4,1,2,Family budget customers,7
+64857.0,1540,78,13.1,1,4,7,5,10,0,1,Deal driven customers,22
+59892.0,87,26,12.16,1,3,2,1,3,1,3,At risk customers,6
+41020.0,217,68,12.18,1,3,3,2,4,0,1,Deal driven customers,9
+57072.0,1034,79,11.93,2,5,7,5,13,1,0,High value loyal customers,25
+60474.0,1180,25,12.75,7,7,10,2,12,1,0,High value loyal customers,24
+62807.0,819,83,13.33,3,5,5,3,12,1,0,High value loyal customers,20
+19414.0,32,32,12.21,1,8,1,0,3,1,2,Family budget customers,4
+19107.0,46,49,12.36,2,7,1,0,3,1,2,Family budget customers,4
+75484.0,1159,50,13.41,2,4,7,3,6,1,0,High value loyal customers,16
+70379.0,860,84,12.83,3,4,6,3,13,1,0,High value loyal customers,22
+79419.0,1631,96,11.53,1,2,4,6,4,0,1,Deal driven customers,14
+64014.0,444,56,11.56,7,7,8,2,5,3,0,High value loyal customers,15
+76998.0,1910,85,12.97,2,6,11,8,8,1,0,High value loyal customers,27
+49854.0,380,63,12.14,5,6,6,2,5,1,0,High value loyal customers,13
+60585.0,736,17,12.52,10,5,7,4,9,2,0,High value loyal customers,20
+42873.0,269,11,12.94,4,8,6,1,4,2,0,High value loyal customers,11
+87679.0,2524,62,12.43,1,4,7,11,10,0,1,Deal driven customers,28
+57867.0,612,48,12.25,7,6,7,2,9,1,0,High value loyal customers,18
+35765.0,75,86,12.05,2,6,2,0,4,1,3,At risk customers,6
+65492.0,1045,73,11.93,2,2,4,7,13,0,1,Deal driven customers,24
+32952.0,55,36,12.08,1,7,2,0,3,1,3,At risk customers,5
+53374.0,1064,34,13.38,6,9,4,2,9,1,0,High value loyal customers,15
+71706.0,1443,16,13.13,4,5,9,5,7,1,0,High value loyal customers,21
+68487.0,1366,48,12.96,1,4,9,7,13,0,1,Deal driven customers,29
+53253.0,436,61,12.88,7,5,4,3,5,2,0,High value loyal customers,12
+31163.0,38,54,11.88,1,6,1,0,3,1,3,At risk customers,4
+42014.0,436,56,13.37,6,8,7,1,6,1,0,High value loyal customers,14
+54108.0,747,74,13.15,13,8,8,2,9,2,0,High value loyal customers,19
+49667.0,1396,35,13.36,2,8,5,10,5,0,0,High value loyal customers,20
+63206.0,928,65,11.78,1,2,4,3,6,0,1,Deal driven customers,13
+57136.0,642,48,12.48,9,6,5,2,10,2,0,High value loyal customers,17
+46772.0,1048,88,13.15,6,8,11,8,5,1,0,High value loyal customers,24
+78931.0,943,19,12.18,1,1,2,8,13,0,1,Deal driven customers,23
+53977.0,907,21,12.56,5,5,5,5,12,1,0,High value loyal customers,22
+84219.0,1198,27,11.91,1,1,3,4,10,0,1,Deal driven customers,17
+46098.0,120,86,13.37,4,8,3,2,2,2,0,High value loyal customers,7
+73538.0,1658,92,13.1,3,7,10,4,9,1,0,High value loyal customers,23
+79529.0,1638,1,11.68,1,2,4,8,9,0,1,Deal driven customers,21
+20981.0,73,14,12.67,1,8,3,1,2,0,2,Family budget customers,6
+51766.0,275,74,11.81,2,5,4,2,4,1,3,At risk customers,10
+55759.0,854,84,13.09,5,8,10,3,8,1,0,High value loyal customers,21
+33039.0,78,4,12.31,1,5,2,0,4,1,3,At risk customers,6
+37787.0,106,50,12.28,1,8,3,0,3,1,3,At risk customers,6
+27242.0,106,2,13.14,2,9,2,0,3,1,2,Family budget customers,5
+87188.0,1923,73,12.58,1,3,10,2,6,0,1,Deal driven customers,18
+69930.0,1662,21,12.6,1,3,4,5,12,0,1,Deal driven customers,21
+37697.0,84,82,11.9,1,6,2,1,3,1,3,At risk customers,6
+37401.0,48,14,11.65,2,7,2,0,3,1,3,At risk customers,5
+3502.0,5,56,12.72,0,14,0,0,0,1,2,Family budget customers,0
+58597.0,733,20,13.11,12,7,7,4,9,2,0,High value loyal customers,20
+82032.0,1234,54,11.74,0,1,4,6,7,0,1,Deal driven customers,17
+28087.0,112,77,13.05,3,7,2,2,2,2,2,Family budget customers,6
+74004.0,1658,5,11.85,1,3,4,6,4,0,1,Deal driven customers,14
+19740.0,55,65,12.77,2,5,1,1,3,1,2,Family budget customers,5
+57036.0,1513,33,13.05,4,9,6,3,13,1,0,High value loyal customers,22
+53083.0,271,65,12.63,6,7,5,1,5,2,0,High value loyal customers,11
+69283.0,904,41,11.55,4,5,7,3,13,1,0,High value loyal customers,23
+46098.0,120,86,13.37,4,8,3,2,2,2,0,High value loyal customers,7
+23331.0,103,92,13.32,2,8,3,0,3,1,2,Family budget customers,6
+23331.0,269,97,13.24,6,9,5,1,5,1,0,High value loyal customers,11
+9255.0,22,91,12.03,1,8,1,1,2,1,2,Family budget customers,4
+67786.0,1156,0,12.07,1,1,3,6,6,0,1,Deal driven customers,15
+71969.0,1086,59,13.21,3,8,3,4,9,1,0,High value loyal customers,16
+59235.0,1128,4,12.97,3,7,11,2,12,1,0,High value loyal customers,25
+31928.0,72,5,11.76,2,7,3,0,4,1,3,At risk customers,7
+74881.0,964,48,12.82,4,5,9,2,12,2,0,High value loyal customers,23
+65819.0,1383,99,13.09,1,3,5,4,10,0,1,Deal driven customers,19
+51411.0,18,81,12.6,1,5,0,0,3,3,3,At risk customers,3
+51983.0,793,95,13.33,3,7,9,2,10,1,0,High value loyal customers,21
+42386.0,100,43,12.96,1,8,3,0,3,1,2,Family budget customers,6
+30390.0,80,5,12.33,1,6,2,0,3,0,2,Family budget customers,5
+30983.0,167,50,13.14,1,8,4,0,3,0,2,Family budget customers,7
+66033.0,677,76,12.95,2,7,8,3,7,1,0,High value loyal customers,18
+37284.0,23,46,12.76,1,6,0,0,3,2,3,At risk customers,3
+57530.0,92,68,12.22,1,1,1,1,4,1,3,At risk customers,6
+76800.0,641,33,11.82,1,1,4,4,7,0,1,Deal driven customers,15
+63943.0,1106,50,13.33,1,5,6,4,6,1,0,High value loyal customers,16
+76081.0,1033,85,11.61,1,2,4,5,4,0,1,Deal driven customers,13
+67445.0,1174,63,13.39,5,6,9,6,12,1,0,High value loyal customers,27
+37054.0,25,89,12.29,2,7,1,0,3,2,3,At risk customers,4
+47175.0,240,81,13.18,7,8,4,2,4,2,0,High value loyal customers,10
+31859.0,20,77,12.55,1,7,1,0,2,1,2,Family budget customers,3
+27215.0,102,50,12.94,4,6,2,1,4,3,3,At risk customers,7
+70179.0,1034,10,12.45,3,5,7,3,13,1,0,High value loyal customers,23
+39922.0,156,30,12.88,2,8,3,0,4,1,2,Family budget customers,7
+49681.0,458,66,12.16,6,7,7,1,7,2,0,High value loyal customers,15
+24645.0,17,16,13.16,1,8,1,0,2,1,2,Family budget customers,3
+79865.0,792,12,11.54,1,1,5,10,5,1,1,Deal driven customers,20
+44322.0,92,30,11.54,2,8,3,0,3,1,3,At risk customers,6
+47958.0,407,8,12.95,2,5,6,3,5,1,0,High value loyal customers,14
+63972.0,1269,93,13.08,4,4,5,4,10,1,0,High value loyal customers,19
+75315.0,841,14,11.71,2,2,5,4,12,1,1,Deal driven customers,21
+55517.0,633,53,13.26,5,9,11,1,6,2,0,High value loyal customers,18
+75283.0,1019,26,12.76,11,4,6,3,5,3,0,High value loyal customers,14
+82800.0,1315,23,13.1,1,3,7,6,12,0,1,Deal driven customers,25
+38998.0,54,92,13.16,3,8,2,0,3,2,2,Family budget customers,5
+90638.0,2525,29,11.88,1,1,3,4,10,0,1,Deal driven customers,17
+27161.0,52,41,12.18,1,7,1,0,3,1,2,Family budget customers,4
+42014.0,436,56,13.37,6,8,7,1,6,1,0,High value loyal customers,14
+38201.0,268,19,12.76,4,8,5,1,5,1,0,High value loyal customers,11
+45203.0,147,4,11.78,1,6,3,1,3,2,3,At risk customers,7
+81574.0,1798,89,11.68,1,1,4,5,8,0,1,Deal driven customers,17
+34935.0,137,71,12.53,1,7,2,1,4,0,2,Family budget customers,7
+60482.0,507,81,12.94,1,7,7,2,7,1,0,High value loyal customers,16
+34633.0,15,31,11.94,1,6,1,0,2,3,3,At risk customers,3
+78093.0,1105,53,12.05,1,1,4,7,5,0,1,Deal driven customers,16
+82460.0,974,78,12.08,1,1,5,3,6,0,1,Deal driven customers,14
+45903.0,66,80,11.69,2,4,2,1,3,1,3,At risk customers,6
+81361.0,778,18,11.85,1,1,3,10,13,0,1,Deal driven customers,26
+35860.0,49,37,11.62,2,5,1,1,2,2,3,At risk customers,4
+40442.0,169,52,13.37,4,7,3,1,4,2,0,High value loyal customers,8
+61482.0,299,39,11.51,1,2,3,2,6,0,1,Deal driven customers,11
+34968.0,221,11,12.73,7,7,3,2,5,1,0,High value loyal customers,10
+75794.0,1682,33,12.02,1,3,7,5,12,0,1,Deal driven customers,24
+31497.0,155,22,13.07,2,8,3,1,4,1,2,Family budget customers,8
+74268.0,892,83,12.88,1,2,4,3,5,0,1,Deal driven customers,12
+13724.0,58,43,13.33,1,9,2,0,2,1,2,Family budget customers,4
+45143.0,311,74,12.35,3,7,6,1,5,1,0,High value loyal customers,12
+52569.0,95,54,11.74,1,3,2,0,4,1,3,At risk customers,6
+48432.0,424,3,13.2,5,8,7,1,6,1,0,High value loyal customers,14
+17144.0,47,96,11.87,5,7,3,0,4,2,3,At risk customers,7
+36108.0,339,68,12.21,3,9,7,1,4,1,0,High value loyal customers,12
+76445.0,1410,2,13.26,1,6,2,5,13,1,1,Deal driven customers,20
+36663.0,35,40,11.68,1,2,1,1,3,1,3,At risk customers,5
+53843.0,562,64,12.51,4,7,8,5,3,1,0,High value loyal customers,16
+90226.0,2352,26,13.26,1,2,4,7,12,0,1,Deal driven customers,23
+70638.0,1334,69,12.58,1,3,4,5,10,0,1,Deal driven customers,19
+44512.0,32,57,12.34,2,4,1,0,3,2,3,At risk customers,4
+27116.0,41,78,11.83,2,7,2,0,3,2,3,At risk customers,5
+54072.0,39,71,12.43,1,8,2,0,2,2,3,At risk customers,4
+71855.0,1141,59,12.96,4,3,5,5,11,1,0,High value loyal customers,21
+51250.0,710,28,12.76,5,9,10,5,4,1,0,High value loyal customers,19
+60432.0,401,61,11.81,5,6,7,2,5,1,0,High value loyal customers,14
+65526.0,506,22,11.72,1,2,4,4,8,1,1,Deal driven customers,16
+68655.0,1538,95,13.39,1,3,4,5,11,0,1,Deal driven customers,20
+12393.0,57,38,13.07,1,9,2,0,3,0,2,Family budget customers,5
+64509.0,1722,19,12.37,1,4,6,3,9,0,1,Deal driven customers,18
+33955.0,270,92,12.39,4,8,5,1,5,1,0,High value loyal customers,11
+31353.0,31,24,12.01,2,8,1,1,2,2,3,At risk customers,4
+55434.0,882,21,12.24,3,4,5,3,13,1,0,High value loyal customers,21
+28359.0,16,35,12.18,1,7,1,0,2,1,2,Family budget customers,3
+57100.0,311,9,11.62,2,3,3,2,7,1,1,Deal driven customers,12
+69139.0,227,23,11.93,1,4,4,1,5,1,3,At risk customers,10
+52973.0,1152,92,13.15,7,8,9,6,9,1,0,High value loyal customers,24
+51717.0,122,55,12.36,1,7,3,0,4,1,3,At risk customers,7
+18793.0,77,14,12.97,3,8,2,0,4,1,2,Family budget customers,6
+66664.0,1289,78,13.27,1,3,5,7,6,0,1,Deal driven customers,18
+50664.0,561,64,12.96,9,9,8,1,6,2,0,High value loyal customers,15
+54414.0,211,49,12.94,4,4,3,1,5,2,0,High value loyal customers,9
+54549.0,233,8,11.83,2,7,5,1,4,1,3,At risk customers,10
+47111.0,1092,35,13.31,6,9,3,2,10,1,0,High value loyal customers,15
+41003.0,601,11,12.79,1,6,6,2,8,0,1,Deal driven customers,16
+19444.0,54,8,11.85,3,7,4,1,2,1,2,Family budget customers,7
+36301.0,78,53,12.18,1,7,3,0,3,1,3,At risk customers,6
+73059.0,1095,36,12.33,1,4,9,3,13,1,1,Deal driven customers,25
+42731.0,244,64,12.19,3,5,4,1,5,1,0,High value loyal customers,10
+52854.0,116,43,11.77,2,5,2,1,4,2,3,At risk customers,7
+22775.0,15,40,12.53,1,8,1,0,2,1,2,Family budget customers,3
+46681.0,425,52,12.23,2,5,4,6,4,2,0,High value loyal customers,14
+59821.0,734,11,12.72,6,8,11,2,7,1,0,High value loyal customers,20
+50002.0,638,21,12.54,2,7,8,2,7,1,0,High value loyal customers,17
+69755.0,894,23,12.25,1,1,3,6,12,0,1,Deal driven customers,21
+44078.0,41,17,11.53,2,5,2,0,3,2,3,At risk customers,5
+30560.0,31,6,12.51,1,7,1,0,3,1,2,Family budget customers,4
+35924.0,34,56,11.78,1,5,1,0,3,2,3,At risk customers,4
+64140.0,1750,71,12.27,5,5,2,5,6,2,0,High value loyal customers,13
+56386.0,612,51,13.18,8,9,9,1,7,2,0,High value loyal customers,17
+24594.0,29,94,12.06,1,5,1,0,3,1,3,At risk customers,4
+75774.0,823,27,11.67,1,4,7,5,8,1,1,Deal driven customers,20
+39228.0,20,1,12.64,1,4,0,0,3,0,2,Family budget customers,3
+58494.0,396,56,12.05,2,6,6,2,6,1,0,High value loyal customers,14
+58684.0,813,71,11.54,1,2,5,3,12,0,1,Deal driven customers,20
+57136.0,1179,18,12.62,1,6,7,5,7,0,1,Deal driven customers,19
+56551.0,138,48,11.65,3,4,2,1,4,2,3,At risk customers,7
+22448.0,55,86,11.84,3,3,2,1,3,1,3,At risk customers,6
+82014.0,1511,48,13.36,1,6,3,6,12,0,1,Deal driven customers,21
+34213.0,117,2,13.32,3,9,3,1,2,2,2,Family budget customers,6
+157146.0,1730,13,12.67,0,1,0,28,0,0,1,Deal driven customers,28
+25358.0,32,57,12.44,2,6,1,0,3,1,2,Family budget customers,4
+35544.0,67,77,11.82,1,7,2,0,3,1,3,At risk customers,5
+36634.0,335,0,12.59,3,7,5,2,5,1,0,High value loyal customers,12
+62670.0,825,57,11.91,1,3,5,3,13,1,1,Deal driven customers,21
+50334.0,694,24,12.44,6,6,7,4,6,1,0,High value loyal customers,17
+72066.0,1792,55,11.52,1,2,4,6,6,0,1,Deal driven customers,16
+50729.0,496,62,12.67,9,6,6,2,7,2,0,High value loyal customers,15
+34916.0,231,89,12.63,4,9,5,1,3,2,0,High value loyal customers,9
+64892.0,902,77,11.59,2,4,6,4,12,1,1,Deal driven customers,22
+43602.0,68,45,11.97,3,6,3,1,2,2,3,At risk customers,6
+33996.0,71,46,12.3,1,4,1,1,3,0,2,Family budget customers,5
+41473.0,76,80,12.53,1,7,2,0,3,1,3,At risk customers,5
+63246.0,772,60,12.36,1,4,6,3,12,2,0,High value loyal customers,21
+36732.0,47,71,12.01,3,2,1,1,4,2,3,At risk customers,6
+69084.0,1586,43,12.12,2,8,7,3,13,1,0,High value loyal customers,23
+77766.0,1529,97,12.85,2,6,11,10,11,1,0,High value loyal customers,32
+37929.0,265,49,12.42,2,7,4,2,5,0,0,High value loyal customers,11
+86610.0,1603,66,12.32,1,2,5,6,6,0,1,Deal driven customers,17
+80141.0,2091,20,12.97,1,6,7,4,10,0,1,Deal driven customers,21
+72635.0,981,54,12.58,1,3,6,8,6,0,1,Deal driven customers,20
+69016.0,1533,61,13.11,4,5,8,9,13,1,0,High value loyal customers,30
+20193.0,82,18,13.09,1,4,1,1,4,0,2,Family budget customers,6
+27573.0,244,45,12.77,4,8,5,1,4,1,0,High value loyal customers,10
+15862.0,36,26,12.51,1,8,1,0,3,1,2,Family budget customers,4
+49544.0,404,0,12.88,2,7,5,1,8,1,0,High value loyal customers,14
+33228.0,71,28,11.94,1,7,2,0,3,1,3,At risk customers,5
+70440.0,1572,49,12.23,1,3,5,10,7,0,1,Deal driven customers,22
+38232.0,122,84,11.95,4,5,3,1,3,2,3,At risk customers,7
+22554.0,41,38,13.16,4,5,2,0,4,2,2,Family budget customers,6
+23536.0,10,53,11.58,1,3,0,0,3,1,3,At risk customers,3
+49413.0,304,88,12.18,2,5,4,2,5,1,0,High value loyal customers,11
+42231.0,37,99,11.77,1,5,1,0,3,2,3,At risk customers,4
+78789.0,1754,12,13.4,1,2,4,6,5,0,1,Deal driven customers,15
+56534.0,815,35,12.44,4,8,10,4,7,1,0,High value loyal customers,21
+58350.0,1001,5,12.99,4,6,8,3,12,1,0,High value loyal customers,23
+81217.0,1157,77,12.45,1,1,3,7,11,0,1,Deal driven customers,21
+49090.0,688,45,12.45,3,7,7,2,9,1,0,High value loyal customers,18
+61787.0,1319,71,12.49,1,5,8,4,6,0,1,Deal driven customers,18
+18169.0,21,40,12.86,1,8,1,0,2,1,2,Family budget customers,3
+24336.0,31,82,13.35,1,7,1,0,2,1,2,Family budget customers,3
+18222.0,67,70,13.0,1,8,2,0,3,0,2,Family budget customers,5
+62335.0,708,87,12.61,2,2,3,3,13,1,1,Deal driven customers,19
+42033.0,25,95,13.28,1,7,1,0,2,2,2,Family budget customers,3
+86580.0,746,72,12.84,0,1,4,2,5,0,1,Deal driven customers,11
+41437.0,32,5,13.27,1,7,1,0,3,2,2,Family budget customers,4
+73705.0,1695,86,11.82,2,5,9,6,8,2,0,High value loyal customers,23
+61064.0,1080,80,13.33,5,6,8,4,11,1,0,High value loyal customers,23
+38452.0,72,62,11.76,3,7,3,0,3,2,3,At risk customers,6
+18358.0,57,49,12.11,3,7,3,0,4,1,2,Family budget customers,7
+55012.0,660,85,11.78,6,5,8,2,9,1,0,High value loyal customers,19
+9722.0,103,7,13.25,4,8,3,1,3,1,2,Family budget customers,7
+38175.0,153,6,12.27,3,7,3,1,4,1,3,At risk customers,8
+58656.0,1220,25,13.28,4,6,7,8,13,1,0,High value loyal customers,28
+52117.0,279,55,13.38,2,7,5,2,4,1,0,High value loyal customers,11
+64813.0,745,81,11.99,1,5,7,2,10,1,1,Deal driven customers,19
+54222.0,264,98,11.84,1,3,3,3,5,1,1,Deal driven customers,11
+83512.0,2157,31,11.54,1,1,4,7,10,0,1,Deal driven customers,21
+77520.0,1526,30,12.34,1,4,8,7,7,1,1,Deal driven customers,22
+41154.0,69,98,12.73,1,5,1,0,4,1,3,At risk customers,5
+80398.0,1597,92,13.14,1,3,5,8,12,0,1,Deal driven customers,25
+18746.0,64,41,11.59,2,6,3,0,3,1,3,At risk customers,6
+35196.0,497,68,13.13,6,8,6,1,5,1,0,High value loyal customers,12
+60230.0,1067,78,12.62,2,5,6,3,6,1,0,High value loyal customers,15
+22108.0,31,46,11.65,2,7,2,0,3,2,3,At risk customers,5
+44392.0,211,71,12.32,5,7,4,1,4,2,0,High value loyal customers,9
+55424.0,877,6,13.1,4,6,7,5,9,1,0,High value loyal customers,21
+17688.0,11,82,12.96,1,8,1,0,2,1,2,Family budget customers,3
+92491.0,2034,71,12.67,1,3,7,5,12,0,1,Deal driven customers,24
+90273.0,1991,32,12.05,1,2,5,6,7,0,1,Deal driven customers,18
+82571.0,1686,28,11.75,0,2,6,5,13,0,1,Deal driven customers,24
+38513.0,324,20,11.92,5,8,6,1,5,1,0,High value loyal customers,12
+16653.0,69,10,11.7,3,6,2,1,3,1,3,At risk customers,6
+42586.0,252,7,13.17,5,8,4,1,6,2,0,High value loyal customers,11
+23529.0,54,67,12.98,1,6,1,1,2,1,2,Family budget customers,4
+74881.0,964,48,12.82,4,5,9,2,12,2,0,High value loyal customers,23
+71107.0,1327,61,12.87,2,4,7,6,13,1,0,High value loyal customers,26
+46910.0,68,36,11.78,2,6,2,0,3,2,3,At risk customers,5
+18690.0,60,77,13.01,1,8,1,1,2,0,2,Family budget customers,4
+37244.0,55,90,12.68,1,7,1,1,2,2,3,At risk customers,4
+82427.0,1456,35,11.81,1,1,3,5,12,0,1,Deal driven customers,20
+75342.0,563,38,12.65,1,4,5,2,10,1,1,Deal driven customers,17
+70044.0,1504,46,12.87,4,5,7,10,5,1,0,High value loyal customers,22
+79146.0,564,33,11.69,2,6,8,1,8,2,0,High value loyal customers,17
+77437.0,1125,70,12.1,1,1,4,5,13,0,1,Deal driven customers,22
+54984.0,358,51,11.61,4,7,6,1,6,1,0,High value loyal customers,13
+42403.0,42,18,12.05,1,8,1,0,3,1,3,At risk customers,4
+55761.0,184,97,11.69,2,6,4,1,3,1,3,At risk customers,8
+37292.0,460,32,12.7,5,8,6,3,5,1,0,High value loyal customers,14
+45576.0,145,9,11.59,1,8,3,1,3,0,3,At risk customers,7
+70321.0,1376,6,12.96,1,4,6,5,13,0,1,Deal driven customers,24
+58086.0,792,80,12.95,2,8,11,3,7,1,0,High value loyal customers,21
+81795.0,1382,74,13.18,1,2,4,11,7,0,1,Deal driven customers,22
+28389.0,28,49,13.11,1,7,1,0,2,0,2,Family budget customers,3
+66835.0,1033,21,12.26,1,2,6,4,13,0,1,Deal driven customers,23
+69901.0,882,95,12.59,3,5,7,3,10,1,0,High value loyal customers,20
+80360.0,2231,56,12.83,2,2,4,4,5,0,1,Deal driven customers,13
+63342.0,1101,48,13.21,3,6,8,3,5,1,0,High value loyal customers,16
+44989.0,369,26,13.3,5,6,5,1,5,1,0,High value loyal customers,11
+31859.0,48,3,11.84,1,7,1,0,3,1,3,At risk customers,4
+51569.0,467,39,12.88,4,8,7,1,7,1,0,High value loyal customers,15
+30372.0,44,33,13.02,3,7,2,0,3,2,2,Family budget customers,5
+16014.0,38,42,12.79,4,3,1,1,4,2,2,Family budget customers,6
+41120.0,81,80,12.15,3,6,2,1,3,2,3,At risk customers,6
+39763.0,167,9,12.41,2,9,5,1,2,1,2,Family budget customers,8
+38725.0,45,52,11.64,2,4,1,0,4,2,3,At risk customers,5
+77981.0,664,78,12.6,3,5,7,4,7,1,0,High value loyal customers,18
+62905.0,622,68,12.31,3,4,7,2,8,1,0,High value loyal customers,17
+13533.0,48,45,12.81,2,7,2,0,3,1,2,Family budget customers,5
+59481.0,461,47,12.19,2,2,3,3,8,1,1,Deal driven customers,14
+72117.0,1073,34,12.36,1,5,9,7,9,1,1,Deal driven customers,25
+21955.0,55,81,12.32,2,6,2,1,3,1,2,Family budget customers,6
+67131.0,976,72,12.77,3,6,9,2,12,1,0,High value loyal customers,23
+36802.0,20,23,11.54,1,5,1,0,3,1,3,At risk customers,4
+71853.0,1149,29,12.65,1,1,2,8,6,0,1,Deal driven customers,16
+28249.0,43,80,11.55,1,6,2,0,3,0,3,At risk customers,5
+47808.0,224,30,12.2,2,7,3,2,3,1,3,At risk customers,8
+25509.0,101,15,13.28,3,9,3,0,3,1,2,Family budget customers,6
+51012.0,209,86,12.7,1,6,4,1,4,0,2,Family budget customers,9
+70596.0,968,68,13.24,1,2,3,5,12,0,1,Deal driven customers,20
+85431.0,1165,54,12.56,1,0,2,7,7,0,1,Deal driven customers,16
+42664.0,24,44,11.79,1,6,1,0,3,1,3,At risk customers,4
+42586.0,252,7,13.17,5,8,4,1,6,2,0,High value loyal customers,11
+29760.0,165,87,13.34,4,8,3,1,4,1,2,Family budget customers,8
+28973.0,269,59,13.22,2,8,5,1,5,0,2,Family budget customers,11
+39435.0,102,16,12.4,1,7,3,1,2,1,2,Family budget customers,6
+65370.0,461,1,12.42,1,1,2,3,13,0,1,Deal driven customers,18
+20194.0,47,64,13.04,2,6,2,0,3,1,2,Family budget customers,5
+42473.0,144,72,11.87,3,5,2,1,4,2,3,At risk customers,7
+64590.0,1338,98,13.21,1,6,9,4,10,0,1,Deal driven customers,23
+71232.0,917,91,12.09,2,7,11,2,10,1,0,High value loyal customers,23
+34600.0,318,8,13.0,5,8,5,2,5,2,0,High value loyal customers,12
+46904.0,253,20,13.16,4,8,5,1,4,2,0,High value loyal customers,10
+49094.0,502,6,13.28,5,6,6,3,6,1,0,High value loyal customers,15
+36075.0,119,54,12.06,1,6,2,0,4,1,3,At risk customers,6
+60839.0,1250,72,13.34,13,8,2,2,12,2,0,High value loyal customers,16
+77298.0,969,46,12.16,1,3,6,6,11,1,1,Deal driven customers,23
+34026.0,76,11,12.41,3,5,2,1,3,2,3,At risk customers,6
+48918.0,62,21,11.72,2,4,1,0,4,2,3,At risk customers,5
+82122.0,1382,89,12.38,1,1,3,9,13,0,1,Deal driven customers,25
+37697.0,84,82,11.9,1,6,2,1,3,1,3,At risk customers,6
+34074.0,255,69,12.47,5,6,3,3,3,2,0,High value loyal customers,9
+28520.0,43,55,12.55,1,6,1,1,2,2,3,At risk customers,4
+62535.0,398,13,12.24,1,3,3,2,8,1,1,Deal driven customers,13
+36273.0,76,80,11.71,2,6,3,0,3,1,3,At risk customers,6
+63404.0,902,97,11.57,2,4,6,3,4,2,0,High value loyal customers,13
+75774.0,823,27,11.67,1,4,7,5,8,1,1,Deal driven customers,20
+78416.0,1179,99,11.51,2,3,7,7,10,1,1,Deal driven customers,24
+75702.0,1921,87,13.21,1,6,10,5,13,1,0,High value loyal customers,28
+59385.0,185,85,12.68,2,5,3,1,4,2,3,At risk customers,8
+37070.0,433,30,12.78,9,7,5,1,8,2,0,High value loyal customers,14
+44689.0,34,82,11.97,2,7,1,1,2,2,3,At risk customers,4
+53977.0,907,21,12.56,5,5,5,5,12,1,0,High value loyal customers,22
+7144.0,416,92,12.07,0,0,23,1,1,2,3,At risk customers,25
+18701.0,44,95,12.58,4,5,2,0,4,2,2,Family budget customers,6
+90369.0,1588,2,11.68,1,1,4,6,6,0,1,Deal driven customers,16
+63159.0,1797,74,13.15,1,3,3,5,8,0,1,Deal driven customers,16
+37758.0,40,49,13.24,2,8,1,0,3,2,2,Family budget customers,4
+46757.0,1143,71,13.12,6,9,4,4,7,1,0,High value loyal customers,15
+79734.0,914,72,11.51,1,1,4,3,6,0,1,Deal driven customers,13
+63207.0,1502,68,12.95,1,7,2,3,6,0,1,Deal driven customers,11
+72071.0,1338,4,12.88,3,2,5,4,8,1,1,Deal driven customers,17
+21840.0,27,80,12.45,1,9,1,0,3,1,2,Family budget customers,4
+58582.0,763,15,12.26,2,5,9,2,9,1,0,High value loyal customers,20
+72282.0,1331,70,12.45,1,7,5,7,9,0,1,Deal driven customers,21
+50387.0,525,91,12.33,3,5,6,2,8,2,0,High value loyal customers,16
+32583.0,9,10,11.55,1,7,1,0,2,2,3,At risk customers,3
+62568.0,953,99,11.73,3,4,5,3,5,1,0,High value loyal customers,13
+44635.0,68,25,12.22,2,7,2,0,3,2,3,At risk customers,5
+33316.0,131,34,12.24,3,6,2,1,4,2,3,At risk customers,7
+63967.0,882,57,12.39,3,2,4,4,12,1,1,Deal driven customers,20
+52513.0,1149,84,13.32,2,7,9,5,9,0,0,High value loyal customers,23
+25293.0,37,51,12.29,1,8,1,1,2,1,2,Family budget customers,4
+54111.0,388,97,12.35,2,5,5,2,6,1,0,High value loyal customers,13
+78394.0,1428,13,12.87,1,2,4,6,5,0,1,Deal driven customers,15
+80739.0,1633,92,12.61,1,1,3,11,9,0,1,Deal driven customers,23
+22669.0,173,30,12.61,3,9,4,1,2,1,2,Family budget customers,7
+29236.0,99,30,12.23,2,9,4,0,3,1,2,Family budget customers,7
+44911.0,215,11,12.8,3,7,4,1,4,1,0,High value loyal customers,9
+54693.0,929,72,12.87,8,6,6,4,13,1,0,High value loyal customers,23
+48186.0,219,39,11.78,3,7,4,1,4,1,3,At risk customers,9
+54809.0,174,0,12.3,4,4,2,1,5,2,3,At risk customers,8
+41580.0,92,15,13.06,3,5,2,1,3,2,2,Family budget customers,6
+80336.0,1052,12,12.31,1,1,2,9,13,0,1,Deal driven customers,24
+47743.0,275,56,12.78,3,6,4,1,6,1,0,High value loyal customers,11
+62972.0,587,39,13.41,2,6,7,4,3,1,0,High value loyal customers,14
+57333.0,1662,55,13.27,11,6,8,5,9,1,0,High value loyal customers,22
+32313.0,159,60,12.88,3,9,4,0,4,1,2,Family budget customers,8
+84953.0,1024,73,12.58,1,2,3,10,4,0,1,Deal driven customers,17
+27071.0,35,90,11.69,2,6,2,0,3,1,3,At risk customers,5
+68148.0,1042,86,12.33,1,2,4,4,6,0,1,Deal driven customers,14
+65735.0,395,37,12.07,5,7,6,2,6,2,0,High value loyal customers,14
+86836.0,557,7,13.3,1,5,6,10,6,0,1,Deal driven customers,22
+4023.0,9,29,11.52,15,19,0,0,0,2,2,Family budget customers,0
+30093.0,69,19,12.48,1,7,2,0,3,0,2,Family budget customers,5
+57705.0,486,14,11.97,3,6,8,1,6,1,0,High value loyal customers,15
+25008.0,34,72,11.91,2,8,1,0,3,1,3,At risk customers,4
+83257.0,1365,56,13.28,1,6,5,10,12,0,1,Deal driven customers,27
+22280.0,13,85,12.62,1,8,1,0,2,1,2,Family budget customers,3
+72159.0,1401,62,13.17,1,2,4,6,10,0,1,Deal driven customers,20
+64260.0,1574,1,12.97,1,3,4,5,4,0,1,Deal driven customers,13
+82733.0,1323,28,12.31,1,4,8,4,7,0,1,Deal driven customers,19
+74290.0,1217,70,12.39,4,6,10,8,10,1,0,High value loyal customers,28
+58217.0,103,84,13.12,1,6,2,0,4,3,3,At risk customers,6
+21024.0,84,89,12.49,1,7,2,0,4,0,2,Family budget customers,6
+70116.0,1536,73,12.93,1,1,2,8,12,0,1,Deal driven customers,22
+54006.0,581,42,13.28,2,7,8,1,7,1,0,High value loyal customers,16
+69063.0,928,16,13.15,1,3,5,3,5,1,1,Deal driven customers,13
+11448.0,14,16,12.04,1,6,1,0,2,0,2,Family budget customers,3
+61825.0,424,56,12.4,1,4,4,2,8,1,1,Deal driven customers,14
+70886.0,960,65,12.21,1,2,5,4,4,1,1,Deal driven customers,13
+69109.0,1555,10,13.14,1,4,6,6,7,0,1,Deal driven customers,19
+60208.0,656,13,13.23,11,7,8,3,7,2,0,High value loyal customers,18
+32889.0,55,78,12.32,3,5,2,1,3,2,3,At risk customers,6
+34738.0,20,51,11.64,1,6,1,0,3,1,3,At risk customers,4
+30538.0,367,27,13.25,4,10,9,0,4,1,0,High value loyal customers,13
+82326.0,2257,30,11.81,1,2,5,10,6,0,1,Deal driven customers,21
+26642.0,42,71,11.84,2,6,2,0,3,1,3,At risk customers,5
+69932.0,1049,97,12.55,2,4,7,6,11,1,1,Deal driven customers,24
+44503.0,48,83,11.71,2,6,2,0,3,2,3,At risk customers,5
+60200.0,685,3,12.99,6,6,6,2,11,1,0,High value loyal customers,19
+49638.0,39,71,11.7,1,2,1,0,3,1,3,At risk customers,4
+23830.0,43,3,11.9,1,7,1,0,3,0,2,Family budget customers,4
+33051.0,835,15,13.38,3,9,9,1,8,0,0,High value loyal customers,18
+72905.0,1515,52,11.94,1,1,3,7,9,0,1,Deal driven customers,19
+69702.0,1039,8,12.86,2,4,7,7,10,1,0,High value loyal customers,24
+70300.0,1596,89,12.46,3,8,5,5,13,1,0,High value loyal customers,23
+70643.0,1828,66,13.21,1,6,5,8,4,0,1,Deal driven customers,17
+30396.0,34,22,11.67,2,7,1,1,2,1,3,At risk customers,4
+50616.0,149,56,11.7,2,7,4,0,4,1,3,At risk customers,8
+62772.0,946,74,12.62,1,2,5,6,11,1,1,Deal driven customers,22
+30298.0,28,48,11.62,1,3,1,1,3,0,3,At risk customers,5
+52413.0,450,67,13.16,2,7,7,1,7,1,0,High value loyal customers,15
+44155.0,46,24,11.95,1,4,1,1,2,2,3,At risk customers,4
+86979.0,1702,67,12.15,1,2,5,5,5,0,1,Deal driven customers,15
+76532.0,820,38,12.31,4,5,9,5,7,2,0,High value loyal customers,21
+42081.0,382,86,12.84,2,6,6,3,4,1,0,High value loyal customers,13
+67546.0,2126,90,13.33,1,3,4,10,5,0,1,Deal driven customers,19
+88420.0,2069,87,11.67,1,1,4,7,8,0,1,Deal driven customers,19
+31158.0,72,62,12.93,2,8,2,0,3,1,2,Family budget customers,5
+61671.0,732,23,11.58,8,8,10,4,6,1,0,High value loyal customers,20
+69719.0,801,99,11.6,1,1,2,3,5,0,1,Deal driven customers,10
+49160.0,236,29,12.2,2,6,3,1,6,1,0,High value loyal customers,10
+24882.0,80,52,13.31,1,6,1,1,2,1,2,Family budget customers,4
+90933.0,1685,90,11.75,1,1,4,6,4,0,1,Deal driven customers,14
+113734.0,277,9,11.59,0,1,27,0,0,0,1,Deal driven customers,27
+59292.0,507,71,12.55,2,3,3,5,8,1,1,Deal driven customers,16
+45759.0,68,13,12.85,2,7,2,0,3,2,3,At risk customers,5
+22148.0,49,16,11.72,1,7,1,0,3,0,2,Family budget customers,4
+73395.0,397,94,11.79,1,2,4,4,6,0,1,Deal driven customers,14
+29819.0,39,77,12.19,3,6,3,0,3,1,3,At risk customers,6
+45688.0,306,20,11.93,2,4,3,1,8,1,0,High value loyal customers,12
+62820.0,976,51,12.64,1,1,3,4,6,0,1,Deal driven customers,13
+60491.0,1028,81,12.32,4,5,6,11,7,1,0,High value loyal customers,24
+33235.0,70,71,11.9,1,7,3,0,3,1,3,At risk customers,6
+35701.0,46,36,12.79,1,6,1,0,3,0,2,Family budget customers,4
+31535.0,51,95,12.26,1,7,1,1,2,1,3,At risk customers,4
+92556.0,1263,32,11.7,0,0,3,5,13,0,1,Deal driven customers,21
+67384.0,1490,32,13.14,2,5,7,8,5,1,0,High value loyal customers,20
+80573.0,1564,85,13.21,1,2,4,6,13,0,1,Deal driven customers,23
+77870.0,1815,93,13.36,3,8,5,5,5,1,0,High value loyal customers,15
+52278.0,1198,24,12.93,6,8,10,5,10,1,0,High value loyal customers,25
+57107.0,416,44,13.35,7,8,4,4,8,1,0,High value loyal customers,16
+18929.0,85,15,12.87,1,6,1,0,4,0,2,Family budget customers,5
+36038.0,47,82,12.59,2,6,3,0,3,1,2,Family budget customers,6
+20180.0,137,27,12.86,1,7,2,1,4,0,2,Family budget customers,7
+34230.0,21,72,13.01,1,7,1,0,2,2,2,Family budget customers,3
+31878.0,70,7,11.53,1,3,1,0,4,1,3,At risk customers,5
+70932.0,909,57,11.95,2,3,6,2,12,1,1,Deal driven customers,20
+91249.0,1676,84,13.2,0,4,7,9,6,0,1,Deal driven customers,22
+77598.0,1735,53,12.25,1,3,7,5,13,0,1,Deal driven customers,25
+80982.0,1191,48,12.98,3,5,11,5,11,2,0,High value loyal customers,27
+22701.0,24,2,12.32,1,5,1,0,3,1,2,Family budget customers,4
+55212.0,1182,65,13.1,3,8,4,2,11,1,0,High value loyal customers,17
+70617.0,1280,45,12.52,1,2,3,3,7,0,1,Deal driven customers,13
+64849.0,1336,42,13.13,1,5,9,3,6,0,1,Deal driven customers,18
+62694.0,749,29,12.54,5,7,9,3,7,2,0,High value loyal customers,19
+61917.0,91,83,12.11,1,5,2,0,4,2,3,At risk customers,6
+67472.0,414,93,12.26,2,3,4,2,7,1,1,Deal driven customers,13
+21059.0,44,40,11.98,3,6,3,0,3,1,3,At risk customers,6
+29543.0,63,47,11.75,2,7,3,1,2,2,3,At risk customers,6
+75903.0,901,50,12.73,2,3,6,6,9,1,1,Deal driven customers,21
+34984.0,38,40,13.32,2,7,1,0,3,2,2,Family budget customers,4
+54998.0,455,3,12.81,5,4,4,2,9,1,0,High value loyal customers,15
+54356.0,775,62,13.12,3,8,11,2,8,1,0,High value loyal customers,21
+34242.0,15,25,11.78,1,5,0,0,3,1,3,At risk customers,3
+25410.0,38,48,12.33,1,4,1,0,4,1,3,At risk customers,5
+73356.0,1512,56,11.9,1,2,5,11,5,0,1,Deal driven customers,21
+28320.0,43,68,12.96,1,8,1,0,3,1,2,Family budget customers,4
+23763.0,42,64,13.4,1,7,1,0,3,1,2,Family budget customers,4
+72570.0,1089,67,11.68,1,1,4,6,12,0,1,Deal driven customers,22
+34529.0,162,94,13.3,2,7,2,2,3,1,2,Family budget customers,7
+70792.0,1272,82,12.9,2,3,3,4,10,0,1,Deal driven customers,17
+63211.0,1173,3,13.16,2,2,3,8,7,0,1,Deal driven customers,18
+83891.0,816,24,11.53,1,1,4,7,10,1,1,Deal driven customers,21
+36065.0,74,54,12.75,3,8,3,0,3,2,2,Family budget customers,6
+39898.0,134,20,12.88,2,7,3,0,4,1,2,Family budget customers,7
+51141.0,157,96,12.48,1,5,3,1,4,0,3,At risk customers,8
+56939.0,561,19,12.28,2,3,3,3,10,1,1,Deal driven customers,16
+80872.0,1336,60,11.64,1,1,4,4,10,0,1,Deal driven customers,18
+72335.0,2092,2,13.38,1,8,10,4,8,0,0,High value loyal customers,22
+61798.0,463,13,12.1,1,4,4,2,9,0,1,Deal driven customers,15
+76842.0,1130,37,11.66,1,0,1,8,7,0,1,Deal driven customers,16
+29478.0,20,59,11.95,1,6,1,0,3,1,3,At risk customers,4
+46998.0,377,55,13.19,5,7,5,3,5,1,0,High value loyal customers,13
+96843.0,1544,60,12.69,1,2,6,11,10,0,1,Deal driven customers,27
+56551.0,138,48,11.65,3,4,2,1,4,2,3,At risk customers,7
+70053.0,1012,38,12.5,3,5,8,5,10,1,0,High value loyal customers,23
+71670.0,1766,8,12.48,1,6,5,3,6,0,1,Deal driven customers,14
+44359.0,45,19,11.54,3,3,2,0,4,2,3,At risk customers,6
+40887.0,161,32,12.65,3,9,3,1,3,2,3,At risk customers,7
+48877.0,144,27,11.99,1,7,3,0,4,1,3,At risk customers,7
+74485.0,1734,58,12.35,1,3,6,7,12,0,1,Deal driven customers,25
+64474.0,823,59,12.19,2,5,8,2,10,1,0,High value loyal customers,20
+77226.0,1138,29,11.84,2,3,6,8,12,1,1,Deal driven customers,26
+72643.0,1429,60,12.84,1,2,3,10,7,0,1,Deal driven customers,20
+85738.0,1371,41,11.94,1,1,3,6,11,0,1,Deal driven customers,20
+55686.0,982,27,12.88,2,4,6,3,5,1,0,High value loyal customers,14
+39062.0,44,28,11.77,1,4,1,0,3,1,3,At risk customers,4
+34600.0,318,8,13.0,5,8,5,2,5,2,0,High value loyal customers,12
+40794.0,434,18,12.73,2,7,6,3,5,1,0,High value loyal customers,14
+54690.0,198,76,12.15,3,3,3,1,5,2,3,At risk customers,9
+4428.0,359,0,12.24,0,1,25,0,0,1,2,Family budget customers,25
+32632.0,576,32,13.41,2,5,4,4,8,0,0,High value loyal customers,16
+38236.0,88,2,12.28,4,7,3,0,4,2,3,At risk customers,7
+36781.0,63,16,11.73,1,8,2,1,2,1,3,At risk customers,5
+31385.0,27,56,13.07,1,8,1,0,2,1,2,Family budget customers,3
+24570.0,193,97,12.84,3,9,4,0,4,1,2,Family budget customers,8
+25509.0,101,15,13.28,3,9,3,0,3,1,2,Family budget customers,6
+94642.0,2211,35,11.88,0,1,5,7,9,0,1,Deal driven customers,21
+58646.0,140,3,12.56,1,4,2,1,4,1,3,At risk customers,7
+53201.0,415,49,12.88,8,7,6,3,5,2,0,High value loyal customers,14
+21994.0,22,4,13.02,1,5,0,0,3,1,2,Family budget customers,3
+57113.0,263,45,12.9,6,7,4,1,5,2,0,High value loyal customers,10
+51373.0,393,37,12.53,1,4,3,5,3,0,1,Deal driven customers,11
+23477.0,147,39,12.19,3,8,3,0,4,1,2,Family budget customers,7
+58116.0,443,38,11.72,2,2,3,3,8,1,1,Deal driven customers,14
+72968.0,1958,8,12.04,1,3,5,5,8,0,1,Deal driven customers,18
+39791.0,174,89,12.76,2,7,3,1,4,1,2,Family budget customers,8
+91712.0,2217,47,12.21,0,3,9,7,11,0,1,Deal driven customers,27
+94472.0,1691,75,11.75,1,5,5,5,5,1,1,Deal driven customers,15
+13672.0,25,86,12.71,2,8,1,0,3,2,2,Family budget customers,4
+96547.0,809,4,11.61,0,2,7,6,8,0,1,Deal driven customers,21
+79205.0,895,73,13.34,1,4,6,5,4,0,1,Deal driven customers,15
+56559.0,484,46,13.02,3,4,4,3,8,1,0,High value loyal customers,15
+32644.0,413,38,12.96,4,8,7,1,6,1,0,High value loyal customers,14
+67506.0,331,73,11.99,1,3,4,1,6,1,1,Deal driven customers,11
+24206.0,25,66,12.82,1,6,1,0,3,1,2,Family budget customers,4
+28420.0,13,36,12.02,1,6,1,0,2,1,3,At risk customers,3
+22979.0,115,29,13.32,3,8,3,2,2,1,2,Family budget customers,7
+33279.0,16,29,11.55,1,3,0,0,3,0,3,At risk customers,3
+46423.0,92,6,12.28,3,7,2,0,4,2,3,At risk customers,6
+30368.0,52,97,12.15,2,8,2,0,3,1,3,At risk customers,5
+63684.0,1464,61,13.1,3,5,8,4,8,1,0,High value loyal customers,20
+41638.0,441,68,12.88,4,8,5,5,3,1,0,High value loyal customers,13
+68805.0,283,73,12.29,1,2,3,1,7,1,1,Deal driven customers,11
+65814.0,747,90,11.83,3,5,8,2,10,1,0,High value loyal customers,20
+71964.0,1870,81,12.62,1,3,5,6,5,0,1,Deal driven customers,16
+39146.0,165,1,12.88,3,8,4,0,4,1,2,Family budget customers,8
+96876.0,1941,79,12.4,1,2,7,7,9,0,1,Deal driven customers,23
+34445.0,839,92,12.93,6,9,11,2,8,0,0,High value loyal customers,21
+68281.0,1655,31,13.4,1,5,2,9,13,0,1,Deal driven customers,24
+37284.0,23,46,12.76,1,6,0,0,3,2,3,At risk customers,3
+36790.0,66,14,12.84,1,9,2,1,2,0,2,Family budget customers,5
+27943.0,37,89,12.71,3,8,2,0,3,2,2,Family budget customers,5
+22263.0,21,31,11.76,2,6,1,0,3,2,3,At risk customers,4
+30261.0,22,75,13.27,1,8,0,0,3,3,2,Family budget customers,3
+28587.0,78,42,11.88,3,6,2,0,4,1,3,At risk customers,6
+43815.0,79,53,12.74,1,6,2,0,3,1,2,Family budget customers,5
+48195.0,265,53,11.94,6,6,4,2,5,2,0,High value loyal customers,11
+77027.0,1175,23,11.9,2,4,8,3,6,1,1,Deal driven customers,17
+71322.0,1305,57,12.87,2,4,8,5,13,1,0,High value loyal customers,26
+32765.0,46,49,11.85,2,5,2,0,4,1,3,At risk customers,6
+29672.0,25,6,12.81,1,6,0,0,3,2,2,Family budget customers,3
+23272.0,46,29,12.21,1,4,1,0,3,0,2,Family budget customers,4
+49912.0,874,5,13.32,4,8,10,5,7,1,0,High value loyal customers,22
+7500.0,100,98,13.42,4,9,2,1,3,1,2,Family budget customers,6
+68117.0,930,80,12.81,2,6,11,8,4,1,0,High value loyal customers,23
+67225.0,868,4,12.1,3,5,7,2,11,1,0,High value loyal customers,20
+17649.0,45,70,12.13,3,8,3,0,3,1,2,Family budget customers,6
+55914.0,1260,32,12.67,4,7,11,6,8,1,0,High value loyal customers,25
+40059.0,414,82,12.26,1,8,6,2,3,1,0,High value loyal customers,11
+60905.0,392,27,12.07,2,2,3,3,7,1,1,Deal driven customers,13
+75330.0,1109,94,13.24,4,6,10,3,12,2,0,High value loyal customers,25
+60689.0,639,23,12.58,4,3,4,4,10,1,0,High value loyal customers,18
+38680.0,79,97,12.76,1,7,2,0,3,1,2,Family budget customers,5
+61416.0,1665,25,12.89,1,6,10,3,10,0,1,Deal driven customers,23
+49767.0,692,92,12.67,1,4,5,4,8,0,1,Deal driven customers,17
+83273.0,1392,98,13.27,10,7,4,6,9,3,0,High value loyal customers,19
+29009.0,44,19,12.09,2,6,2,0,3,1,3,At risk customers,5
+45057.0,50,80,12.08,1,5,2,0,3,1,3,At risk customers,5
+37150.0,467,80,13.3,8,7,4,3,6,1,0,High value loyal customers,13
+43020.0,223,79,12.08,3,6,4,1,4,1,3,At risk customers,9
+53154.0,158,50,11.56,1,4,3,1,4,1,3,At risk customers,8
+65308.0,1211,60,12.3,1,4,7,8,12,0,1,Deal driven customers,27
+76467.0,1575,44,13.37,2,6,2,5,5,1,0,High value loyal customers,12
+81044.0,1208,0,12.01,1,1,5,6,10,0,1,Deal driven customers,21
+32871.0,43,28,12.81,1,4,1,0,3,2,3,At risk customers,4
+55801.0,527,35,12.27,6,7,7,2,6,2,0,High value loyal customers,15
+76320.0,932,49,11.53,2,2,6,3,4,1,1,Deal driven customers,13
+36927.0,71,46,11.58,2,8,3,0,3,2,3,At risk customers,6
+48794.0,54,97,11.52,1,4,1,0,3,2,3,At risk customers,4
+23478.0,129,51,12.79,1,8,3,0,3,0,2,Family budget customers,6
+71128.0,1615,80,13.24,3,7,2,10,12,1,0,High value loyal customers,24
+70179.0,1034,10,12.45,3,5,7,3,13,1,0,High value loyal customers,23
+59462.0,1088,29,12.99,2,7,9,2,12,1,0,High value loyal customers,23
+52247.25135379061,721,52,12.62,7,3,4,10,4,2,0,High value loyal customers,18
+38361.0,137,74,12.01,3,7,3,1,3,1,3,At risk customers,7
+52247.25135379061,47,82,12.59,2,6,3,0,3,1,3,At risk customers,6
+70038.0,1244,54,12.18,1,2,4,4,8,0,1,Deal driven customers,16
+42554.0,41,93,12.97,2,4,2,0,3,2,3,At risk customers,5
+67445.0,1174,63,13.39,5,6,9,6,12,1,0,High value loyal customers,27
+67046.0,993,92,12.98,2,2,4,5,4,1,1,Deal driven customers,13
+42192.0,100,40,12.32,1,4,2,1,3,0,3,At risk customers,6
+77610.0,1680,70,13.17,2,7,4,7,4,1,0,High value loyal customers,15
+31761.0,98,96,11.74,2,5,3,0,4,1,3,At risk customers,7
+34350.0,48,81,12.2,1,7,1,0,3,1,3,At risk customers,4
+54591.0,519,63,12.41,3,5,6,2,8,1,0,High value loyal customers,16
+71866.0,715,85,12.02,1,3,6,3,10,1,1,Deal driven customers,19
+25293.0,37,51,12.29,1,8,1,1,2,1,2,Family budget customers,4
+42000.0,653,23,12.97,2,5,5,2,11,0,0,High value loyal customers,18
+69520.0,1455,95,12.48,1,5,9,6,5,0,1,Deal driven customers,20
+64713.0,602,11,11.9,2,4,5,5,7,1,1,Deal driven customers,17
+27889.0,26,42,12.49,1,6,1,1,2,1,2,Family budget customers,4
+22123.0,102,77,11.76,1,5,2,1,3,0,3,At risk customers,6
+52247.25135379061,97,82,12.83,4,8,2,1,3,2,3,At risk customers,6
+52247.25135379061,207,83,12.52,2,6,4,1,4,1,0,High value loyal customers,9
+27803.0,176,40,13.35,2,8,3,0,4,1,2,Family budget customers,7
+52247.25135379061,450,95,12.2,3,7,6,1,5,1,0,High value loyal customers,12
+51651.0,433,32,13.15,4,8,6,2,5,1,0,High value loyal customers,13
+68487.0,1366,48,12.96,1,4,9,7,13,0,1,Deal driven customers,29
+52247.25135379061,1564,75,12.17,1,1,5,5,11,0,1,Deal driven customers,21
+56796.0,1001,24,12.87,3,7,8,9,7,1,0,High value loyal customers,24
+87000.0,961,61,13.04,1,2,4,6,7,0,1,Deal driven customers,17
+79823.0,1518,6,11.75,1,2,6,9,7,1,1,Deal driven customers,22
+30828.0,56,16,12.24,2,3,1,1,4,1,3,At risk customers,6
+34109.0,22,39,12.15,1,4,0,0,3,1,3,At risk customers,3
+53367.0,400,2,12.33,7,7,5,1,8,2,0,High value loyal customers,14
+22390.0,26,49,12.19,1,7,1,0,2,0,2,Family budget customers,3
+71322.0,350,31,11.67,1,2,4,1,7,1,1,Deal driven customers,12
+79244.0,1216,58,13.03,1,1,4,10,7,0,1,Deal driven customers,21
+49912.0,874,5,13.32,4,8,10,5,7,1,0,High value loyal customers,22
+48699.0,40,90,12.61,1,5,1,0,3,2,3,At risk customers,4
+80144.0,1367,47,12.25,1,1,3,7,8,0,1,Deal driven customers,18
+54252.0,264,25,12.59,5,6,4,1,5,2,0,High value loyal customers,10
+81929.0,2053,60,13.25,2,6,4,4,10,1,0,High value loyal customers,18
+76068.0,1376,67,13.09,1,6,2,3,4,1,0,High value loyal customers,9
+53204.0,45,40,11.78,1,4,1,0,3,2,3,At risk customers,4
+67911.0,976,63,11.61,3,3,6,7,11,1,1,Deal driven customers,24
+14796.0,51,1,13.29,2,9,1,0,3,1,2,Family budget customers,4
+78128.0,1264,89,11.86,2,3,8,4,6,1,1,Deal driven customers,18
+14188.0,75,40,12.84,1,6,2,0,4,0,2,Family budget customers,6
+20425.0,57,5,13.17,2,7,2,0,3,1,2,Family budget customers,5
+58646.0,140,3,12.56,1,4,2,1,4,1,3,At risk customers,7
+72967.0,497,1,13.04,2,5,7,2,8,1,0,High value loyal customers,17
+48150.0,266,24,12.56,3,7,5,1,4,1,0,High value loyal customers,10
+82332.0,2006,89,13.29,1,2,5,3,12,0,1,Deal driven customers,20
+58275.0,615,48,12.58,6,7,8,2,7,2,0,High value loyal customers,17
+44953.0,1021,31,13.03,1,6,7,3,13,0,1,Deal driven customers,23
+34587.0,22,68,11.63,2,4,1,0,3,2,3,At risk customers,4
+43018.0,133,46,12.16,1,5,2,2,2,1,3,At risk customers,6
+45736.0,437,92,12.44,5,7,7,1,6,1,0,High value loyal customers,14
+66476.0,1013,80,12.07,2,4,6,8,10,1,1,Deal driven customers,24
+27733.0,57,16,12.35,2,7,2,0,3,1,2,Family budget customers,5
+69805.0,1038,50,11.94,2,2,6,8,11,1,1,Deal driven customers,25
+72217.0,1573,93,12.73,1,2,3,10,8,0,1,Deal driven customers,21
+25818.0,28,51,13.2,1,7,0,1,2,1,2,Family budget customers,3
+37509.0,123,24,13.3,2,7,3,0,4,1,2,Family budget customers,7
+25176.0,13,79,12.39,1,7,1,0,2,2,3,At risk customers,3
+43586.0,132,26,13.34,3,8,3,0,4,1,2,Family budget customers,7
+53230.0,732,86,13.41,4,5,5,2,12,1,0,High value loyal customers,19
+50116.0,66,68,11.53,2,5,1,0,4,2,3,At risk customers,5
+84906.0,1631,98,12.24,1,2,5,6,12,0,1,Deal driven customers,23
+61286.0,608,34,12.41,2,5,7,1,8,1,0,High value loyal customers,16
+82333.0,1822,60,12.76,1,2,4,3,10,0,1,Deal driven customers,17
+65220.0,1282,3,13.33,4,6,8,4,7,0,0,High value loyal customers,19
+33590.0,8,65,12.16,1,7,1,0,2,3,3,At risk customers,3
+30992.0,43,83,12.69,1,7,1,0,3,1,2,Family budget customers,4
+72309.0,1931,64,12.81,1,3,5,6,8,0,1,Deal driven customers,19
+156924.0,8,85,12.34,0,0,0,0,0,0,3,At risk customers,0
+16005.0,103,69,13.38,3,8,2,1,2,1,2,Family budget customers,5
+65487.0,1169,48,11.97,3,2,3,5,6,0,1,Deal driven customers,14
+58692.0,395,21,11.74,1,7,8,2,4,1,0,High value loyal customers,14
+40590.0,258,30,12.25,5,6,3,4,3,2,0,High value loyal customers,10
+20587.0,25,39,11.64,1,7,1,1,2,1,3,At risk customers,4
+62637.0,185,76,11.84,1,2,2,2,5,1,1,Deal driven customers,9
+29435.0,180,11,13.4,4,9,3,2,2,2,2,Family budget customers,7
+19346.0,22,26,11.92,1,8,1,0,3,1,2,Family budget customers,4
+35788.0,44,34,11.94,2,6,2,0,3,2,3,At risk customers,5
+36997.0,94,72,12.91,5,5,2,1,4,2,3,At risk customers,7
+23539.0,81,13,11.84,1,6,2,0,4,0,2,Family budget customers,6
+65333.0,798,58,11.95,7,6,9,4,8,1,0,High value loyal customers,21
+78499.0,1334,12,12.1,1,4,11,3,4,0,1,Deal driven customers,18
+29732.0,38,23,11.77,1,9,2,0,2,1,3,At risk customers,4
+41275.0,61,33,11.77,4,5,3,1,3,3,3,At risk customers,7
+63516.0,300,30,12.49,4,5,4,1,7,2,0,High value loyal customers,12
+42769.0,88,15,12.22,2,4,1,1,4,1,3,At risk customers,6
+49572.0,54,25,12.04,2,7,2,0,3,2,3,At risk customers,5
+69209.0,1782,4,13.29,2,4,5,3,6,0,1,Deal driven customers,14
+17148.0,68,80,11.92,4,8,3,1,3,1,2,Family budget customers,7
+40590.0,258,30,12.25,5,6,3,4,3,2,0,High value loyal customers,10
+30560.0,31,6,12.51,1,7,1,0,3,1,2,Family budget customers,4
+32146.0,66,16,11.64,2,6,2,0,4,1,3,At risk customers,6
+41713.0,174,57,11.67,5,6,3,1,4,2,3,At risk customers,8
+34176.0,28,9,11.94,1,3,1,0,3,1,3,At risk customers,4
+58482.0,731,59,11.81,2,6,7,4,9,1,0,High value loyal customers,20
+59686.0,274,78,11.93,1,4,4,1,6,1,3,At risk customers,11
+60896.0,1701,90,13.22,3,6,9,10,4,1,0,High value loyal customers,23
+62994.0,312,74,11.83,1,6,6,2,4,1,0,High value loyal customers,12
+47320.0,414,10,12.42,6,6,5,1,8,1,0,High value loyal customers,14
+74859.0,1565,63,12.58,1,3,6,5,11,0,1,Deal driven customers,22
+15253.0,29,13,12.18,2,7,1,0,3,1,2,Family budget customers,4
+31560.0,94,98,12.52,2,8,2,1,3,1,2,Family budget customers,6
+72071.0,1338,4,12.88,3,2,5,4,8,1,1,Deal driven customers,17
+91172.0,1092,94,12.76,0,3,4,3,7,0,1,Deal driven customers,14
+90000.0,1479,91,12.02,1,1,4,8,5,0,1,Deal driven customers,17
+41967.0,54,66,12.1,1,4,1,0,3,2,3,At risk customers,4
+69263.0,568,14,11.82,1,6,9,1,7,1,0,High value loyal customers,17
+65706.0,1199,77,12.51,1,7,11,3,12,0,1,Deal driven customers,26
+60934.0,873,41,11.95,2,4,6,4,11,1,1,Deal driven customers,21
+71965.0,1213,21,12.42,3,3,6,3,5,1,0,High value loyal customers,14
+65210.0,731,25,11.81,2,6,9,3,8,1,0,High value loyal customers,20
+79174.0,2043,2,12.97,1,2,5,6,7,0,1,Deal driven customers,18
+81380.0,1893,51,13.02,1,2,4,2,10,0,1,Deal driven customers,16
+48432.0,424,3,13.2,5,8,7,1,6,1,0,High value loyal customers,14
+52914.0,575,32,12.98,2,7,7,3,3,1,0,High value loyal customers,13
+38946.0,257,84,12.19,2,5,3,1,6,1,3,At risk customers,10
+26067.0,56,49,12.16,3,8,3,0,3,1,2,Family budget customers,6
+44325.0,542,69,12.82,4,8,8,2,7,1,0,High value loyal customers,17
+42523.0,125,96,11.69,1,2,1,1,4,0,3,At risk customers,6
+26487.0,69,23,12.62,3,5,2,1,3,1,2,Family budget customers,6
+53233.0,40,18,11.79,1,4,1,0,3,1,3,At risk customers,4
+67716.0,1016,8,12.97,4,5,7,4,13,1,0,High value loyal customers,24
+76234.0,907,21,11.9,1,3,8,3,11,1,1,Deal driven customers,22
+84117.0,1566,60,11.64,1,2,7,10,6,0,1,Deal driven customers,23
+65487.0,1169,48,11.97,3,2,3,5,6,0,1,Deal driven customers,14
+25224.0,46,36,11.79,2,3,1,1,3,1,3,At risk customers,5
+89616.0,1644,36,12.85,1,2,7,5,12,0,1,Deal driven customers,24
+40851.0,59,63,12.86,1,7,1,1,2,2,3,At risk customers,4
+27469.0,17,2,13.41,1,6,0,0,3,0,2,Family budget customers,3
+82347.0,1853,38,13.15,1,3,7,7,10,0,1,Deal driven customers,24
+73803.0,1528,61,13.42,2,6,9,5,6,1,0,High value loyal customers,20
+8820.0,35,52,12.78,4,8,3,0,3,2,2,Family budget customers,6
+43322.0,141,25,11.7,1,7,3,0,4,0,3,At risk customers,7
+55593.0,546,63,12.36,2,6,6,6,3,1,0,High value loyal customers,15
+50501.0,500,10,12.54,7,6,5,4,4,2,0,High value loyal customers,13
+37085.0,61,65,11.52,4,8,3,0,3,2,3,At risk customers,6
+16185.0,106,71,12.41,2,8,2,2,2,1,2,Family budget customers,6
+57731.0,704,0,13.1,4,6,8,8,6,1,0,High value loyal customers,22
+48432.0,424,3,13.2,5,8,7,1,6,1,0,High value loyal customers,14
+73807.0,849,88,12.99,2,2,5,5,11,1,1,Deal driven customers,21
+18929.0,85,15,12.87,1,6,1,0,4,0,2,Family budget customers,5
+35893.0,199,80,13.21,6,8,3,1,5,2,0,High value loyal customers,9
+61014.0,1147,17,13.39,4,7,9,3,4,1,0,High value loyal customers,16
+32144.0,54,76,11.78,4,7,2,1,3,2,3,At risk customers,6
+14918.0,43,52,13.07,1,6,1,0,3,1,2,Family budget customers,4
+45146.0,53,28,12.46,2,4,1,1,2,2,3,At risk customers,4
+41769.0,521,31,12.88,6,8,8,1,7,1,0,High value loyal customers,16
+88325.0,1623,42,11.9,1,2,6,2,9,0,1,Deal driven customers,17
+38054.0,45,24,11.67,2,7,2,0,3,2,3,At risk customers,5
+80617.0,1435,42,13.22,1,2,4,6,8,0,1,Deal driven customers,18
+5305.0,32,12,12.42,0,13,1,0,0,1,2,Family budget customers,1
+36807.0,16,88,13.03,1,6,1,0,2,2,2,Family budget customers,3
+28427.0,52,67,12.78,2,8,2,0,3,1,2,Family budget customers,5
+82032.0,1234,54,11.74,0,1,4,6,7,0,1,Deal driven customers,17
+22775.0,15,40,12.53,1,8,1,0,2,1,2,Family budget customers,3
+40101.0,415,73,13.21,4,7,6,1,6,1,0,High value loyal customers,13
+58025.0,470,81,12.1,3,4,3,2,10,1,0,High value loyal customers,15
+75777.0,1438,12,12.49,1,1,3,6,11,0,1,Deal driven customers,20
+7500.0,53,7,12.65,4,7,3,2,2,1,2,Family budget customers,7
+33562.0,51,33,11.52,3,4,2,0,4,3,3,At risk customers,6
+57642.0,679,24,11.98,3,4,7,6,6,1,0,High value loyal customers,19
+58554.0,586,55,13.26,6,7,8,2,6,2,0,High value loyal customers,16
+63777.0,653,87,12.77,8,8,11,1,6,2,0,High value loyal customers,18
+57967.0,468,39,12.83,5,5,4,2,8,1,0,High value loyal customers,14
+52247.25135379061,1679,53,13.39,0,0,0,0,1,0,1,Deal driven customers,1
+24434.0,50,9,11.62,2,7,2,1,2,2,3,At risk customers,5
+11012.0,84,82,12.79,3,9,3,1,2,1,2,Family budget customers,6
+44802.0,1049,71,13.36,2,8,9,4,12,0,0,High value loyal customers,25
+26816.0,22,50,13.37,1,4,0,0,3,0,2,Family budget customers,3
+666666.0,62,23,12.58,4,6,3,1,3,1,0,High value loyal customers,7
+34421.0,30,81,12.5,1,7,1,0,2,1,2,Family budget customers,3
+61223.0,1341,46,12.55,2,5,9,3,4,1,0,High value loyal customers,16
+64014.0,444,56,11.56,7,7,8,2,5,3,0,High value loyal customers,15
+56981.0,1241,91,11.93,1,6,2,3,13,0,1,Deal driven customers,18
+69245.0,843,8,11.93,2,3,6,5,10,1,1,Deal driven customers,21
+52869.0,172,40,13.21,3,7,3,1,4,2,0,High value loyal customers,8
