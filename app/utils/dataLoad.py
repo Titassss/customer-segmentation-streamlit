@@ -2,16 +2,10 @@ import pandas as pd
 from joblib import load
 from pathlib import Path
 
-# Base directory = project root
 BASE_DIR = Path(__file__).resolve().parents[2]
-# Explanation:
-# utils/load_data.py -> parents[0]=utils
-# parents[1]=app
-# parents[2]=Customer_Segmentation (root)
 
 DATASET_DIR = BASE_DIR / "dataset"
 MODELS_DIR = BASE_DIR / "models"
-
 
 def load_data():
     df = pd.read_csv(DATASET_DIR / "Clustered_df.csv")
